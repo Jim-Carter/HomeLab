@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Eartha Kitt</title>
+  <runtime>10</runtime>
+  <genre>Christmas Jazz</genre>
+  <genre>Other</genre>
+  <musicbrainzartistid>02b4a39e-04c0-4eb7-a0eb-c919f3d14154</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Eartha Kitt/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Eartha Kitt/backdrop.jpg</fanart>
+  </art>
+</artist>

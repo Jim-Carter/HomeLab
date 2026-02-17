@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Four Freshmen</title>
+  <runtime>2</runtime>
+  <genre>Vocal</genre>
+  <musicbrainzartistid>53a61b1f-dd88-45e7-b5d8-3e84038aa81a</musicbrainzartistid>
+  <art>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Four Freshmen/backdrop.jpg</fanart>
+  </art>
+</artist>

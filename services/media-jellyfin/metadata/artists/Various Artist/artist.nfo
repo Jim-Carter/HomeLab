@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Various Artist</title>
+  <runtime>198</runtime>
+  <genre>Easy Listening</genre>
+  <musicbrainzartistid>89ad4ac3-39f7-470e-963a-56509c546377</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Various Artist/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Various Artist/backdrop.jpg</fanart>
+  </art>
+</artist>

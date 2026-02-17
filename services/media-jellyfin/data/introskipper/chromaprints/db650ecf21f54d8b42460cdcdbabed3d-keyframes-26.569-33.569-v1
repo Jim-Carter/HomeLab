@@ -1,0 +1,64 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7ba4a06be000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/media/TV Shows/Mr.Inbetween.2018.S01.03.1080p.WebRip.X264.Will1869/S03/Mr Inbetween - S03E05 - Before I Went to War.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S03E05 - Before I Went to War
+    date            : 2023
+    encoder         : DVDFab
+  Duration: 00:29:48.06, start: 0.000000, bitrate: 3256 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 2986 kb/s, 23.81 fps, 23.81 tbr, 23809 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x0]: Video: bmp, bgra, 640x360, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] config in time_base: 1/23809, frame_rate: 23809/1000
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   0 pts:  13419 pts_time:0.56361 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:4D54C59E plane_checksum:[C0871FD3 6329B1CE A604F3EE] mean:[24 128 127] stdev:[15.4 1.8 2.4]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S03E05 - Before I Went to War
+    date            : 2023
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.81 fps, 23.81 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   1 pts:  37419 pts_time:1.571633 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:E4E8B5B2 plane_checksum:[FB109D29 518C6F2B 9280A94F] mean:[39 122 136] stdev:[30.2 11.0 13.7]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   2 pts:  61419 pts_time:2.579655 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:06DEB191 plane_checksum:[8B700130 D552B9D6 3F3CF67C] mean:[40 122 136] stdev:[32.2 10.9 13.6]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   3 pts:  85419 pts_time:3.587677 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:C48C5069 plane_checksum:[968902EB DC56099B 500A43E3] mean:[35 123 134] stdev:[26.7 9.1 11.2]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   4 pts: 109419 pts_time:4.595699 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5ECD324D plane_checksum:[206796A3 550020E3 AE647AB8] mean:[38 122 136] stdev:[30.4 10.6 13.1]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   5 pts: 131419 pts_time:5.519719 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:A2E39464 plane_checksum:[52685DB4 34526E3A AF36C867] mean:[39 128 128] stdev:[58.7 11.2 12.9]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   6 pts: 136419 pts_time:5.729724 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:10CCD44E plane_checksum:[85484C35 11905F18 69CB2901] mean:[81 126 132] stdev:[46.6 6.2 7.2]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   7 pts: 160419 pts_time:6.737746 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:D62BF3D7 plane_checksum:[82E0C146 39C42C08 C8B00689] mean:[82 126 131] stdev:[48.3 7.0 7.2]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   8 pts: 179419 pts_time:7.535764 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FC2D6CA8 plane_checksum:[9C385D60 B24B9B97 C9E073A2] mean:[68 126 132] stdev:[42.5 5.9 7.3]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] n:   9 pts: 203419 pts_time:8.543786 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:0DBBFC25 plane_checksum:[01AF7085 4273E873 EE0CA31E] mean:[58 124 134] stdev:[29.9 4.3 6.8]
+[Parsed_showinfo_0 @ 0x7ba49aa0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x7ba4a0680680] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    8 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.76 bitrate=N/A speed=20.1x    

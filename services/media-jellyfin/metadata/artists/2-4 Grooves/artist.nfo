@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>2-4 Grooves</title>
+  <runtime>3</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>6b5f8f90-ee6f-4dd4-aba5-1dc685f42779</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/2-4 Grooves/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/2-4 Grooves/backdrop.jpg</fanart>
+  </art>
+</artist>

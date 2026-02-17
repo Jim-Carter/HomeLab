@@ -1,0 +1,602 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/A Thousand Blows/Season 2/A Thousand Blows - S02E05 - Episode 5 WEBDL-2160p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:44:49.06, start: 0.000000, bitrate: 16976 kb/s
+  Chapters:
+    Chapter #0:0: start 1.001000, end 46.839000
+      Metadata:
+        title           : Recap
+    Chapter #0:1: start 46.839000, end 144.228000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 144.228000, end 202.327000
+      Metadata:
+        title           : Intro
+    Chapter #0:3: start 202.327000, end 2628.003000
+      Metadata:
+        title           : Scene 2
+    Chapter #0:4: start 2628.003000, end 2689.062000
+      Metadata:
+        title           : Credits
+  Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(pc), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 16204378
+        DURATION        : 00:44:49.062000000
+        NUMBER_OF_FRAMES: 64473
+        NUMBER_OF_BYTES : 5446822347
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 5, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 0, compression: 0
+  Stream #0:1(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default) (original)
+      Metadata:
+        BPS             : 768000
+        DURATION        : 00:44:49.024000000
+        NUMBER_OF_FRAMES: 84032
+        NUMBER_OF_BYTES : 258146304
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : British
+        BPS             : 53
+        DURATION        : 00:43:30.775000000
+        NUMBER_OF_FRAMES: 500
+        NUMBER_OF_BYTES : 17456
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : British | SDH
+        BPS             : 57
+        DURATION        : 00:43:30.775000000
+        NUMBER_OF_FRAMES: 542
+        NUMBER_OF_BYTES : 18834
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(cze): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 484
+        NUMBER_OF_BYTES : 15946
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(dan): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 48
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 390
+        NUMBER_OF_BYTES : 16311
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(ger): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 52
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 502
+        NUMBER_OF_BYTES : 17639
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(gre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 79
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 497
+        NUMBER_OF_BYTES : 26603
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Latin American
+        BPS             : 47
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 496
+        NUMBER_OF_BYTES : 15945
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 490
+        NUMBER_OF_BYTES : 15889
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fin): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 46
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 468
+        NUMBER_OF_BYTES : 15634
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 48
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 494
+        NUMBER_OF_BYTES : 16195
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(hun): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 496
+        NUMBER_OF_BYTES : 15897
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(ita): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 501
+        NUMBER_OF_BYTES : 16055
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(dut): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 43
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 380
+        NUMBER_OF_BYTES : 14447
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(nor): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 465
+        NUMBER_OF_BYTES : 15855
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(pol): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 45
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 500
+        NUMBER_OF_BYTES : 15284
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Brazilian
+        BPS             : 48
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 500
+        NUMBER_OF_BYTES : 16082
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 49
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 508
+        NUMBER_OF_BYTES : 16730
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(rum): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 45
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 466
+        NUMBER_OF_BYTES : 15342
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(slo): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 504
+        NUMBER_OF_BYTES : 15967
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(swe): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 48
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 481
+        NUMBER_OF_BYTES : 16189
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(tur): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 50
+        DURATION        : 00:44:40.011000000
+        NUMBER_OF_FRAMES: 505
+        NUMBER_OF_BYTES : 16900
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[Parsed_showinfo_0 @ 0x7788e200a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7788e200a0c0] config out time_base: 0/0, frame_rate: 0/0
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[Parsed_showinfo_0 @ 0x7788e200a0c0] n:   0 pts:   2956 pts_time:2.956   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:F3F379B1 plane_checksum:[0F2F0B17 90CA9677 A104D814] mean:[38 504 507] stdev:[46.7 3.4 3.3]
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Dolby Vision RPU Data: (301 bytes)
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Dolby Vision Metadata:     rpu_type=2; rpu_format=18; vdr_rpu_profile=0; vdr_rpu_level=0; chroma_resampling_explicit_filter_flag=0; coef_data_type=0; coef_log2_denom=23; vdr_rpu_normalized_idc=1; bl_video_full_range_flag=1; bl_bit_depth=10; el_bit_depth=10; vdr_bit_depth=12; spatial_resampling_filter_flag=0; el_spatial_resampling_filter_flag=0; disable_residual_flag=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]     data mapping: vdr_rpu_id=0; mapping_color_space=0; mapping_chroma_format_idc=0; nlq_method_idc=-1; num_x_partitions=1; num_y_partitions=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]       channel 0: pivots={ 0 21 71 199 400 656 912 990 1021 }; mapping_idc={ 0 0 0 0 0 0 0 0 }; poly_order={ 2 2 2 2 2 2 2 2 }; poly_coef={ {6307, 18235310, -256135344} {89153, 9634206, -23611898} {161331, 7439826, -6336941} {294251, 5985037, -2290983} {456966, 5106875, -1096639} {616922, 4581259, -663530} {3511265, -1812673, 2868648} {16042692, -28082162, 16635393} }; mmr_order={ 0 0 0 0 0 0 0 0 }; mmr_constant={ 0 0 0 0 0 0 0 0 }; mmr_coef={ {} {} {} {} {} {} {} {} }; nlq_offset=0; vdr_in_max=0;       channel 1: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-318415, 9258780, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;       channel 2: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-346445, 9225752, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;     color metadata: dm_metadata_id=0; scene_refresh_flag=0; ycc_to_rgb_matrix={ 1.000000 0.097534 0.205200 1.000000 -0.113892 0.133179 1.000000 0.032593 -0.676880 }; ycc_to_rgb_offset={ 0.000000 0.500000 0.500000 }; rgb_to_lms_matrix={ 1.042542 -0.021301 -0.021301 -0.021301 1.042542 -0.021301 -0.021301 -0.021301 1.042542 }; signal_eotf=65535; signal_eotf_param0=0; signal_eotf_param1=0; signal_eotf_param2=0; signal_bit_depth=12; signal_color_space=2; signal_chroma_format=0; signal_full_range_flag=1; source_min_pq=7; source_max_pq=3079; source_diagonal=42; 
+[Parsed_showinfo_0 @ 0x7788e200a0c0] color_range:pc color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Scene 2
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p10le(pc, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        BPS             : 16204378
+        DURATION        : 00:44:49.062000000
+        NUMBER_OF_FRAMES: 64473
+        NUMBER_OF_BYTES : 5446822347
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:03.00 bitrate=N/A speed=   6x    [hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[Parsed_showinfo_0 @ 0x7788e200a0c0] n:   1 pts:   5000 pts_time:5       duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:21483231 plane_checksum:[9897A251 9E5C4217 CC0B4DBA] mean:[150 487 493] stdev:[128.5 5.8 13.1]
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[Parsed_showinfo_0 @ 0x7788e200a0c0] Dolby Vision RPU Data: (301 bytes)
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Dolby Vision Metadata:     rpu_type=2; rpu_format=18; vdr_rpu_profile=0; vdr_rpu_level=0; chroma_resampling_explicit_filter_flag=0; coef_data_type=0; coef_log2_denom=23; vdr_rpu_normalized_idc=1; bl_video_full_range_flag=1; bl_bit_depth=10; el_bit_depth=10; vdr_bit_depth=12; spatial_resampling_filter_flag=0; el_spatial_resampling_filter_flag=0; disable_residual_flag=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]     data mapping: vdr_rpu_id=0; mapping_color_space=0; mapping_chroma_format_idc=0; nlq_method_idc=-1; num_x_partitions=1; num_y_partitions=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]       channel 0: pivots={ 0 22 76 242 498 744 949 1020 1021 }; mapping_idc={ 0 0 0 0 0 0 0 0 }; poly_order={ 2 2 2 2 2 2 2 1 }; poly_coef={ {6191, 18707650, -263151104} {107305, 9068059, -17469386} {189200, 7025841, -3896282} {297868, 6120892, -1931256} {828441, 3907678, 398026} {-207465, 6887901, -1748393} {15228194, -26097168, 15879400} {-927233, 5941760, 16635393} }; mmr_order={ 0 0 0 0 0 0 0 0 }; mmr_constant={ 0 0 0 0 0 0 0 0 }; mmr_coef={ {} {} {} {} {} {} {} {} }; nlq_offset=0; vdr_in_max=0;       channel 1: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-673889, 10124513, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;       channel 2: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-627444, 10061799, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;     color metadata: dm_metadata_id=0; scene_refresh_flag=1; ycc_to_rgb_matrix={ 1.000000 0.097534 0.205200 1.000000 -0.113892 0.133179 1.000000 0.032593 -0.676880 }; ycc_to_rgb_offset={ 0.000000 0.500000 0.500000 }; rgb_to_lms_matrix={ 1.042542 -0.021301 -0.021301 -0.021301 1.042542 -0.021301 -0.021301 -0.021301 1.042542 }; signal_eotf=65535; signal_eotf_param0=0; signal_eotf_param1=0; signal_eotf_param2=0; signal_bit_depth=12; signal_color_space=2; signal_chroma_format=0; signal_full_range_flag=1; source_min_pq=7; source_max_pq=3079; source_diagonal=42; 
+[Parsed_showinfo_0 @ 0x7788e200a0c0] color_range:pc color_space:unknown color_primaries:unknown color_trc:unknown
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d77800] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78280] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x7788e5d78600] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[Parsed_showinfo_0 @ 0x7788e200a0c0] n:   2 pts:   9004 pts_time:9.004   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:1EFAAF49 plane_checksum:[5868AEF6 B2046624 00109A20] mean:[227 491 505] stdev:[181.9 6.7 13.2]
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Dolby Vision RPU Data: (305 bytes)
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Dolby Vision Metadata:     rpu_type=2; rpu_format=18; vdr_rpu_profile=0; vdr_rpu_level=0; chroma_resampling_explicit_filter_flag=0; coef_data_type=0; coef_log2_denom=23; vdr_rpu_normalized_idc=1; bl_video_full_range_flag=1; bl_bit_depth=10; el_bit_depth=10; vdr_bit_depth=12; spatial_resampling_filter_flag=0; el_spatial_resampling_filter_flag=0; disable_residual_flag=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]     data mapping: vdr_rpu_id=0; mapping_color_space=0; mapping_chroma_format_idc=0; nlq_method_idc=-1; num_x_partitions=1; num_y_partitions=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]       channel 0: pivots={ 0 23 81 253 479 726 947 1010 1021 }; mapping_idc={ 0 0 0 0 0 0 0 0 }; poly_order={ 2 2 2 2 2 2 2 2 }; poly_coef={ {6191, 18141624, -246198656} {106586, 8843605, -15548349} {182879, 7023984, -3906012} {320987, 5944098, -1714732} {486418, 4976622, -395940} {-41080, 6682327, -1756693} {8748892, -12454861, 8664268} {28881728, -53923304, 30016640} }; mmr_order={ 0 0 0 0 0 0 0 0 }; mmr_constant={ 0 0 0 0 0 0 0 0 }; mmr_coef={ {} {} {} {} {} {} {} {} }; nlq_offset=0; vdr_in_max=0;       channel 1: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-646419, 10032293, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;       channel 2: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-665297, 10010017, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;     color metadata: dm_metadata_id=0; scene_refresh_flag=0; ycc_to_rgb_matrix={ 1.000000 0.097534 0.205200 1.000000 -0.113892 0.133179 1.000000 0.032593 -0.676880 }; ycc_to_rgb_offset={ 0.000000 0.500000 0.500000 }; rgb_to_lms_matrix={ 1.042542 -0.021301 -0.021301 -0.021301 1.042542 -0.021301 -0.021301 -0.021301 1.042542 }; signal_eotf=65535; signal_eotf_param0=0; signal_eotf_param1=0; signal_eotf_param2=0; signal_bit_depth=12; signal_color_space=2; signal_chroma_format=0; signal_full_range_flag=1; source_min_pq=7; source_max_pq=3079; source_diagonal=42; 
+[Parsed_showinfo_0 @ 0x7788e200a0c0] color_range:pc color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7788e200a0c0] n:   3 pts:  11924 pts_time:11.924  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:606BDE63 plane_checksum:[E48DA2C5 59468EEE F55DACA1] mean:[126 491 487] stdev:[111.0 5.1 12.6]
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Dolby Vision RPU Data: (317 bytes)
+[Parsed_showinfo_0 @ 0x7788e200a0c0]   side data - Dolby Vision Metadata:     rpu_type=2; rpu_format=18; vdr_rpu_profile=0; vdr_rpu_level=0; chroma_resampling_explicit_filter_flag=0; coef_data_type=0; coef_log2_denom=23; vdr_rpu_normalized_idc=1; bl_video_full_range_flag=1; bl_bit_depth=10; el_bit_depth=10; vdr_bit_depth=12; spatial_resampling_filter_flag=0; el_spatial_resampling_filter_flag=0; disable_residual_flag=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]     data mapping: vdr_rpu_id=0; mapping_color_space=0; mapping_chroma_format_idc=0; nlq_method_idc=-1; num_x_partitions=1; num_y_partitions=1
+[Parsed_showinfo_0 @ 0x7788e200a0c0]       channel 0: pivots={ 0 22 84 185 309 552 808 983 1021 }; mapping_idc={ 0 0 0 0 0 0 0 0 }; poly_order={ 2 2 2 2 2 2 2 2 }; poly_coef={ {1011, 16741033, -226788352} {88379, 8200383, -9597931} {137175, 7081389, -2982120} {125819, 6652151, -208101} {-18061, 7895655, -2769832} {677164, 5317358, -367682} {921040, 4913252, -248178} {19944738, -34922940, 20608340} }; mmr_order={ 0 0 0 0 0 0 0 0 }; mmr_constant={ 0 0 0 0 0 0 0 0 }; mmr_coef={ {} {} {} {} {} {} {} {} }; nlq_offset=0; vdr_in_max=0;       channel 1: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-1292800, 11376485, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;       channel 2: pivots={ 0 1023 }; mapping_idc={ 0 }; poly_order={ 1 }; poly_coef={ {-1123985, 11371553, 0} }; mmr_order={ 0 }; mmr_constant={ 0 }; mmr_coef={ {} }; nlq_offset=0; vdr_in_max=0;     color metadata: dm_metadata_id=0; scene_refresh_flag=1; ycc_to_rgb_matrix={ 1.000000 0.097534 0.205200 1.000000 -0.113892 0.133179 1.000000 0.032593 -0.676880 }; ycc_to_rgb_offset={ 0.000000 0.500000 0.500000 }; rgb_to_lms_matrix={ 1.042542 -0.021301 -0.021301 -0.021301 1.042542 -0.021301 -0.021301 -0.021301 1.042542 }; signal_eotf=65535; signal_eotf_param0=0; signal_eotf_param1=0; signal_eotf_param2=0; signal_bit_depth=12; signal_color_space=2; signal_chroma_format=0; signal_full_range_flag=1; source_min_pq=7; source_max_pq=3079; source_diagonal=42; 
+[Parsed_showinfo_0 @ 0x7788e200a0c0] color_range:pc color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x7788e5d5c300] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.04 bitrate=N/A speed=5.11x    

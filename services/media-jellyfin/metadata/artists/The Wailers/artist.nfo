@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Wailers</title>
+  <runtime>3</runtime>
+  <genre>Reggae</genre>
+  <musicbrainzartistid>c9e99d40-4a2c-4ca7-ac5b-e842264ee271</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Wailers/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Wailers/backdrop.jpg</fanart>
+  </art>
+</artist>

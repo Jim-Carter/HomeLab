@@ -1,0 +1,254 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/A Thousand Blows/Season 2/A Thousand Blows - S02E01 - Episode 1 WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:46:23.71, start: 0.000000, bitrate: 7161 kb/s
+  Chapters:
+    Chapter #0:0: start 9.718000, end 44.253000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 44.253000, end 2727.603000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 2727.603000, end 2783.712000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6132991
+        DURATION        : 00:46:23.656000000
+        NUMBER_OF_FRAMES: 66741
+        NUMBER_OF_BYTES : 2134017364
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(tur): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : Turkish
+        BPS             : 256000
+        DURATION        : 00:46:23.712000000
+        NUMBER_OF_FRAMES: 86991
+        NUMBER_OF_BYTES : 89078784
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s
+      Metadata:
+        title           : English
+        BPS             : 768000
+        DURATION        : 00:46:23.680000000
+        NUMBER_OF_FRAMES: 86990
+        NUMBER_OF_BYTES : 267233280
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(tur): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : Turkish (Forced)
+        BPS             : 3
+        DURATION        : 00:13:09.163000000
+        NUMBER_OF_FRAMES: 12
+        NUMBER_OF_BYTES : 362
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(tur): Subtitle: subrip (srt)
+      Metadata:
+        title           : Turkish
+        BPS             : 43
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 471
+        NUMBER_OF_BYTES : 15117
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(cze): Subtitle: subrip (srt)
+      Metadata:
+        title           : Czech
+        BPS             : 41
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 464
+        NUMBER_OF_BYTES : 14396
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(dan): Subtitle: subrip (srt)
+      Metadata:
+        title           : Danish
+        BPS             : 40
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 343
+        NUMBER_OF_BYTES : 14184
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : German
+        BPS             : 45
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 467
+        NUMBER_OF_BYTES : 15788
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(gre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Greek
+        BPS             : 67
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 461
+        NUMBER_OF_BYTES : 23464
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(eng): Subtitle: subrip (srt) (hearing impaired)
+      Metadata:
+        title           : English (United Kingdom) (SDH)
+        BPS             : 57
+        DURATION        : 00:43:39.159000000
+        NUMBER_OF_FRAMES: 576
+        NUMBER_OF_BYTES : 18701
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (Latin America)
+        BPS             : 42
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 469
+        NUMBER_OF_BYTES : 14786
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (Spain)
+        BPS             : 41
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 466
+        NUMBER_OF_BYTES : 14425
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(fin): Subtitle: subrip (srt)
+      Metadata:
+        title           : Finnish
+        BPS             : 40
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 439
+        NUMBER_OF_BYTES : 14065
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (France)
+        BPS             : 41
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 479
+        NUMBER_OF_BYTES : 14543
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(hun): Subtitle: subrip (srt)
+      Metadata:
+        title           : Hungarian
+        BPS             : 42
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 470
+        NUMBER_OF_BYTES : 14873
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italian
+        BPS             : 41
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 481
+        NUMBER_OF_BYTES : 14440
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(dut): Subtitle: subrip (srt)
+      Metadata:
+        title           : Dutch
+        BPS             : 39
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 375
+        NUMBER_OF_BYTES : 13791
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(nor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Norwegian
+        BPS             : 40
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 430
+        NUMBER_OF_BYTES : 14159
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polish
+        BPS             : 39
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 484
+        NUMBER_OF_BYTES : 13639
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (Brazil)
+        BPS             : 41
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 481
+        NUMBER_OF_BYTES : 14520
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (Portugal)
+        BPS             : 43
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 488
+        NUMBER_OF_BYTES : 15117
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(rum): Subtitle: subrip (srt)
+      Metadata:
+        title           : Romanian
+        BPS             : 40
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 414
+        NUMBER_OF_BYTES : 13915
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(slo): Subtitle: subrip (srt)
+      Metadata:
+        title           : Slovak
+        BPS             : 40
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 487
+        NUMBER_OF_BYTES : 14220
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(swe): Subtitle: subrip (srt)
+      Metadata:
+        title           : Swedish
+        BPS             : 42
+        DURATION        : 00:46:16.106000000
+        NUMBER_OF_FRAMES: 441
+        NUMBER_OF_BYTES : 14766
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Scene 1
+  Stream #0:0(tur): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        title           : Turkish
+        BPS             : 256000
+        DURATION        : 00:46:23.712000000
+        NUMBER_OF_FRAMES: 86991
+        NUMBER_OF_BYTES : 89078784
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:00.49 bitrate=N/A speed=0.327x    size=N/A time=00:00:01.32 bitrate=N/A speed=0.661x    size=N/A time=00:00:02.12 bitrate=N/A speed=0.849x    size=N/A time=00:00:02.60 bitrate=N/A speed=0.868x    size=N/A time=00:00:03.62 bitrate=N/A speed=1.04x    size=N/A time=00:00:04.65 bitrate=N/A speed=1.16x    size=N/A time=00:00:04.65 bitrate=N/A speed=1.03x    size=N/A time=00:00:05.70 bitrate=N/A speed=1.14x    size=N/A time=00:00:05.96 bitrate=N/A speed=1.08x    size=N/A time=00:00:05.96 bitrate=N/A speed=0.994x    size=N/A time=00:00:05.96 bitrate=N/A speed=0.917x    size=N/A time=00:00:06.47 bitrate=N/A speed=0.925x    size=N/A time=00:00:06.47 bitrate=N/A speed=0.863x    size=N/A time=00:00:06.47 bitrate=N/A speed=0.809x    size=N/A time=00:00:06.47 bitrate=N/A speed=0.762x    size=N/A time=00:00:06.47 bitrate=N/A speed=0.719x    size=N/A time=00:00:06.47 bitrate=N/A speed=0.681x    size=N/A time=00:00:06.89 bitrate=N/A speed=0.689x    size=N/A time=00:00:06.89 bitrate=N/A speed=0.656x    size=N/A time=00:00:06.89 bitrate=N/A speed=0.626x    [out#0/null @ 0x74b3a57d6480] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=0.544x    

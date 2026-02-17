@@ -1,0 +1,149 @@
+[matroska,webm @ 0x74c3de0be000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x74c3de0be000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/You/Season 3/You - S03E09 - Red Flag WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E09.Red.Flag.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T09:07:08.000000Z
+  Duration: 00:48:37.66, start: 0.000000, bitrate: 2820 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2508446
+        BPS-eng         : 2508446
+        DURATION        : 00:48:35.913000000
+        DURATION-eng    : 00:48:35.913000000
+        NUMBER_OF_FRAMES: 69912
+        NUMBER_OF_FRAMES-eng: 69912
+        NUMBER_OF_BYTES : 914301529
+        NUMBER_OF_BYTES-eng: 914301529
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:07:08
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:07:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:48:37.664000000
+        DURATION-eng    : 00:48:37.664000000
+        NUMBER_OF_FRAMES: 91177
+        NUMBER_OF_FRAMES-eng: 91177
+        NUMBER_OF_BYTES : 93365248
+        NUMBER_OF_BYTES-eng: 93365248
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:07:08
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:07:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 28852
+        BPS-eng         : 28852
+        DURATION        : 00:45:16.296000000
+        DURATION-eng    : 00:45:16.296000000
+        NUMBER_OF_FRAMES: 1184
+        NUMBER_OF_FRAMES-eng: 1184
+        NUMBER_OF_BYTES : 9796444
+        NUMBER_OF_BYTES-eng: 9796444
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:07:08
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:07:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 29866
+        BPS-eng         : 29866
+        DURATION        : 00:45:42.322000000
+        DURATION-eng    : 00:45:42.322000000
+        NUMBER_OF_FRAMES: 1242
+        NUMBER_OF_FRAMES-eng: 1242
+        NUMBER_OF_BYTES : 10238084
+        NUMBER_OF_BYTES-eng: 10238084
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:07:08
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:07:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:0 pblack:99 pts:38 t:0.038000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E09.Red.Flag.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2508446
+        BPS-eng         : 2508446
+        DURATION        : 00:48:35.913000000
+        DURATION-eng    : 00:48:35.913000000
+        NUMBER_OF_FRAMES: 69912
+        NUMBER_OF_FRAMES-eng: 69912
+        NUMBER_OF_BYTES : 914301529
+        NUMBER_OF_BYTES-eng: 914301529
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:07:08
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:07:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:1 pblack:99 pts:79 t:0.079000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:2 pblack:99 pts:121 t:0.121000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:3 pblack:99 pts:163 t:0.163000 type:I last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:4 pblack:99 pts:205 t:0.205000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:5 pblack:99 pts:246 t:0.246000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:6 pblack:99 pts:288 t:0.288000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:7 pblack:99 pts:330 t:0.330000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:8 pblack:99 pts:371 t:0.371000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:9 pblack:99 pts:413 t:0.413000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:10 pblack:99 pts:455 t:0.455000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:11 pblack:99 pts:497 t:0.497000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:12 pblack:99 pts:538 t:0.538000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:13 pblack:99 pts:580 t:0.580000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:14 pblack:99 pts:622 t:0.622000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:15 pblack:99 pts:663 t:0.663000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:16 pblack:99 pts:705 t:0.705000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:17 pblack:99 pts:747 t:0.747000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:18 pblack:99 pts:789 t:0.789000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:19 pblack:99 pts:830 t:0.830000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:20 pblack:99 pts:872 t:0.872000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:21 pblack:99 pts:914 t:0.914000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:22 pblack:99 pts:955 t:0.955000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:23 pblack:99 pts:997 t:0.997000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:24 pblack:99 pts:1039 t:1.039000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:25 pblack:99 pts:1080 t:1.080000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:26 pblack:99 pts:1122 t:1.122000 type:P last_keyframe:3
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:27 pblack:99 pts:1164 t:1.164000 type:I last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:28 pblack:99 pts:1206 t:1.206000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:29 pblack:98 pts:1247 t:1.247000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:30 pblack:98 pts:1289 t:1.289000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:31 pblack:98 pts:1331 t:1.331000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:32 pblack:98 pts:1372 t:1.372000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:33 pblack:98 pts:1414 t:1.414000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:34 pblack:98 pts:1456 t:1.456000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:35 pblack:98 pts:1498 t:1.498000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:36 pblack:98 pts:1539 t:1.539000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:37 pblack:98 pts:1581 t:1.581000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:38 pblack:98 pts:1623 t:1.623000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:39 pblack:98 pts:1664 t:1.664000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:40 pblack:98 pts:1706 t:1.706000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:41 pblack:98 pts:1748 t:1.748000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:42 pblack:98 pts:1790 t:1.790000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:43 pblack:98 pts:1831 t:1.831000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:44 pblack:98 pts:1873 t:1.873000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:45 pblack:98 pts:1915 t:1.915000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:46 pblack:98 pts:1956 t:1.956000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:47 pblack:98 pts:1998 t:1.998000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x74c3d8e0c0c0] frame:48 pblack:98 pts:2040 t:2.040000 type:P last_keyframe:27
+[out#0/null @ 0x74c3de080800] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=5.04x    

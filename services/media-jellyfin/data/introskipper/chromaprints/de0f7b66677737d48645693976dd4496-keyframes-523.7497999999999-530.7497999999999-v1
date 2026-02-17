@@ -1,0 +1,58 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Tulsa King/Season 3/Tulsa King - S03E09 - Dead Weight WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:38:35.71, start: 0.000000, bitrate: 6139 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5497591
+        DURATION        : 00:38:35.689000000
+        NUMBER_OF_FRAMES: 55521
+        NUMBER_OF_BYTES : 1591338934
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:38:35.712000000
+        NUMBER_OF_FRAMES: 72366
+        NUMBER_OF_BYTES : 185256960
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 67
+        DURATION        : 00:38:05.116000000
+        NUMBER_OF_FRAMES: 664
+        NUMBER_OF_BYTES : 19221
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7885d100a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7885d100a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7885d100a0c0] n:   0 pts:    774 pts_time:0.774   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:3819E368 plane_checksum:[AC9ED985 1F7542E5 33BFC6EF] mean:[16 128 128] stdev:[7.9 1.2 0.1]
+[Parsed_showinfo_0 @ 0x7885d100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 5497591
+        DURATION        : 00:38:35.689000000
+        NUMBER_OF_FRAMES: 55521
+        NUMBER_OF_BYTES : 1591338934
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7885d100a0c0] n:   1 pts:   2776 pts_time:2.776   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:53DEDCD5 plane_checksum:[D72B548A FFA99317 C73FF525] mean:[18 128 128] stdev:[17.0 2.6 0.3]
+[Parsed_showinfo_0 @ 0x7885d100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7885d100a0c0] n:   2 pts:   4778 pts_time:4.778   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:33EC2573 plane_checksum:[BE63F66E B4DF6BFD B33FC2EA] mean:[16 128 128] stdev:[6.4 1.0 0.1]
+[Parsed_showinfo_0 @ 0x7885d100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7885d100a0c0] n:   3 pts:   6780 pts_time:6.78    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5FB424A4 plane_checksum:[ED59F5CD D8EB6B8A 13A3C32F] mean:[16 128 128] stdev:[6.4 1.0 0.1]
+[Parsed_showinfo_0 @ 0x7885d100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7885d100a0c0] n:   4 pts:   8782 pts_time:8.782   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:C0BF5E33 plane_checksum:[55848F85 D9EFB9BE 5BCE14E1] mean:[49 123 128] stdev:[32.8 8.2 3.6]
+[Parsed_showinfo_0 @ 0x7885d100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7885d6280500] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.84 bitrate=N/A speed=30.4x    

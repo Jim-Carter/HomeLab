@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Emery</title>
+  <runtime>12</runtime>
+  <genre>Punk</genre>
+  <musicbrainzartistid>6b22de04-fb48-44aa-bd02-c1427f635477</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Emery/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Emery/backdrop.jpg</fanart>
+  </art>
+</artist>

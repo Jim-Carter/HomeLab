@@ -1,0 +1,35 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Industry/Season 1/Industry - S01E02 - Quiet and Nice WEBRip-1080p.mkv':
+  Metadata:
+    creation_time   : 2024-08-26T13:42:39.000000Z
+    ENCODER         : Lavf61.1.100
+  Duration: 00:49:58.14, start: 0.000000, bitrate: 3328 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:49:58.121000000
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        DURATION        : 00:49:58.140000000
+  Stream #0:2(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : SDH
+        DURATION        : 00:49:50.798000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:49:58.121000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   26 fps=0.0 q=-0.0 size=N/A time=00:00:01.12 bitrate=N/A speed=2.24x    [Parsed_blackframe_0 @ 0x773b8920c0c0] frame:31 pblack:100 pts:1319 t:1.319000 type:I last_keyframe:8
+[Parsed_blackframe_0 @ 0x773b8920c0c0] frame:32 pblack:100 pts:1361 t:1.361000 type:B last_keyframe:8
+[Parsed_blackframe_0 @ 0x773b8920c0c0] frame:33 pblack:100 pts:1402 t:1.402000 type:B last_keyframe:8
+[Parsed_blackframe_0 @ 0x773b8920c0c0] frame:34 pblack:100 pts:1444 t:1.444000 type:B last_keyframe:8
+[Parsed_blackframe_0 @ 0x773b8920c0c0] frame:35 pblack:100 pts:1486 t:1.486000 type:B last_keyframe:8
+[Parsed_blackframe_0 @ 0x773b8920c0c0] frame:36 pblack:85 pts:1528 t:1.528000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x773b8920c0c0] frame:37 pblack:72 pts:1569 t:1.569000 type:B last_keyframe:8
+[Parsed_blackframe_0 @ 0x773b8920c0c0] frame:38 pblack:62 pts:1611 t:1.611000 type:B last_keyframe:8
+[out#0/null @ 0x773b8e680680] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.77x    

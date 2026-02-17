@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Alton Ellis</title>
+  <runtime>5</runtime>
+  <genre>Reggae</genre>
+  <genre>Rock Steady</genre>
+  <musicbrainzartistid>b04d9207-306c-42db-8b6a-c94d49b4b08a</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Alton Ellis/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Alton Ellis/backdrop.jpg</fanart>
+  </art>
+</artist>

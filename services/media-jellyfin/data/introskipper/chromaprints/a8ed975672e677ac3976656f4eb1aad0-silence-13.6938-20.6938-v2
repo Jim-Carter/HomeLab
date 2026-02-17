@@ -1,0 +1,102 @@
+[matroska,webm @ 0x72debb0be000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x72debb0be000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/You/Season 3/You - S03E10 - What is Love WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E10.What.is.Love.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T09:10:02.000000Z
+  Duration: 00:59:56.58, start: 0.000000, bitrate: 2862 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2544219
+        BPS-eng         : 2544219
+        DURATION        : 00:59:55.592000000
+        DURATION-eng    : 00:59:55.592000000
+        NUMBER_OF_FRAMES: 86208
+        NUMBER_OF_FRAMES-eng: 86208
+        NUMBER_OF_BYTES : 1143496906
+        NUMBER_OF_BYTES-eng: 1143496906
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:59:56.576000000
+        DURATION-eng    : 00:59:56.576000000
+        NUMBER_OF_FRAMES: 112393
+        NUMBER_OF_FRAMES-eng: 112393
+        NUMBER_OF_BYTES : 115090432
+        NUMBER_OF_BYTES-eng: 115090432
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 31390
+        BPS-eng         : 31390
+        DURATION        : 00:56:37.768000000
+        DURATION-eng    : 00:56:37.768000000
+        NUMBER_OF_FRAMES: 1632
+        NUMBER_OF_FRAMES-eng: 1632
+        NUMBER_OF_BYTES : 13332343
+        NUMBER_OF_BYTES-eng: 13332343
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 32965
+        BPS-eng         : 32965
+        DURATION        : 00:56:37.768000000
+        DURATION-eng    : 00:56:37.768000000
+        NUMBER_OF_FRAMES: 1704
+        NUMBER_OF_FRAMES-eng: 1704
+        NUMBER_OF_BYTES : 14001073
+        NUMBER_OF_BYTES-eng: 14001073
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E10.What.is.Love.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:59:56.576000000
+        DURATION-eng    : 00:59:56.576000000
+        NUMBER_OF_FRAMES: 112393
+        NUMBER_OF_FRAMES-eng: 112393
+        NUMBER_OF_BYTES : 115090432
+        NUMBER_OF_BYTES-eng: 115090432
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x72deb9409080] silence_start: 0
+[silencedetect @ 0x72deb9409080] silence_end: 4.338083 | silence_duration: 4.338083
+[out#0/null @ 0x72debb0808c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 234x    

@@ -1,0 +1,155 @@
+[matroska,webm @ 0x76316d0be000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x76316d0be000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/You/Season 3/You - S03E06 - W.O.M.B WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E06.W.O.M.B.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T08:57:42.000000Z
+  Duration: 00:53:19.90, start: 0.000000, bitrate: 2872 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2548898
+        BPS-eng         : 2548898
+        DURATION        : 00:53:19.196000000
+        DURATION-eng    : 00:53:19.196000000
+        NUMBER_OF_FRAMES: 76704
+        NUMBER_OF_FRAMES-eng: 76704
+        NUMBER_OF_BYTES : 1019303269
+        NUMBER_OF_BYTES-eng: 1019303269
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:53:19.904000000
+        DURATION-eng    : 00:53:19.904000000
+        NUMBER_OF_FRAMES: 99997
+        NUMBER_OF_FRAMES-eng: 99997
+        NUMBER_OF_BYTES : 102396928
+        NUMBER_OF_BYTES-eng: 102396928
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 34096
+        BPS-eng         : 34096
+        DURATION        : 00:50:17.930000000
+        DURATION-eng    : 00:50:17.930000000
+        NUMBER_OF_FRAMES: 1494
+        NUMBER_OF_FRAMES-eng: 1494
+        NUMBER_OF_BYTES : 12862471
+        NUMBER_OF_BYTES-eng: 12862471
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 35964
+        BPS-eng         : 35964
+        DURATION        : 00:50:24.812000000
+        DURATION-eng    : 00:50:24.812000000
+        NUMBER_OF_FRAMES: 1556
+        NUMBER_OF_FRAMES-eng: 1556
+        NUMBER_OF_BYTES : 13598223
+        NUMBER_OF_BYTES-eng: 13598223
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:0 pblack:100 pts:21 t:0.021000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E06.W.O.M.B.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2548898
+        BPS-eng         : 2548898
+        DURATION        : 00:53:19.196000000
+        DURATION-eng    : 00:53:19.196000000
+        NUMBER_OF_FRAMES: 76704
+        NUMBER_OF_FRAMES-eng: 76704
+        NUMBER_OF_BYTES : 1019303269
+        NUMBER_OF_BYTES-eng: 1019303269
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:1 pblack:100 pts:63 t:0.063000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:2 pblack:100 pts:105 t:0.105000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:3 pblack:100 pts:146 t:0.146000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:4 pblack:100 pts:188 t:0.188000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:5 pblack:100 pts:230 t:0.230000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:6 pblack:100 pts:271 t:0.271000 type:P last_keyframe:0
+[null @ 0x76316d0be280] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 6 >= 6
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:7 pblack:100 pts:313 t:0.313000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:8 pblack:100 pts:355 t:0.355000 type:I last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:9 pblack:100 pts:397 t:0.397000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:10 pblack:100 pts:438 t:0.438000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:11 pblack:100 pts:480 t:0.480000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:12 pblack:100 pts:522 t:0.522000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:13 pblack:100 pts:563 t:0.563000 type:P last_keyframe:8
+[null @ 0x76316d0be280] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 13 >= 13
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:14 pblack:100 pts:605 t:0.605000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:15 pblack:100 pts:647 t:0.647000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:16 pblack:100 pts:689 t:0.689000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:17 pblack:100 pts:730 t:0.730000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:18 pblack:100 pts:772 t:0.772000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:19 pblack:100 pts:814 t:0.814000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:20 pblack:100 pts:855 t:0.855000 type:P last_keyframe:8
+[null @ 0x76316d0be280] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 20 >= 20
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:21 pblack:100 pts:897 t:0.897000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:22 pblack:100 pts:939 t:0.939000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:23 pblack:100 pts:981 t:0.981000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:24 pblack:100 pts:1022 t:1.022000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:25 pblack:100 pts:1064 t:1.064000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:26 pblack:100 pts:1106 t:1.106000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:27 pblack:100 pts:1147 t:1.147000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:28 pblack:100 pts:1189 t:1.189000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:29 pblack:100 pts:1231 t:1.231000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:30 pblack:100 pts:1272 t:1.272000 type:P last_keyframe:8
+[null @ 0x76316d0be280] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 30 >= 30
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:31 pblack:100 pts:1314 t:1.314000 type:P last_keyframe:8
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:32 pblack:100 pts:1356 t:1.356000 type:I last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:33 pblack:100 pts:1398 t:1.398000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:34 pblack:100 pts:1439 t:1.439000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:35 pblack:100 pts:1481 t:1.481000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:36 pblack:100 pts:1523 t:1.523000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:37 pblack:100 pts:1564 t:1.564000 type:P last_keyframe:32
+[null @ 0x76316d0be280] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 37 >= 37
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:38 pblack:100 pts:1606 t:1.606000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:39 pblack:100 pts:1648 t:1.648000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:40 pblack:100 pts:1690 t:1.690000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:41 pblack:100 pts:1731 t:1.731000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:42 pblack:100 pts:1773 t:1.773000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:43 pblack:100 pts:1815 t:1.815000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:44 pblack:100 pts:1856 t:1.856000 type:P last_keyframe:32
+[null @ 0x76316d0be280] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 44 >= 44
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:45 pblack:100 pts:1898 t:1.898000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:46 pblack:100 pts:1940 t:1.940000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:47 pblack:100 pts:1982 t:1.982000 type:P last_keyframe:32
+[Parsed_blackframe_0 @ 0x763167e0c0c0] frame:48 pblack:100 pts:2023 t:2.023000 type:P last_keyframe:32
+[out#0/null @ 0x76316d080800] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=5.41x    

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>B52's                         </title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>127f591a-7e27-4435-92db-0780f219f3a1</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/B52's/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/B52's/backdrop.jpg</fanart>
+  </art>
+</artist>

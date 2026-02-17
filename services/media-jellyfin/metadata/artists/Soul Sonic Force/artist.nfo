@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Soul Sonic Force</title>
+  <runtime>8</runtime>
+  <musicbrainzartistid>73046026-6228-41a3-aa12-b3b796b491fa</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Soul Sonic Force/folder.jpg</poster>
+  </art>
+</artist>

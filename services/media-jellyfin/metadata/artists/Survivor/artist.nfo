@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Survivor</title>
+  <runtime>4</runtime>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>55ef024a-6cc0-49ed-8ce2-2e12193c0f46</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Survivor/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Survivor/backdrop.jpg</fanart>
+  </art>
+</artist>

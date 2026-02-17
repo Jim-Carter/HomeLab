@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Musical Youth</title>
+  <runtime>6</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>1a3e7a10-72ed-4591-a363-c1e3bc92fc09</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Musical Youth/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Musical Youth/backdrop.jpg</fanart>
+  </art>
+</artist>

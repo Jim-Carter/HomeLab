@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Flyleaf</title>
+  <runtime>3</runtime>
+  <genre>Rock</genre>
+  <musicbrainzartistid>9011971a-df29-4b57-8889-2e5e9a645cbe</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Flyleaf/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Flyleaf/backdrop.jpg</fanart>
+  </art>
+</artist>

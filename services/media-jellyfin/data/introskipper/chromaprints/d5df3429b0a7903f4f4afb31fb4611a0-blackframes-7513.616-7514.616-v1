@@ -1,0 +1,76 @@
+Input #0, matroska,webm, from '/mnt/nas/Movies/Roofman (2025)/Roofman.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-KyoGo-4P.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2025-11-11T04:00:18.000000Z
+  Duration: 02:05:59.62, start: 0.000000, bitrate: 10162 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9520315
+        DURATION        : 02:05:59.594000000
+        NUMBER_OF_FRAMES: 181249
+        NUMBER_OF_BYTES : 8996214982
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-11 04:00:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 02:05:59.616000000
+        NUMBER_OF_FRAMES: 236238
+        NUMBER_OF_BYTES : 604769280
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-11 04:00:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 92
+        DURATION        : 02:04:03.654000000
+        NUMBER_OF_FRAMES: 2435
+        NUMBER_OF_BYTES : 85843
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-11 04:00:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:0 pblack:94 pts:15 t:0.015000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9520315
+        DURATION        : 02:05:59.594000000
+        NUMBER_OF_FRAMES: 181249
+        NUMBER_OF_BYTES : 8996214982
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-11 04:00:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:1 pblack:94 pts:57 t:0.057000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:2 pblack:94 pts:99 t:0.099000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:3 pblack:94 pts:140 t:0.140000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:4 pblack:94 pts:182 t:0.182000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:5 pblack:94 pts:224 t:0.224000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:6 pblack:94 pts:265 t:0.265000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:7 pblack:94 pts:307 t:0.307000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:8 pblack:94 pts:349 t:0.349000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:9 pblack:94 pts:390 t:0.390000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:10 pblack:94 pts:432 t:0.432000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:11 pblack:94 pts:474 t:0.474000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:12 pblack:94 pts:516 t:0.516000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:13 pblack:94 pts:557 t:0.557000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:14 pblack:94 pts:599 t:0.599000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:15 pblack:94 pts:641 t:0.641000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:16 pblack:94 pts:682 t:0.682000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:17 pblack:94 pts:724 t:0.724000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:18 pblack:94 pts:766 t:0.766000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:19 pblack:94 pts:808 t:0.808000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:20 pblack:94 pts:849 t:0.849000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:21 pblack:94 pts:891 t:0.891000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:22 pblack:94 pts:933 t:0.933000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:23 pblack:94 pts:974 t:0.974000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x76325a60c0c0] frame:24 pblack:94 pts:1016 t:1.016000 type:B last_keyframe:0
+[out#0/null @ 0x76325e480440] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=2.03x    

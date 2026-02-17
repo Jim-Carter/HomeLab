@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Demi Lovato</title>
+  <runtime>4</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>faf4cefb-036c-4c88-b93a-5b03dd0a0e6b</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Demi Lovato/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Demi Lovato/backdrop.jpg</fanart>
+  </art>
+</artist>

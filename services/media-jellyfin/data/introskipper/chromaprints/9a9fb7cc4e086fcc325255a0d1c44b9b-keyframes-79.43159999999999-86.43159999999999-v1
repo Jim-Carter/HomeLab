@@ -1,0 +1,63 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Alien Earth/Alien.Earth.S01E01.1080p.WEB.H264-SUCCESSFULCRAB.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:03:50.18, start: 0.000000, bitrate: 5305 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5048041
+        DURATION        : 01:03:50.125000000
+        NUMBER_OF_FRAMES: 91923
+        NUMBER_OF_BYTES : 2416828804
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 01:03:50.176000000
+        NUMBER_OF_FRAMES: 119693
+        NUMBER_OF_BYTES : 122565632
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English [SDH]
+        BPS             : 49
+        DURATION        : 01:03:00.678000000
+        NUMBER_OF_FRAMES: 887
+        NUMBER_OF_BYTES : 23292
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] config in time_base: 1/1000, frame_rate: 24/1
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] n:   0 pts:    568 pts_time:0.568   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:164F5328 plane_checksum:[47029A47 D2E43D2C 4B5E7BA6] mean:[49 128 127] stdev:[46.4 3.7 3.3]
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0]   side data - SMPTE 12-1 timecode: timecode - 00:01:20:00
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 5048041
+        DURATION        : 01:03:50.125000000
+        NUMBER_OF_FRAMES: 91923
+        NUMBER_OF_BYTES : 2416828804
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] n:   1 pts:   4526 pts_time:4.526   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:B71F62FC plane_checksum:[D3B95BA0 2378C8CD DFE83E80] mean:[28 130 126] stdev:[18.0 3.3 3.0]
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0]   side data - SMPTE 12-1 timecode: timecode - 00:01:23:23
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] n:   2 pts:   4568 pts_time:4.568   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:251250D8 plane_checksum:[3B1691DB A4677B43 43C643AB] mean:[27 129 126] stdev:[17.7 3.2 2.9]
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0]   side data - SMPTE 12-1 timecode: timecode - 00:01:24:00
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] n:   3 pts:   6318 pts_time:6.318   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:E3920560 plane_checksum:[141F2E32 534E0966 71DFCDB9] mean:[33 128 127] stdev:[23.7 5.1 6.7]
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0]   side data - SMPTE 12-1 timecode: timecode - 00:01:25:18
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] n:   4 pts:   8568 pts_time:8.568   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:1C86C8C5 plane_checksum:[9EE34804 E3710D1A CF9F73A7] mean:[33 128 127] stdev:[23.6 5.4 6.9]
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0]   side data - SMPTE 12-1 timecode: timecode - 00:01:28:00
+[Parsed_showinfo_0 @ 0x70b3fbe0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x70b401480500] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.37 bitrate=N/A speed=37.7x    

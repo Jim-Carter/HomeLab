@@ -1,0 +1,80 @@
+Input #0, matroska,webm, from '/mnt/nas/Movies/Tin Soldier 2025 1080p AMZN WEB-DL DDP5 1 H 264-BurCyg/Tin Soldier 2025 1080p AMZN WEB-DL DDP5 1 H 264-BurCyg.mkv':
+  Metadata:
+    title           : 
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-05-08T15:51:21.000000Z
+  Duration: 01:27:00.35, start: 0.000000, bitrate: 9052 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        title           : 
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : 
+  Stream #0:2(cze): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : 
+  Stream #0:3(dan): Subtitle: subrip (srt)
+  Stream #0:4(ger): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+  Stream #0:5(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+  Stream #0:6(fin): Subtitle: subrip (srt)
+  Stream #0:7(fre): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : European (Forced)
+  Stream #0:8(hun): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+  Stream #0:9(ita): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+  Stream #0:10(nob): Subtitle: subrip (srt)
+  Stream #0:11(dut): Subtitle: subrip (srt)
+  Stream #0:12(pol): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+  Stream #0:13(rum): Subtitle: subrip (srt)
+  Stream #0:14(swe): Subtitle: subrip (srt)
+  Stream #0:15(tur): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:0 pblack:92 pts:23 t:0.023000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        title           : 
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:1 pblack:92 pts:65 t:0.065000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:2 pblack:92 pts:106 t:0.106000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:3 pblack:93 pts:148 t:0.148000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:4 pblack:93 pts:190 t:0.190000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:5 pblack:93 pts:231 t:0.231000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:6 pblack:93 pts:273 t:0.273000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:7 pblack:93 pts:315 t:0.315000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:8 pblack:92 pts:356 t:0.356000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:9 pblack:92 pts:398 t:0.398000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:10 pblack:92 pts:440 t:0.440000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:11 pblack:92 pts:481 t:0.481000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:12 pblack:92 pts:523 t:0.523000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:13 pblack:92 pts:565 t:0.565000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:14 pblack:92 pts:606 t:0.606000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:15 pblack:92 pts:648 t:0.648000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:16 pblack:92 pts:690 t:0.690000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:17 pblack:92 pts:731 t:0.731000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:18 pblack:92 pts:773 t:0.773000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:19 pblack:92 pts:815 t:0.815000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:20 pblack:92 pts:856 t:0.856000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:21 pblack:92 pts:898 t:0.898000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:22 pblack:92 pts:940 t:0.940000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:23 pblack:92 pts:981 t:0.981000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77924360c0c0] frame:24 pblack:92 pts:1023 t:1.023000 type:B last_keyframe:0
+[out#0/null @ 0x7792484817c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=4.17x    

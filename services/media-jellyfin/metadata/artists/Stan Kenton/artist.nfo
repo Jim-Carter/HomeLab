@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Stan Kenton</title>
+  <runtime>5</runtime>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>f19ce47e-2ceb-484c-9c4d-c04dcc7aff7e</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Stan Kenton/folder.jpg</poster>
+  </art>
+</artist>

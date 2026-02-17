@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Roy Wood &amp; Wizzard</title>
+  <runtime>5</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>9a121283-e355-4741-8729-f4b84650ff78</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Roy Wood &amp; Wizzard/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Roy Wood &amp; Wizzard/backdrop.jpg</fanart>
+  </art>
+</artist>

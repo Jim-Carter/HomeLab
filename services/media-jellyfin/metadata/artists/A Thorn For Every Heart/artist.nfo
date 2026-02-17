@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>A Thorn For Every Heart</title>
+  <runtime>4</runtime>
+  <genre>Punk</genre>
+  <musicbrainzartistid>89e811d2-9593-4448-9ccc-fc4bb6cf850d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/A Thorn For Every Heart/folder.jpg</poster>
+  </art>
+</artist>

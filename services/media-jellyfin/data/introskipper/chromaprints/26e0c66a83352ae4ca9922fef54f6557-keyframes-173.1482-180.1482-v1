@@ -1,0 +1,32 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E10 - One Enemy Falls, Another Rises WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:59:53.86, start: 0.000000, bitrate: 9427 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] n:   0 pts:   1026 pts_time:1.026   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:7D4D8A30 plane_checksum:[E6C41240 AC3B2617 E6E751D9] mean:[125 117 129] stdev:[64.6 5.8 5.9]
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] n:   1 pts:   3028 pts_time:3.028   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FF9755B5 plane_checksum:[D3C8FD2A C47F8F61 7757C90C] mean:[120 118 127] stdev:[64.2 6.1 5.3]
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] n:   2 pts:   5030 pts_time:5.03    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:6BDE0942 plane_checksum:[42ACD4CD A91E0FDD 88302489] mean:[126 119 126] stdev:[55.9 5.7 6.8]
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] n:   3 pts:   7032 pts_time:7.032   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:D0898AF1 plane_checksum:[AA7A855E 66B64E65 B690B71F] mean:[22 128 126] stdev:[6.3 0.7 1.3]
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] n:   4 pts:   9034 pts_time:9.034   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:CDC5FB23 plane_checksum:[A7291C1A E66855B8 A8E78951] mean:[23 129 126] stdev:[7.3 2.0 2.8]
+[Parsed_showinfo_0 @ 0x71ea8a40a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x71ea8f880440] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.08 bitrate=N/A speed=16.7x    

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Wilson Phillips</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>32b2e717-9e01-4f45-ac73-9542ccf18d4d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Wilson Phillips/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Wilson Phillips/backdrop.jpg</fanart>
+  </art>
+</artist>

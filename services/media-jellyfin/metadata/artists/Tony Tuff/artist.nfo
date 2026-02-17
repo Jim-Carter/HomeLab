@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Tony Tuff</title>
+  <runtime>0</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>2f768221-c825-49af-8688-aceeeef247c6</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Tony Tuff/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Tony Tuff/backdrop.jpg</fanart>
+  </art>
+</artist>

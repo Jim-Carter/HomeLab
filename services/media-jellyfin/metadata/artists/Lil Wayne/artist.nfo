@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Lil Wayne</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>ac9a487a-d9d2-4f27-bb23-0f4686488345</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Lil Wayne/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Lil Wayne/backdrop.jpg</fanart>
+  </art>
+</artist>

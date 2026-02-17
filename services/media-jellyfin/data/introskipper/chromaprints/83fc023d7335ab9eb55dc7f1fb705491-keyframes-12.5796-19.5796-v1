@@ -1,0 +1,118 @@
+[matroska,webm @ 0x77feca0be000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x77feca0be000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 3/You - S03E03 - Missing White Woman Syndrome WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E03.Missing.White.Woman.Syndrome.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T08:49:01.000000Z
+  Duration: 00:44:35.74, start: 0.000000, bitrate: 2846 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2517985
+        BPS-eng         : 2517985
+        DURATION        : 00:44:33.671000000
+        DURATION-eng    : 00:44:33.671000000
+        NUMBER_OF_FRAMES: 64104
+        NUMBER_OF_FRAMES-eng: 64104
+        NUMBER_OF_BYTES : 841532944
+        NUMBER_OF_BYTES-eng: 841532944
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:49:01
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:49:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:44:35.744000000
+        DURATION-eng    : 00:44:35.744000000
+        NUMBER_OF_FRAMES: 83617
+        NUMBER_OF_FRAMES-eng: 83617
+        NUMBER_OF_BYTES : 85623808
+        NUMBER_OF_BYTES-eng: 85623808
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:49:01
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:49:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 37723
+        BPS-eng         : 37723
+        DURATION        : 00:41:17.891000000
+        DURATION-eng    : 00:41:17.891000000
+        NUMBER_OF_FRAMES: 1380
+        NUMBER_OF_FRAMES-eng: 1380
+        NUMBER_OF_BYTES : 11684477
+        NUMBER_OF_BYTES-eng: 11684477
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:49:01
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:49:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 39591
+        BPS-eng         : 39591
+        DURATION        : 00:41:29.570000000
+        DURATION-eng    : 00:41:29.570000000
+        NUMBER_OF_FRAMES: 1446
+        NUMBER_OF_FRAMES-eng: 1446
+        NUMBER_OF_BYTES : 12320678
+        NUMBER_OF_BYTES-eng: 12320678
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:49:01
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:49:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x77fec520a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x77fec520a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   0 pts:    433 pts_time:0.433   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:999A2895 plane_checksum:[14A182B5 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.3 0.0 0.0]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E03.Missing.White.Woman.Syndrome.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2517985
+        BPS-eng         : 2517985
+        DURATION        : 00:44:33.671000000
+        DURATION-eng    : 00:44:33.671000000
+        NUMBER_OF_FRAMES: 64104
+        NUMBER_OF_FRAMES-eng: 64104
+        NUMBER_OF_BYTES : 841532944
+        NUMBER_OF_BYTES-eng: 841532944
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:49:01
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:49:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   1 pts:   1434 pts_time:1.434   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:4A02257B plane_checksum:[2D617F9B 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.3 0.0 0.0]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   2 pts:   2435 pts_time:2.435   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:11062708 plane_checksum:[C02A8128 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.3 0.0 0.0]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   3 pts:   3436 pts_time:3.436   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FE9F1C27 plane_checksum:[FE377647 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   4 pts:   4437 pts_time:4.437   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AB791C87 plane_checksum:[790F76A7 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   5 pts:   5438 pts_time:5.438   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AB791C87 plane_checksum:[790F76A7 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   6 pts:   6439 pts_time:6.439   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:11F90EF4 plane_checksum:[448B8267 4D638391 C52708ED] mean:[136 514 498] stdev:[50.9 5.1 10.2]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77fec520a0c0] n:   7 pts:   7440 pts_time:7.44    duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:285E29CD plane_checksum:[567FB639 C7AB1A1A 1652596B] mean:[137 514 498] stdev:[51.2 5.2 10.3]
+[Parsed_showinfo_0 @ 0x77fec520a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x77feca080800] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    7 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.46 bitrate=N/A speed=46.9x    

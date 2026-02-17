@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Freestylers</title>
+  <runtime>32</runtime>
+  <genre>Breaks</genre>
+  <genre>Electronic</genre>
+  <genre>Electronica</genre>
+  <genre>user defined</genre>
+  <musicbrainzartistid>60dd8303-5ee8-4c99-a19c-009e07c17aeb</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Freestylers/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Freestylers/backdrop.jpg</fanart>
+  </art>
+</artist>

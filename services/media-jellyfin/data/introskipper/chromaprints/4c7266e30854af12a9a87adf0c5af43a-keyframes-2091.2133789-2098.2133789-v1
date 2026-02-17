@@ -1,0 +1,64 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x79209b0be000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/media/TV Shows/Mr.Inbetween.2018.S01.03.1080p.WebRip.X264.Will1869/S03/Mr Inbetween - S03E09 - I'm Not Leaving.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S03E09 - I'm Not Leaving
+    date            : 2023
+    encoder         : DVDFab
+  Duration: 00:35:26.30, start: 0.000000, bitrate: 2746 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 2476 kb/s, 23.81 fps, 23.81 tbr, 23809 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x0]: Video: bmp, bgra, 640x360, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x79209500a0c0] config in time_base: 1/23809, frame_rate: 23809/1000
+[Parsed_showinfo_0 @ 0x79209500a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   0 pts:   4301 pts_time:0.180646 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5E40BD4A plane_checksum:[AF375D93 9E4C36E0 677028D7] mean:[128 119 126] stdev:[57.6 6.4 12.7]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S03E09 - I'm Not Leaving
+    date            : 2023
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.81 fps, 23.81 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   1 pts:  17301 pts_time:0.726658 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5EF55165 plane_checksum:[31A685D7 86F5C691 297704EE] mean:[134 117 136] stdev:[63.4 6.0 4.1]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   2 pts:  41301 pts_time:1.73468 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2A68334A plane_checksum:[7596B913 E520C8BF B91AB15A] mean:[135 117 136] stdev:[64.4 5.8 3.7]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   3 pts:  54301 pts_time:2.280692 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:398E6EB1 plane_checksum:[684A1AC7 77485430 90BDFFAB] mean:[105 127 138] stdev:[52.2 0.6 7.0]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   4 pts:  78301 pts_time:3.288714 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:87CECAE3 plane_checksum:[F318066E 363895EC DF9B2E89] mean:[105 127 138] stdev:[51.3 0.5 6.9]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   5 pts:  94301 pts_time:3.960729 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:D06D617A plane_checksum:[8D69FEFE 6C9CAB48 1E1FB716] mean:[101 115 134] stdev:[35.3 13.0 10.1]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   6 pts: 118301 pts_time:4.968751 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:36E54139 plane_checksum:[90EC15DF B06A11A1 0B0119B9] mean:[102 115 134] stdev:[35.2 13.0 10.1]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   7 pts: 142301 pts_time:5.976773 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:7471EA09 plane_checksum:[B0090293 59DF769E A60570D8] mean:[102 115 135] stdev:[35.1 12.9 10.0]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   8 pts: 166301 pts_time:6.984796 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:0B341B03 plane_checksum:[CFC2382D 739A49E4 02A498E3] mean:[110 119 132] stdev:[35.4 12.3 12.4]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x79209500a0c0] n:   9 pts: 180301 pts_time:7.572809 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:03C96D34 plane_checksum:[E70E1D19 1CF09C99 A92CB373] mean:[128 112 143] stdev:[34.4 10.5 19.9]
+[Parsed_showinfo_0 @ 0x79209500a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x79209b0808c0] video:4KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    9 fps=0.0 q=-0.0 Lsize=N/A time=00:00:07.01 bitrate=N/A speed=  25x    

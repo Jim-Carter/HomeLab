@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Bizarre Inc.</title>
+  <runtime>7</runtime>
+  <genre>Dance</genre>
+  <genre>Electronica</genre>
+  <musicbrainzartistid>f72312f7-41ea-4a31-902d-1982eb3eca51</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Bizarre Inc/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Bizarre Inc/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,102 @@
+[matroska,webm @ 0x77c1e1abe000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x77c1e1abe000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 3/You - S03E08 - Swing and a Miss WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E08.Swing.and.a.Miss.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T09:04:00.000000Z
+  Duration: 00:51:13.95, start: 0.000000, bitrate: 2850 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2534985
+        BPS-eng         : 2534985
+        DURATION        : 00:51:11.068000000
+        DURATION-eng    : 00:51:11.068000000
+        NUMBER_OF_FRAMES: 73632
+        NUMBER_OF_FRAMES-eng: 73632
+        NUMBER_OF_BYTES : 973139097
+        NUMBER_OF_BYTES-eng: 973139097
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:04:00
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:04:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:51:13.952000000
+        DURATION-eng    : 00:51:13.952000000
+        NUMBER_OF_FRAMES: 96061
+        NUMBER_OF_FRAMES-eng: 96061
+        NUMBER_OF_BYTES : 98366464
+        NUMBER_OF_BYTES-eng: 98366464
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:04:00
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:04:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 31001
+        BPS-eng         : 31001
+        DURATION        : 00:48:26.027000000
+        DURATION-eng    : 00:48:26.027000000
+        NUMBER_OF_FRAMES: 1362
+        NUMBER_OF_FRAMES-eng: 1362
+        NUMBER_OF_BYTES : 11261403
+        NUMBER_OF_BYTES-eng: 11261403
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:04:00
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:04:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 32193
+        BPS-eng         : 32193
+        DURATION        : 00:48:31.741000000
+        DURATION-eng    : 00:48:31.741000000
+        NUMBER_OF_FRAMES: 1428
+        NUMBER_OF_FRAMES-eng: 1428
+        NUMBER_OF_BYTES : 11717349
+        NUMBER_OF_BYTES-eng: 11717349
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:04:00
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:04:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E08.Swing.and.a.Miss.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:51:13.952000000
+        DURATION-eng    : 00:51:13.952000000
+        NUMBER_OF_FRAMES: 96061
+        NUMBER_OF_FRAMES-eng: 96061
+        NUMBER_OF_BYTES : 98366464
+        NUMBER_OF_BYTES-eng: 98366464
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:04:00
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:04:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x77c1dde09080] silence_start: 0
+[silencedetect @ 0x77c1dde09080] silence_end: 3.764896 | silence_duration: 3.764896
+[out#0/null @ 0x77c1e1a80800] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 494x    

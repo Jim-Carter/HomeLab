@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Sean Paul</title>
+  <runtime>14</runtime>
+  <genre>Dance Hall</genre>
+  <musicbrainzartistid>c3da3346-2643-48a7-93cd-011f6834b3d7</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Sean Paul/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Sean Paul/backdrop.jpg</fanart>
+  </art>
+</artist>

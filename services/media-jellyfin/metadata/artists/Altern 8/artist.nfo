@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Altern 8</title>
+  <runtime>6</runtime>
+  <genre>Electronic</genre>
+  <musicbrainzartistid>3b6243aa-3814-49a0-8505-4bd6d6183d46</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Altern 8/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Altern 8/backdrop.jpg</fanart>
+  </art>
+</artist>

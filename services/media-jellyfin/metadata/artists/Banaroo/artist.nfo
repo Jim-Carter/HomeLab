@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Banaroo</title>
+  <runtime>4</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>2ba019de-14ba-48e2-ab17-a6f045cb391b</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Banaroo/folder.jpg</poster>
+  </art>
+</artist>

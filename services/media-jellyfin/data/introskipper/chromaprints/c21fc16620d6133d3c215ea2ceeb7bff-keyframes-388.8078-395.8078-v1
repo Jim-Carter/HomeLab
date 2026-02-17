@@ -1,0 +1,94 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Star Trek - Strange New Worlds/Season 3/Star Trek - Strange New Worlds - S03E01 - Hegemony (2) WEBDL-1080p Proper.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-17T07:46:43.000000Z
+  Duration: 00:49:03.04, start: 0.000000, bitrate: 6512 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6061701
+        DURATION        : 00:49:03.024000000
+        NUMBER_OF_FRAMES: 70562
+        NUMBER_OF_BYTES : 2229966566
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(fre): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (default)
+      Metadata:
+        title           : French (France)
+        BPS             : 224000
+        DURATION        : 00:49:03.040000000
+        NUMBER_OF_FRAMES: 91970
+        NUMBER_OF_BYTES : 82405120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (original)
+      Metadata:
+        title           : English
+        BPS             : 224000
+        DURATION        : 00:49:03.040000000
+        NUMBER_OF_FRAMES: 91970
+        NUMBER_OF_BYTES : 82405120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(fre): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : French (France) Forced
+        BPS             : 0
+        DURATION        : 00:43:10.880000000
+        NUMBER_OF_FRAMES: 9
+        NUMBER_OF_BYTES : 275
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (France) Full
+        BPS             : 68
+        DURATION        : 00:46:31.498000000
+        NUMBER_OF_FRAMES: 649
+        NUMBER_OF_BYTES : 23944
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : English SDH
+        BPS             : 79
+        DURATION        : 00:46:32.310000000
+        NUMBER_OF_FRAMES: 823
+        NUMBER_OF_BYTES : 27791
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7521a000a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7521a000a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7521a000a0c0] n:   0 pts:   1582 pts_time:1.582   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:C65A6338 plane_checksum:[3C78F42F 8B5C398C EFA8356E] mean:[39 133 125] stdev:[31.0 5.6 4.3]
+[Parsed_showinfo_0 @ 0x7521a000a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 6061701
+        DURATION        : 00:49:03.024000000
+        NUMBER_OF_FRAMES: 70562
+        NUMBER_OF_BYTES : 2229966566
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7521a000a0c0] n:   1 pts:   3584 pts_time:3.584   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:163570BA plane_checksum:[CC602F28 984A97A1 543EA9E2] mean:[27 131 126] stdev:[17.7 3.3 2.5]
+[Parsed_showinfo_0 @ 0x7521a000a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7521a000a0c0] n:   2 pts:   5586 pts_time:5.586   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:3B41FAC1 plane_checksum:[D5FD7BF9 6E92D818 BCAAA6A1] mean:[19 129 128] stdev:[12.0 1.6 1.0]
+[Parsed_showinfo_0 @ 0x7521a000a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7521a000a0c0] n:   3 pts:   7588 pts_time:7.588   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2DF355F5 plane_checksum:[02A80D18 674073EB 5001D4E3] mean:[17 128 128] stdev:[8.7 0.5 0.2]
+[Parsed_showinfo_0 @ 0x7521a000a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7521a000a0c0] n:   4 pts:   9590 pts_time:9.59    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:B3CEE8E5 plane_checksum:[8F80CB07 B8ECCB0F A50C52C0] mean:[73 131 123] stdev:[61.4 4.5 6.3]
+[Parsed_showinfo_0 @ 0x7521a000a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7521a52808c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.63 bitrate=N/A speed=66.2x    

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>2 Pistols</title>
+  <runtime>5</runtime>
+  <genre>Rap</genre>
+  <musicbrainzartistid>6c43935b-313d-4434-8208-203b10c7b61d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/2 Pistols/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/2 Pistols/backdrop.jpg</fanart>
+  </art>
+</artist>

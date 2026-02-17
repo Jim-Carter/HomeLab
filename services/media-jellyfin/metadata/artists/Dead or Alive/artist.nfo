@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Dead or Alive</title>
+  <runtime>11</runtime>
+  <genre>Disco 80´s</genre>
+  <musicbrainzartistid>98720123-fcec-47be-9e88-29a310fb2942</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Dead or Alive/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Dead or Alive/backdrop.jpg</fanart>
+  </art>
+</artist>

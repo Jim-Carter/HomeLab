@@ -1,0 +1,176 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Wild Cards/Season 1/Wild Cards - S01E07 - Con with the Wind WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-07T03:18:17.000000Z
+  Duration: 00:42:17.02, start: 0.000000, bitrate: 6950 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 30.000000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:1: start 30.000000, end 160.000000
+      Metadata:
+        title           : Scene 2
+    Chapter #0:2: start 160.000000, end 191.000000
+      Metadata:
+        title           : Scene 3
+    Chapter #0:3: start 191.000000, end 245.000000
+      Metadata:
+        title           : Scene 4
+    Chapter #0:4: start 245.000000, end 316.000000
+      Metadata:
+        title           : Scene 5
+    Chapter #0:5: start 316.000000, end 371.000000
+      Metadata:
+        title           : Scene 6
+    Chapter #0:6: start 371.000000, end 411.000000
+      Metadata:
+        title           : Scene 7
+    Chapter #0:7: start 411.000000, end 452.000000
+      Metadata:
+        title           : Scene 8
+    Chapter #0:8: start 452.000000, end 525.000000
+      Metadata:
+        title           : Scene 9
+    Chapter #0:9: start 525.000000, end 598.000000
+      Metadata:
+        title           : Scene 10
+    Chapter #0:10: start 598.000000, end 670.000000
+      Metadata:
+        title           : Scene 11
+    Chapter #0:11: start 670.000000, end 772.000000
+      Metadata:
+        title           : Scene 12
+    Chapter #0:12: start 772.000000, end 846.000000
+      Metadata:
+        title           : Scene 13
+    Chapter #0:13: start 846.000000, end 899.000000
+      Metadata:
+        title           : Scene 14
+    Chapter #0:14: start 899.000000, end 1067.000000
+      Metadata:
+        title           : Scene 15
+    Chapter #0:15: start 1067.000000, end 1121.000000
+      Metadata:
+        title           : Scene 16
+    Chapter #0:16: start 1121.000000, end 1228.000000
+      Metadata:
+        title           : Scene 17
+    Chapter #0:17: start 1228.000000, end 1292.000000
+      Metadata:
+        title           : Scene 18
+    Chapter #0:18: start 1292.000000, end 1400.000000
+      Metadata:
+        title           : Scene 19
+    Chapter #0:19: start 1400.000000, end 1492.000000
+      Metadata:
+        title           : Scene 20
+    Chapter #0:20: start 1492.000000, end 1553.000000
+      Metadata:
+        title           : Scene 21
+    Chapter #0:21: start 1553.000000, end 1602.000000
+      Metadata:
+        title           : Scene 22
+    Chapter #0:22: start 1602.000000, end 1646.000000
+      Metadata:
+        title           : Scene 23
+    Chapter #0:23: start 1646.000000, end 1694.000000
+      Metadata:
+        title           : Scene 24
+    Chapter #0:24: start 1694.000000, end 1753.000000
+      Metadata:
+        title           : Scene 25
+    Chapter #0:25: start 1753.000000, end 1793.000000
+      Metadata:
+        title           : Scene 26
+    Chapter #0:26: start 1793.000000, end 1867.000000
+      Metadata:
+        title           : Scene 27
+    Chapter #0:27: start 1867.000000, end 1946.000000
+      Metadata:
+        title           : Scene 28
+    Chapter #0:28: start 1946.000000, end 1986.000000
+      Metadata:
+        title           : Scene 29
+    Chapter #0:29: start 1986.000000, end 2042.000000
+      Metadata:
+        title           : Scene 30
+    Chapter #0:30: start 2042.000000, end 2092.000000
+      Metadata:
+        title           : Scene 31
+    Chapter #0:31: start 2092.000000, end 2126.000000
+      Metadata:
+        title           : Scene 32
+    Chapter #0:32: start 2126.000000, end 2211.000000
+      Metadata:
+        title           : Scene 33
+    Chapter #0:33: start 2211.000000, end 2229.000000
+      Metadata:
+        title           : Scene 34
+    Chapter #0:34: start 2229.000000, end 2314.000000
+      Metadata:
+        title           : Scene 35
+    Chapter #0:35: start 2314.000000, end 2355.000000
+      Metadata:
+        title           : Scene 36
+    Chapter #0:36: start 2355.000000, end 2405.000000
+      Metadata:
+        title           : Scene 37
+    Chapter #0:37: start 2405.000000, end 2440.000000
+      Metadata:
+        title           : Scene 38
+    Chapter #0:38: start 2440.000000, end 2504.000000
+      Metadata:
+        title           : Scene 39
+    Chapter #0:39: start 2504.000000, end 2537.024000
+      Metadata:
+        title           : Scene 40
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6308723
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2000648281
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:18:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:42:17.024000000
+        NUMBER_OF_FRAMES: 79282
+        NUMBER_OF_BYTES : 202961920
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:18:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 106
+        DURATION        : 00:41:42.587000000
+        NUMBER_OF_FRAMES: 944
+        NUMBER_OF_BYTES : 33350
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:18:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Scene 40
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 6308723
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2000648281
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:18:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   48 fps=0.0 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=   4x    [out#0/null @ 0x71a0ad680440] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.96x    

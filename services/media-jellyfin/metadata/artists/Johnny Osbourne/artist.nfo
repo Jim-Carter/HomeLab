@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Johnny Osbourne</title>
+  <runtime>2</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>74dca2c7-d7dc-4b13-bd17-502a35db042a</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Johnny Osbourne/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Johnny Osbourne/backdrop.jpg</fanart>
+  </art>
+</artist>

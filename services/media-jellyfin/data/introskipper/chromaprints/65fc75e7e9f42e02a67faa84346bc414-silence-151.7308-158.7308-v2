@@ -1,0 +1,59 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E02 - A Heinous Devil WEBDL-720p.mkv':
+  Metadata:
+    title           : Robin Hood S01E02 A Heinous Devil
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:59:30.59, start: 0.000000, bitrate: 4359 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 3717928
+        DURATION        : 00:59:30.567000000
+        NUMBER_OF_FRAMES: 85608
+        NUMBER_OF_BYTES : 1659389254
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:59:30.592000000
+        NUMBER_OF_FRAMES: 111581
+        NUMBER_OF_BYTES : 285647360
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 35
+        DURATION        : 00:57:44.878000000
+        NUMBER_OF_FRAMES: 559
+        NUMBER_OF_BYTES : 15202
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 40
+        DURATION        : 00:58:11.571000000
+        NUMBER_OF_FRAMES: 707
+        NUMBER_OF_BYTES : 17801
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Robin Hood S01E02 A Heinous Devil
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:59:30.592000000
+        NUMBER_OF_FRAMES: 111581
+        NUMBER_OF_BYTES : 285647360
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[out#0/null @ 0x74b873c805c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=30.2x    

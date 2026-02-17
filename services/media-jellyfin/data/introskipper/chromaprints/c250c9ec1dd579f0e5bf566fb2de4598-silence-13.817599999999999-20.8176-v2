@@ -1,0 +1,56 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Star Trek - Strange New Worlds/Season 3/Star Trek - Strange New Worlds - S03E04 - A Space Adventure Hour WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:47:44.93, start: 0.000000, bitrate: 9121 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 8478840
+        DURATION        : 00:47:44.904000000
+        NUMBER_OF_FRAMES: 68689
+        NUMBER_OF_BYTES : 3036382880
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:47:44.928000000
+        NUMBER_OF_FRAMES: 89529
+        NUMBER_OF_BYTES : 229194240
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 94
+        DURATION        : 00:46:29.187000000
+        NUMBER_OF_FRAMES: 1009
+        NUMBER_OF_BYTES : 32944
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 99
+        DURATION        : 00:46:29.187000000
+        NUMBER_OF_FRAMES: 1050
+        NUMBER_OF_BYTES : 34593
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:47:44.928000000
+        NUMBER_OF_FRAMES: 89529
+        NUMBER_OF_BYTES : 229194240
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x71c864209080] silence_start: 5.470542
+[silencedetect @ 0x71c864209080] silence_end: 7.046 | silence_duration: 1.575458
+[out#0/null @ 0x71c8676805c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=57.6x    

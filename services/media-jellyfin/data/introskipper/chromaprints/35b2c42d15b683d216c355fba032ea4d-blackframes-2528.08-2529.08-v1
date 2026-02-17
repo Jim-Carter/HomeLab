@@ -1,0 +1,71 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Memory of a Killer/Season 1/Memory of a Killer - S01E03 - Samurai WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:42:54.08, start: 0.000000, bitrate: 4773 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4515256
+        DURATION        : 00:42:54.030000000
+        NUMBER_OF_FRAMES: 61715
+        NUMBER_OF_BYTES : 1452800644
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:42:54.080000000
+        NUMBER_OF_FRAMES: 80440
+        NUMBER_OF_BYTES : 82370560
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English
+        BPS             : 64
+        DURATION        : 00:42:23.552000000
+        NUMBER_OF_FRAMES: 695
+        NUMBER_OF_BYTES : 20468
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:0 pblack:87 pts:29 t:0.029000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 4515256
+        DURATION        : 00:42:54.030000000
+        NUMBER_OF_FRAMES: 61715
+        NUMBER_OF_BYTES : 1452800644
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:1 pblack:87 pts:71 t:0.071000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:2 pblack:87 pts:112 t:0.112000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:3 pblack:87 pts:154 t:0.154000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:4 pblack:87 pts:196 t:0.196000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:5 pblack:87 pts:237 t:0.237000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:6 pblack:87 pts:279 t:0.279000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:7 pblack:87 pts:321 t:0.321000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:8 pblack:87 pts:363 t:0.363000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:9 pblack:87 pts:404 t:0.404000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:10 pblack:87 pts:446 t:0.446000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:11 pblack:87 pts:488 t:0.488000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:12 pblack:87 pts:529 t:0.529000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:13 pblack:87 pts:571 t:0.571000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:14 pblack:87 pts:613 t:0.613000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:15 pblack:87 pts:655 t:0.655000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:16 pblack:87 pts:696 t:0.696000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:17 pblack:87 pts:738 t:0.738000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:18 pblack:87 pts:780 t:0.780000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:19 pblack:87 pts:821 t:0.821000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:20 pblack:87 pts:863 t:0.863000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:21 pblack:87 pts:905 t:0.905000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:22 pblack:87 pts:946 t:0.946000 type:I last_keyframe:22
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:23 pblack:87 pts:988 t:0.988000 type:B last_keyframe:22
+[Parsed_blackframe_0 @ 0x73f66000c0c0] frame:24 pblack:87 pts:1030 t:1.030000 type:B last_keyframe:22
+[out#0/null @ 0x73f665280440] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=6.38x    

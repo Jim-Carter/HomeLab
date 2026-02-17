@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Chris Brown</title>
+  <runtime>12</runtime>
+  <genre>Pop</genre>
+  <genre>TIPPARADE</genre>
+  <musicbrainzartistid>c234fa42-e6a6-443e-937e-2f4b073538a3</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Chris Brown/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Chris Brown/backdrop.jpg</fanart>
+  </art>
+</artist>

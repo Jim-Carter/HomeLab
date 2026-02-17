@@ -1,0 +1,33 @@
+[matroska,webm @ 0x76003b4be000] File ended prematurely
+    Last message repeated 2 times
+Input #0, matroska,webm, from '/mnt/nas/media/Movies/Just Breathe (2025) 2160p 4K WEB 5.1-LAMA/Just.Breathe.2025.2160p.4K.WEB.x265.10bit.AAC5.1-LAMA.mkv':
+  Metadata:
+    ENCODER         : Lavf59.33.100
+  Duration: 01:36:56.49, start: -0.043000, bitrate: 4124 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709, progressive), 3840x1920 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        ENCODER         : Lavc59.48.100 libx265
+        DURATION        : 01:36:56.436000000
+  Stream #0:1: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        ENCODER         : Lavc59.48.100 libfdk_aac
+        DURATION        : 01:36:56.491000000
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (CC)
+        DURATION        : 01:34:58.956000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x76003b4be000] File ended prematurely
+[vf#0:0 @ 0x76003b54a540] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 1k tbn (default)
+      Metadata:
+        DURATION        : 01:36:56.436000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x76003b480440] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x76003b480440] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

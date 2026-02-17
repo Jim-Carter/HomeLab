@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>RJD2</title>
+  <runtime>6</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>1a120ec5-35b3-4f3e-aa49-7201550d9feb</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/RJD2/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/RJD2/backdrop.jpg</fanart>
+  </art>
+</artist>

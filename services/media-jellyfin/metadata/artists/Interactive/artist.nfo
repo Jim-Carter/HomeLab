@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Interactive</title>
+  <runtime>4</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>c1a5c22e-0f85-4b96-94cf-166c86bfff1d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Interactive/folder.jpg</poster>
+  </art>
+</artist>

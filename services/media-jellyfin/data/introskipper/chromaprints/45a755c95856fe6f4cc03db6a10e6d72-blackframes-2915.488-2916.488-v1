@@ -1,0 +1,404 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Cross/Season 2/Cross - S02E01 - Harrow WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:50:51.49, start: 0.000000, bitrate: 6993 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6409536
+        DURATION        : 00:50:51.465000000
+        NUMBER_OF_FRAMES: 73162
+        NUMBER_OF_BYTES : 2444809718
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 576 kb/s (default)
+      Metadata:
+        BPS             : 576000
+        DURATION        : 00:50:51.488000000
+        NUMBER_OF_FRAMES: 95359
+        NUMBER_OF_BYTES : 219707136
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : English (forced)
+        BPS             : 2
+        DURATION        : 00:22:09.495000000
+        NUMBER_OF_FRAMES: 19
+        NUMBER_OF_BYTES : 483
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 89
+        DURATION        : 00:48:26.737000000
+        NUMBER_OF_FRAMES: 888
+        NUMBER_OF_BYTES : 32528
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(ara): Subtitle: subrip (srt)
+      Metadata:
+        title           : العربية
+        BPS             : 112
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 680
+        NUMBER_OF_BYTES : 41059
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(cat): Subtitle: subrip (srt)
+      Metadata:
+        title           : Català
+        BPS             : 56
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 646
+        NUMBER_OF_BYTES : 20694
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(cze): Subtitle: subrip (srt)
+      Metadata:
+        title           : Čeština
+        BPS             : 59
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21760
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(dan): Subtitle: subrip (srt)
+      Metadata:
+        title           : Dansk
+        BPS             : 59
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 680
+        NUMBER_OF_BYTES : 21798
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : Deutsch
+        BPS             : 60
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 682
+        NUMBER_OF_BYTES : 21983
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(gre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Ελληνικά
+        BPS             : 104
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 37855
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Español (Latinoamérica)
+        BPS             : 60
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 663
+        NUMBER_OF_BYTES : 22116
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Español (España)
+        BPS             : 60
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 660
+        NUMBER_OF_BYTES : 21852
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(baq): Subtitle: subrip (srt)
+      Metadata:
+        title           : Euskara
+        BPS             : 55
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 20326
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(fin): Subtitle: subrip (srt)
+      Metadata:
+        title           : Suomi
+        BPS             : 58
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21439
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Français (France)
+        BPS             : 61
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 22425
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Français (Canada)
+        BPS             : 64
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 682
+        NUMBER_OF_BYTES : 23414
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(glg): Subtitle: subrip (srt)
+      Metadata:
+        title           : Galego
+        BPS             : 58
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21349
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(heb): Subtitle: subrip (srt)
+      Metadata:
+        title           : עברית
+        BPS             : 100
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 684
+        NUMBER_OF_BYTES : 36394
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(hin): Subtitle: subrip (srt)
+      Metadata:
+        title           : हिन्दी
+        BPS             : 172
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 62716
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(hun): Subtitle: subrip (srt)
+      Metadata:
+        title           : Magyar
+        BPS             : 61
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 680
+        NUMBER_OF_BYTES : 22295
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(ind): Subtitle: subrip (srt)
+      Metadata:
+        title           : Indonesia
+        BPS             : 59
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21772
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italiano
+        BPS             : 62
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 682
+        NUMBER_OF_BYTES : 22566
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(jpn): Subtitle: subrip (srt)
+      Metadata:
+        title           : 日本語
+        BPS             : 52
+        DURATION        : 00:48:28.155000000
+        NUMBER_OF_FRAMES: 628
+        NUMBER_OF_BYTES : 19211
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(kan): Subtitle: subrip (srt)
+      Metadata:
+        title           : ಕನ್ನಡ
+        BPS             : 183
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 66583
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(kor): Subtitle: subrip (srt)
+      Metadata:
+        title           : 한국어
+        BPS             : 77
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 28329
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(mal): Subtitle: subrip (srt)
+      Metadata:
+        title           : മലയാളം
+        BPS             : 193
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 682
+        NUMBER_OF_BYTES : 70313
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:26(may): Subtitle: subrip (srt)
+      Metadata:
+        title           : Bahasa Melayu
+        BPS             : 59
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21493
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:27(nob): Subtitle: subrip (srt)
+      Metadata:
+        title           : Norsk Bokmål
+        BPS             : 58
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21242
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:28(dut): Subtitle: subrip (srt)
+      Metadata:
+        title           : Nederlands
+        BPS             : 57
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 656
+        NUMBER_OF_BYTES : 20782
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:29(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polski
+        BPS             : 58
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21101
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:30(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Português (Portugal)
+        BPS             : 60
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21955
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:31(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Português (Brasil)
+        BPS             : 59
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 682
+        NUMBER_OF_BYTES : 21758
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:32(rum): Subtitle: subrip (srt)
+      Metadata:
+        title           : Română
+        BPS             : 61
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 678
+        NUMBER_OF_BYTES : 22231
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:33(swe): Subtitle: subrip (srt)
+      Metadata:
+        title           : Svenska
+        BPS             : 60
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 21918
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:34(tam): Subtitle: subrip (srt)
+      Metadata:
+        title           : தமிழ்
+        BPS             : 191
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 69544
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:35(tel): Subtitle: subrip (srt)
+      Metadata:
+        title           : తెలుగు
+        BPS             : 178
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 64996
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:36(tha): Subtitle: subrip (srt)
+      Metadata:
+        title           : ไทย
+        BPS             : 153
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 680
+        NUMBER_OF_BYTES : 55718
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:37(tur): Subtitle: subrip (srt)
+      Metadata:
+        title           : Türkçe
+        BPS             : 61
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 680
+        NUMBER_OF_BYTES : 22310
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:38(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : 中文（繁體）
+        BPS             : 56
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 20600
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:39(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : 中文（简体）
+        BPS             : 62
+        DURATION        : 00:48:30.240000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 22783
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:0 pblack:95 pts:8 t:0.008000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 6409536
+        DURATION        : 00:50:51.465000000
+        NUMBER_OF_FRAMES: 73162
+        NUMBER_OF_BYTES : 2444809718
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:1 pblack:95 pts:50 t:0.050000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:2 pblack:95 pts:91 t:0.091000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:3 pblack:95 pts:133 t:0.133000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:4 pblack:95 pts:175 t:0.175000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:5 pblack:95 pts:216 t:0.216000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:6 pblack:95 pts:258 t:0.258000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:7 pblack:95 pts:300 t:0.300000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:8 pblack:95 pts:342 t:0.342000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:9 pblack:95 pts:383 t:0.383000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:10 pblack:95 pts:425 t:0.425000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:11 pblack:95 pts:467 t:0.467000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:12 pblack:95 pts:508 t:0.508000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:13 pblack:95 pts:550 t:0.550000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:14 pblack:95 pts:592 t:0.592000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:15 pblack:95 pts:634 t:0.634000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:16 pblack:95 pts:675 t:0.675000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:17 pblack:95 pts:717 t:0.717000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:18 pblack:90 pts:759 t:0.759000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:19 pblack:90 pts:800 t:0.800000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:20 pblack:90 pts:842 t:0.842000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:21 pblack:90 pts:884 t:0.884000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:22 pblack:90 pts:925 t:0.925000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:23 pblack:90 pts:967 t:0.967000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x797a2020c0c0] frame:24 pblack:90 pts:1009 t:1.009000 type:P last_keyframe:0
+[out#0/null @ 0x797a255a6c80] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=   8x    

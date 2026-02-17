@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Loona</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>cb525a30-b590-448f-b94d-fab86e0e8756</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Loona/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Loona/backdrop.jpg</fanart>
+  </art>
+</artist>

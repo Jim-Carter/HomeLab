@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Vince Guaraldi</title>
+  <runtime>3</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>05b5488d-7141-4b21-819b-d4713abf2a98</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Vince Guaraldi/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Vince Guaraldi/backdrop.jpg</fanart>
+  </art>
+</artist>

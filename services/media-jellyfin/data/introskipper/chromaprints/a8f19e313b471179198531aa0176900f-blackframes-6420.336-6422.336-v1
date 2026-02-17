@@ -1,0 +1,24 @@
+Input #0, matroska,webm, from '/mnt/nas/Movies/Zootopia 2 (2025)/Zootopia 2 (2025) {tmdb- 1084242}.mkv':
+  Metadata:
+    creation_time   : 2025-12-25T11:04:07.000000Z
+    ENCODER         : Lavf61.1.100
+  Duration: 01:47:30.34, start: 0.000000, bitrate: 4323 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x536 [SAR 201:202 DAR 240:101], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 01:47:30.334000000
+  Stream #0:1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 320 kb/s (default)
+      Metadata:
+        title           : English - SyncUP
+        DURATION        : 01:47:30.336000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1280x536 [SAR 201:202 DAR 240:101], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        DURATION        : 01:47:30.334000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x736faa880380] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=9.82x    

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Moya Brennan</title>
+  <runtime>4</runtime>
+  <genre>Celtic</genre>
+  <musicbrainzartistid>51823891-6035-4d6c-a007-b70a86747023</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Moya Brennan/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Moya Brennan/backdrop.jpg</fanart>
+  </art>
+</artist>

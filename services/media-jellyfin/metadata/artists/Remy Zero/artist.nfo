@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Remy Zero</title>
+  <runtime>6</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>848a122b-9dcc-4ff7-91b8-e4f37b8f1147</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Remy Zero/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Remy Zero/backdrop.jpg</fanart>
+  </art>
+</artist>

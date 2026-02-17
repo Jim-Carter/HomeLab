@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Otis Redding</title>
+  <runtime>8</runtime>
+  <genre>Other</genre>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Otis Redding/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Otis Redding/backdrop.jpg</fanart>
+  </art>
+</artist>

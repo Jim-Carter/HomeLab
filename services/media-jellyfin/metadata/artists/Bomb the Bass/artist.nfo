@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Bomb the Bass</title>
+  <runtime>7</runtime>
+  <genre>Electronic</genre>
+  <musicbrainzartistid>b2a28d4a-5f5d-49f6-b944-9f5a4bffc4d9</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Bomb the Bass/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Bomb the Bass/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Chico</title>
+  <runtime>3</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>9953ebf6-1836-45ef-bcca-bee2e32e29c6</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Chico/folder.jpg</poster>
+  </art>
+</artist>

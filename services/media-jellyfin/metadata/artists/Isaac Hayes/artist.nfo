@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Isaac Hayes</title>
+  <runtime>6</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Isaac Hayes/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Isaac Hayes/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,303 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/High Potential/Season 1/High Potential - S01E03 - Dirty Rotten Scoundrel WEBDL-720p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:43:02.30, start: 0.000000, bitrate: 2912 kb/s
+  Chapters:
+    Chapter #0:0: start 43.043000, end 49.007000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 49.007000, end 2551.301000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 2551.301000, end 2582.304000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2650488
+        DURATION        : 00:43:02.247000000
+        NUMBER_OF_FRAMES: 61912
+        NUMBER_OF_BYTES : 855527083
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:43:02.304000000
+        NUMBER_OF_FRAMES: 80697
+        NUMBER_OF_BYTES : 82633728
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (default) (original) (forced)
+      Metadata:
+        title           : Forced
+        BPS             : 205
+        DURATION        : 00:00:02.836000000
+        NUMBER_OF_FRAMES: 3
+        NUMBER_OF_BYTES : 73
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 109
+        DURATION        : 00:41:30.071000000
+        NUMBER_OF_FRAMES: 798
+        NUMBER_OF_BYTES : 33944
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 113
+        DURATION        : 00:41:35.326000000
+        NUMBER_OF_FRAMES: 830
+        NUMBER_OF_BYTES : 35476
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(cze): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 86
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 750
+        NUMBER_OF_BYTES : 27436
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(dan): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 97
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 708
+        NUMBER_OF_BYTES : 30697
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(ger): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 103
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 735
+        NUMBER_OF_BYTES : 32746
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(gre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 151
+        DURATION        : 00:41:36.286000000
+        NUMBER_OF_FRAMES: 667
+        NUMBER_OF_BYTES : 47215
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 86
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 727
+        NUMBER_OF_BYTES : 27415
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 94
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 763
+        NUMBER_OF_BYTES : 29650
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(fin): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 85
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 683
+        NUMBER_OF_BYTES : 26784
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 88
+        DURATION        : 00:41:44.544000000
+        NUMBER_OF_FRAMES: 791
+        NUMBER_OF_BYTES : 27684
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(hun): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 99
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 695
+        NUMBER_OF_BYTES : 31515
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(ita): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 91
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 725
+        NUMBER_OF_BYTES : 28801
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(jpn): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 79
+        DURATION        : 00:42:11.821000000
+        NUMBER_OF_FRAMES: 737
+        NUMBER_OF_BYTES : 25211
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(kor): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 114
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 786
+        NUMBER_OF_BYTES : 36144
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(dut): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 83
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 608
+        NUMBER_OF_BYTES : 26378
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(nor): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 91
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 722
+        NUMBER_OF_BYTES : 28896
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(pol): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 86
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 726
+        NUMBER_OF_BYTES : 27380
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 85
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 735
+        NUMBER_OF_BYTES : 27193
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 94
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 743
+        NUMBER_OF_BYTES : 29818
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(rum): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 92
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 668
+        NUMBER_OF_BYTES : 29128
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(slo): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 86
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 771
+        NUMBER_OF_BYTES : 27282
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(swe): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 93
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 783
+        NUMBER_OF_BYTES : 29325
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(tur): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 100
+        DURATION        : 00:41:59.809000000
+        NUMBER_OF_FRAMES: 780
+        NUMBER_OF_BYTES : 31728
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:26(chi): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Traditional
+        BPS             : 100
+        DURATION        : 00:42:11.111000000
+        NUMBER_OF_FRAMES: 790
+        NUMBER_OF_BYTES : 31710
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:0 pblack:99 pts:3 t:0.003000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Scene 1
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2650488
+        DURATION        : 00:43:02.247000000
+        NUMBER_OF_FRAMES: 61912
+        NUMBER_OF_BYTES : 855527083
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:1 pblack:99 pts:45 t:0.045000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:2 pblack:99 pts:87 t:0.087000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:3 pblack:99 pts:128 t:0.128000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:4 pblack:99 pts:170 t:0.170000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:5 pblack:99 pts:212 t:0.212000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:6 pblack:99 pts:254 t:0.254000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:7 pblack:99 pts:295 t:0.295000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:8 pblack:99 pts:337 t:0.337000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:9 pblack:99 pts:379 t:0.379000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:10 pblack:99 pts:420 t:0.420000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:11 pblack:99 pts:462 t:0.462000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:12 pblack:99 pts:504 t:0.504000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:13 pblack:99 pts:546 t:0.546000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:14 pblack:99 pts:587 t:0.587000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:15 pblack:99 pts:629 t:0.629000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:16 pblack:99 pts:671 t:0.671000 type:I last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:17 pblack:99 pts:712 t:0.712000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:18 pblack:99 pts:754 t:0.754000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:19 pblack:99 pts:796 t:0.796000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:20 pblack:99 pts:838 t:0.838000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:21 pblack:99 pts:879 t:0.879000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:22 pblack:99 pts:921 t:0.921000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:23 pblack:99 pts:963 t:0.963000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:24 pblack:99 pts:1004 t:1.004000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:25 pblack:99 pts:1046 t:1.046000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:26 pblack:99 pts:1088 t:1.088000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:27 pblack:99 pts:1129 t:1.129000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:28 pblack:99 pts:1171 t:1.171000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:29 pblack:99 pts:1213 t:1.213000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:30 pblack:99 pts:1255 t:1.255000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:31 pblack:99 pts:1296 t:1.296000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:32 pblack:99 pts:1338 t:1.338000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:33 pblack:99 pts:1380 t:1.380000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:34 pblack:99 pts:1421 t:1.421000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:35 pblack:99 pts:1463 t:1.463000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:36 pblack:99 pts:1505 t:1.505000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:37 pblack:99 pts:1547 t:1.547000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:38 pblack:99 pts:1588 t:1.588000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:39 pblack:99 pts:1630 t:1.630000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:40 pblack:99 pts:1672 t:1.672000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:41 pblack:99 pts:1713 t:1.713000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:42 pblack:99 pts:1755 t:1.755000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:43 pblack:99 pts:1797 t:1.797000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:44 pblack:99 pts:1839 t:1.839000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:45 pblack:99 pts:1880 t:1.880000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:46 pblack:99 pts:1922 t:1.922000 type:B last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:47 pblack:99 pts:1964 t:1.964000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x78f2b320c0c0] frame:48 pblack:99 pts:2005 t:2.005000 type:B last_keyframe:16
+[out#0/null @ 0x78f2b83ca840] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=37.2x    

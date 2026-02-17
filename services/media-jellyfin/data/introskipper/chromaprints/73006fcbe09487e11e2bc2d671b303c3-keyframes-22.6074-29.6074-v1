@@ -1,0 +1,66 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Star Trek - Starfleet Academy/Season 1/Star Trek - Starfleet Academy - S01E01 - Kids These Days WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+  Duration: 01:15:54.27, start: 0.000000, bitrate: 9889 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9247624
+        DURATION        : 01:15:54.258000000
+        NUMBER_OF_FRAMES: 109193
+        NUMBER_OF_BYTES : 5264508502
+        _STATISTICS_WRITING_APP: mkvmerge v81.0 ('Milliontown') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 01:15:54.272000000
+        NUMBER_OF_FRAMES: 142321
+        NUMBER_OF_BYTES : 364341760
+        _STATISTICS_WRITING_APP: mkvmerge v81.0 ('Milliontown') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 75
+        DURATION        : 01:12:45.962000000
+        NUMBER_OF_FRAMES: 1315
+        NUMBER_OF_BYTES : 41155
+        _STATISTICS_WRITING_APP: mkvmerge v81.0 ('Milliontown') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 80
+        DURATION        : 01:12:45.962000000
+        NUMBER_OF_FRAMES: 1403
+        NUMBER_OF_BYTES : 44117
+        _STATISTICS_WRITING_APP: mkvmerge v81.0 ('Milliontown') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] n:   0 pts:   1417 pts_time:1.417   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:24709DEF plane_checksum:[2384B0DA 3CDB2550 DA76C7B6] mean:[108 122 139] stdev:[63.7 25.4 28.3]
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9247624
+        DURATION        : 01:15:54.258000000
+        NUMBER_OF_FRAMES: 109193
+        NUMBER_OF_BYTES : 5264508502
+        _STATISTICS_WRITING_APP: mkvmerge v81.0 ('Milliontown') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] n:   1 pts:   3419 pts_time:3.419   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:E8180694 plane_checksum:[ABFE8FDE DDC5BB4C DDC5BB4C] mean:[16 128 128] stdev:[0.2 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] n:   2 pts:   5421 pts_time:5.421   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:98DE2093 plane_checksum:[1460A9DD DDC5BB4C DDC5BB4C] mean:[16 128 128] stdev:[0.2 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] n:   3 pts:   7423 pts_time:7.423   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5D5CDBCB plane_checksum:[52C86524 DDC5BB4C DDC5BB4C] mean:[16 128 128] stdev:[0.2 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] n:   4 pts:   9425 pts_time:9.425   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:A2E6C3F6 plane_checksum:[1EA25D9F CC6FAEFC 00F2B74C] mean:[16 128 128] stdev:[0.0 0.1 0.0]
+[Parsed_showinfo_0 @ 0x7ecddae0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7ecde0080500] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.46 bitrate=N/A speed=54.9x    

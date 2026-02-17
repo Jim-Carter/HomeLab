@@ -1,0 +1,289 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Andor/Season 2/Andor - S02E09 - Welcome to the Rebellion WEBRip-1080p.mkv':
+  Metadata:
+    title           : PSArips.com | Andor.S02E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-05-07T02:19:57.000000Z
+  Duration: 00:58:09.29, start: 0.000000, bitrate: 1834 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x808, SAR 1:1 DAR 240:101, 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1625436
+        DURATION        : 00:58:09.292000000
+        NUMBER_OF_FRAMES: 83743
+        NUMBER_OF_BYTES : 708952725
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: aac (HE-AAC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 204997
+        DURATION        : 00:58:09.152000000
+        NUMBER_OF_FRAMES: 81777
+        NUMBER_OF_BYTES : 89408607
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (default) (hearing impaired)
+      Metadata:
+        title           : English [SDH]
+        BPS             : 66
+        DURATION        : 00:56:30.916000000
+        NUMBER_OF_FRAMES: 841
+        NUMBER_OF_BYTES : 28131
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (Hong Kong SAR China)
+        BPS             : 41
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 676
+        NUMBER_OF_BYTES : 18182
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese Traditional
+        BPS             : 44
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 19415
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(cze): Subtitle: subrip (srt)
+      Metadata:
+        title           : Czech
+        BPS             : 48
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 21046
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(dan): Subtitle: subrip (srt)
+      Metadata:
+        title           : Danish
+        BPS             : 48
+        DURATION        : 00:55:25.792000000
+        NUMBER_OF_FRAMES: 453
+        NUMBER_OF_BYTES : 20029
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(dut): Subtitle: subrip (srt)
+      Metadata:
+        title           : Dutch
+        BPS             : 51
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 639
+        NUMBER_OF_BYTES : 22311
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : European Spanish
+        BPS             : 51
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 22187
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(fin): Subtitle: subrip (srt)
+      Metadata:
+        title           : Finnish
+        BPS             : 51
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 671
+        NUMBER_OF_BYTES : 22328
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French
+        BPS             : 47
+        DURATION        : 00:55:38.041000000
+        NUMBER_OF_FRAMES: 688
+        NUMBER_OF_BYTES : 19883
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : German
+        BPS             : 55
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 739
+        NUMBER_OF_BYTES : 24085
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(gre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Greek
+        BPS             : 90
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 39569
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(hun): Subtitle: subrip (srt)
+      Metadata:
+        title           : Hungarian
+        BPS             : 50
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 661
+        NUMBER_OF_BYTES : 22073
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italian
+        BPS             : 51
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 672
+        NUMBER_OF_BYTES : 22540
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(jpn): Subtitle: subrip (srt)
+      Metadata:
+        title           : Japanese
+        BPS             : 43
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 664
+        NUMBER_OF_BYTES : 18840
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(kor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Korean
+        BPS             : 54
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 23714
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Latin America Spanish
+        BPS             : 48
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 21281
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(nor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Norwegian
+        BPS             : 47
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 20850
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polish
+        BPS             : 52
+        DURATION        : 00:53:47.375000000
+        NUMBER_OF_FRAMES: 674
+        NUMBER_OF_BYTES : 21101
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese
+        BPS             : 51
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 674
+        NUMBER_OF_BYTES : 22348
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese Brazilian
+        BPS             : 53
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 23377
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(rum): Subtitle: subrip (srt)
+      Metadata:
+        title           : Romanian
+        BPS             : 51
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 662
+        NUMBER_OF_BYTES : 22275
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(slo): Subtitle: subrip (srt)
+      Metadata:
+        title           : Slovak
+        BPS             : 47
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 655
+        NUMBER_OF_BYTES : 20508
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(swe): Subtitle: subrip (srt)
+      Metadata:
+        title           : Swedish
+        BPS             : 46
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 516
+        NUMBER_OF_BYTES : 20257
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(tur): Subtitle: subrip (srt)
+      Metadata:
+        title           : Turkish
+        BPS             : 49
+        DURATION        : 00:57:59.250000000
+        NUMBER_OF_FRAMES: 675
+        NUMBER_OF_BYTES : 21480
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : PSArips.com | Andor.S02E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1, s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 204997
+        DURATION        : 00:58:09.152000000
+        NUMBER_OF_FRAMES: 81777
+        NUMBER_OF_BYTES : 89408607
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-07 02:19:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x71b6a4809080] silence_start: 0.133708
+[silencedetect @ 0x71b6a4809080] silence_end: 0.300625 | silence_duration: 0.166917
+[silencedetect @ 0x71b6a4809080] silence_start: 0.956271
+[silencedetect @ 0x71b6a4809080] silence_end: 1.086229 | silence_duration: 0.129958
+[silencedetect @ 0x71b6a4809080] silence_start: 3.373937
+[silencedetect @ 0x71b6a4809080] silence_end: 3.503167 | silence_duration: 0.129229
+[out#0/null @ 0x71b6a81d69c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=54.2x    

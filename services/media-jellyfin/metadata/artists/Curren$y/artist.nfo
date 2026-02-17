@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Curren$y</title>
+  <runtime>2</runtime>
+  <genre>JAMS</genre>
+  <musicbrainzartistid>4ce1c576-305a-4b82-82fa-5e5359056219</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Curren$y/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Curren$y/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Hashim</title>
+  <runtime>7</runtime>
+  <genre>Breakbeat</genre>
+  <musicbrainzartistid>ec0337b1-95b3-47e9-b801-742e7db45b9a</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Hashim/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Hashim/backdrop.jpg</fanart>
+  </art>
+</artist>

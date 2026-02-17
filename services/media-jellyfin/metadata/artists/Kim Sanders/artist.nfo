@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Kim Sanders</title>
+  <runtime>4</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>ba77d6d9-fc71-482c-97f5-91909135728c</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Kim Sanders/folder.jpg</poster>
+  </art>
+</artist>

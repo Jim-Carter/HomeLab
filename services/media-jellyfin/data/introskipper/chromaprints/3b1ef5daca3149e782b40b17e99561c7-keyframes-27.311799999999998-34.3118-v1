@@ -1,0 +1,58 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Star Trek - Starfleet Academy/Season 1/Star Trek - Starfleet Academy - S01E06 - Come, Let's Away WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:01:44.83, start: 0.000000, bitrate: 9429 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 8787459
+        DURATION        : 01:01:44.826000000
+        NUMBER_OF_FRAMES: 88827
+        NUMBER_OF_BYTES : 4069501235
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 01:01:44.832000000
+        NUMBER_OF_FRAMES: 115776
+        NUMBER_OF_BYTES : 296386560
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 78
+        DURATION        : 01:01:23.115000000
+        NUMBER_OF_FRAMES: 1140
+        NUMBER_OF_BYTES : 36223
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] n:   0 pts:    716 pts_time:0.716   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2576034C plane_checksum:[54CAD44C DF826D1C B170C1C6] mean:[192 78 143] stdev:[42.5 31.8 29.6]
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 8787459
+        DURATION        : 01:01:44.826000000
+        NUMBER_OF_FRAMES: 88827
+        NUMBER_OF_BYTES : 4069501235
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] n:   1 pts:   2718 pts_time:2.718   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:07DBD52E plane_checksum:[5C081A6C 6CC6098C 4E80B136] mean:[62 129 140] stdev:[57.7 19.0 16.7]
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] n:   2 pts:   4720 pts_time:4.72    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EB53D44D plane_checksum:[2F205DA6 DDC5BB4C DDC5BB4C] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] n:   3 pts:   6722 pts_time:6.722   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:1D56E01E plane_checksum:[20BD693D 1B49B2AE 106EC424] mean:[17 128 128] stdev:[8.4 1.1 0.3]
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] n:   4 pts:   8724 pts_time:8.724   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:114E1CEE plane_checksum:[7E0BACDD C44F9AAD 1460D546] mean:[18 128 128] stdev:[15.8 3.0 1.2]
+[Parsed_showinfo_0 @ 0x7ccd83c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7ccd89080440] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.75 bitrate=N/A speed=54.3x    

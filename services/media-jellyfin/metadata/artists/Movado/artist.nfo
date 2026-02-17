@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Movado</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>82705f22-a8ec-499c-8f41-8ee6b47a9459</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Movado/folder.jpg</poster>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Westlife</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Westlife/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Westlife/backdrop.jpg</fanart>
+  </art>
+</artist>

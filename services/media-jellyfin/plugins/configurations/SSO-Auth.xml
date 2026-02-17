@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SamlConfigs />
+  <OidConfigs>
+    <item>
+      <key>
+        <string>authelia</string>
+      </key>
+      <value>
+        <PluginConfiguration>
+          <OidEndpoint>https://auth.carter-home.com</OidEndpoint>
+          <OidClientId>1093485542554-6mtib67nboqp51mcr014ev83mt177583.apps.googleusercontent.com</OidClientId>
+          <OidSecret>CON5szTNzve5WxNldmKgfycR5ElYZQh3z5MsLJlSZHo=</OidSecret>
+          <Enabled>true</Enabled>
+          <EnableAuthorization>true</EnableAuthorization>
+          <EnableAllFolders>true</EnableAllFolders>
+          <EnabledFolders>
+            <string>4e985111ed7f570b595204d82adb02f3</string>
+            <string>f137a2dd21bbc1b99aa5c0f6bf02a805</string>
+            <string>7e64e319657a9516ec78490da03edccb</string>
+            <string>a656b907eb3a73532e40e44b968d0225</string>
+          </EnabledFolders>
+          <AdminRoles>
+            <string>jellyfin-admins</string>
+          </AdminRoles>
+          <Roles>
+            <string>jellyfin-users</string>
+            <string>jellyfin-admins</string>
+          </Roles>
+          <EnableFolderRoles>false</EnableFolderRoles>
+          <EnableLiveTvRoles>false</EnableLiveTvRoles>
+          <EnableLiveTv>false</EnableLiveTv>
+          <EnableLiveTvManagement>false</EnableLiveTvManagement>
+          <LiveTvRoles />
+          <LiveTvManagementRoles />
+          <FolderRoleMappings />
+          <RoleClaim>groups</RoleClaim>
+          <OidScopes>
+            <string>openid</string>
+            <string>profile</string>
+            <string>email</string>
+            <string>groups</string>
+          </OidScopes>
+          <PortOverride xsi:nil="true" />
+          <NewPath>true</NewPath>
+          <CanonicalLinks />
+          <DefaultUsernameClaim>preferred_username</DefaultUsernameClaim>
+          <DisableHttps>false</DisableHttps>
+          <DisablePushedAuthorization>false</DisablePushedAuthorization>
+          <DoNotValidateEndpoints>false</DoNotValidateEndpoints>
+          <DoNotValidateIssuerName>false</DoNotValidateIssuerName>
+        </PluginConfiguration>
+      </value>
+    </item>
+  </OidConfigs>
+</PluginConfiguration>

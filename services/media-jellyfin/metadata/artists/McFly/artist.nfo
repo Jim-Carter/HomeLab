@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>McFly</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>72d3dc3f-3984-42b9-89de-42d6eeb1abf3</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/McFly/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/McFly/backdrop.jpg</fanart>
+  </art>
+</artist>

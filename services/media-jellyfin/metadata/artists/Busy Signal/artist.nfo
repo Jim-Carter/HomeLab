@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Busy Signal</title>
+  <runtime>2</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>63e2a7b3-3167-460f-9f72-24af5670b7bc</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Busy Signal/folder.jpg</poster>
+  </art>
+</artist>

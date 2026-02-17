@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Sys Bjerre</title>
+  <runtime>3</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>c58962ff-67e6-48cb-a117-50490aa7f1b2</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Sys Bjerre/folder.jpg</poster>
+  </art>
+</artist>

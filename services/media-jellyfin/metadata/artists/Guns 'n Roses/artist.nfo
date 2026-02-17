@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Guns 'n Roses                 </title>
+  <runtime>5</runtime>
+  <musicbrainzartistid>eeb1195b-f213-4ce1-b28c-8565211f8e43</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Guns 'n Roses/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Guns 'n Roses/backdrop.jpg</fanart>
+  </art>
+</artist>

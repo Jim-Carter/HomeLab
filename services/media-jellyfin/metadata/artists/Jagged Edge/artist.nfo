@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Jagged Edge</title>
+  <runtime>4</runtime>
+  <genre>R&amp;B</genre>
+  <musicbrainzartistid>8b4d99eb-7a54-4648-b299-8e1564d11385</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Jagged Edge/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Jagged Edge/backdrop.jpg</fanart>
+  </art>
+</artist>

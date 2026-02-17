@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Cyndi Lauper</title>
+  <runtime>13</runtime>
+  <genre>Other</genre>
+  <genre>Pop</genre>
+  <musicbrainzartistid>7bd9e20e-74b9-446a-a2ed-a223f82a36e7</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Cyndi Lauper/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Cyndi Lauper/backdrop.jpg</fanart>
+  </art>
+</artist>

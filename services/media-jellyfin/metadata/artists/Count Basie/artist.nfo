@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Count Basie</title>
+  <runtime>3</runtime>
+  <genre>Jazz</genre>
+  <musicbrainzartistid>0dbd6300-efdc-420b-857e-895e18fad317</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Count Basie/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Count Basie/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,75 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/PONIES/Season 1/PONIES - S01E03 - Backstreets WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:48:03.42, start: 0.000000, bitrate: 9216 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1792x1080 [SAR 225:224 DAR 5:3], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 8573619
+        DURATION        : 00:48:03.422000000
+        NUMBER_OF_FRAMES: 69133
+        NUMBER_OF_BYTES : 3090170281
+        _STATISTICS_WRITING_APP: mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:48:03.424000000
+        NUMBER_OF_FRAMES: 90107
+        NUMBER_OF_BYTES : 230673920
+        _STATISTICS_WRITING_APP: mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 73
+        DURATION        : 00:47:48.256000000
+        NUMBER_OF_FRAMES: 741
+        NUMBER_OF_BYTES : 26290
+        _STATISTICS_WRITING_APP: mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 78
+        DURATION        : 00:47:48.256000000
+        NUMBER_OF_FRAMES: 833
+        NUMBER_OF_BYTES : 28070
+        _STATISTICS_WRITING_APP: mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Latin American (SDH)
+        BPS             : 86
+        DURATION        : 00:46:35.184000000
+        NUMBER_OF_FRAMES: 839
+        NUMBER_OF_BYTES : 30358
+        _STATISTICS_WRITING_APP: mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] n:   0 pts:   1878 pts_time:1.878   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:225/224 s:1792x1080 i:P iskey:1 type:I checksum:35176DEA plane_checksum:[F27CC42B 3860FDB2 72DBABEF] mean:[16 128 128] stdev:[5.6 3.0 2.5]
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1792x1080 [SAR 225:224 DAR 5:3], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 8573619
+        DURATION        : 00:48:03.422000000
+        NUMBER_OF_FRAMES: 69133
+        NUMBER_OF_BYTES : 3090170281
+        _STATISTICS_WRITING_APP: mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] n:   1 pts:   3880 pts_time:3.88    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:225/224 s:1792x1080 i:P iskey:1 type:I checksum:4D6E41B1 plane_checksum:[85B625BD 84CA0EAA 7A340D4A] mean:[16 128 128] stdev:[0.4 0.1 0.1]
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] n:   2 pts:   5882 pts_time:5.882   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:225/224 s:1792x1080 i:P iskey:1 type:I checksum:D2760A75 plane_checksum:[A1219BA8 4556375F 4556375F] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] n:   3 pts:   7884 pts_time:7.884   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:225/224 s:1792x1080 i:P iskey:1 type:I checksum:D28B4362 plane_checksum:[04A0597E 7BA5F253 C8EEF773] mean:[54 123 123] stdev:[30.0 6.5 7.2]
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] n:   4 pts:   9886 pts_time:9.886   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:225/224 s:1792x1080 i:P iskey:1 type:I checksum:75D60B51 plane_checksum:[6AE96AD5 F4C5AF6A 14DFF0F4] mean:[54 123 123] stdev:[30.1 6.5 7.3]
+[Parsed_showinfo_0 @ 0x70ba8100a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x70ba86880740] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.92 bitrate=N/A speed=25.6x    

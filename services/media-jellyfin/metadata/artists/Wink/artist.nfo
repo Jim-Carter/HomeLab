@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Wink</title>
+  <runtime>7</runtime>
+  <genre>&lt;Unknown&gt;</genre>
+  <musicbrainzartistid>996a7ed9-d3ae-4a09-819d-c864e7056b47</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Wink/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Wink/backdrop.jpg</fanart>
+  </art>
+</artist>

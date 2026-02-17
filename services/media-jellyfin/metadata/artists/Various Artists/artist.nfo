@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Various Artists</title>
+  <runtime>83</runtime>
+  <genre>Breakbeats</genre>
+  <genre>Dance</genre>
+  <genre>Dj mixes</genre>
+  <genre>Miscellaneous</genre>
+  <genre>Unclassifiable</genre>
+  <musicbrainzartistid>89ad4ac3-39f7-470e-963a-56509c546377</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Various Artists/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Various Artists/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Me &amp; My</title>
+  <runtime>3</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>82b06add-01e7-42bf-b538-0de83f584b6f</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Me &amp; My/folder.jpg</poster>
+  </art>
+</artist>

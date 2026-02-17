@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Philip Bailey</title>
+  <runtime>5</runtime>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>f4b25300-be93-49bc-9d44-15f9de480f50</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Philip Bailey/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Philip Bailey/backdrop.jpg</fanart>
+  </art>
+</artist>

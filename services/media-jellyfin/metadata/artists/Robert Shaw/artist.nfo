@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Robert Shaw</title>
+  <runtime>82</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>a50d048e-bca0-44c8-99db-c046d73f2213</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Robert Shaw/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Robert Shaw/backdrop.jpg</fanart>
+  </art>
+</artist>

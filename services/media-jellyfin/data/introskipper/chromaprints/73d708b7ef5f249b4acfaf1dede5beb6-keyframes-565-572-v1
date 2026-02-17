@@ -1,0 +1,90 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Star Trek - Starfleet Academy/Season 1/Star Trek - Starfleet Academy - S01E03 - Vitus Reflux WEBDL-1080p.mkv':
+  Metadata:
+    title           : Star Trek: Starfleet Academy S01E03 Vitus Reflux
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:02:40.86, start: 0.000000, bitrate: 9854 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 462.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 462.000000, end 570.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 570.000000, end 3696.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 3696.000000, end 3760.864000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 9211910
+        DURATION        : 01:02:40.841000000
+        NUMBER_OF_FRAMES: 90170
+        NUMBER_OF_BYTES : 4330566462
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United States)
+        BPS             : 640000
+        DURATION        : 01:02:40.864000000
+        NUMBER_OF_FRAMES: 117527
+        NUMBER_OF_BYTES : 300869120
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English (United States)
+        BPS             : 82
+        DURATION        : 01:00:34.936000000
+        NUMBER_OF_FRAMES: 1187
+        NUMBER_OF_BYTES : 37396
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (United States) | (SDH)
+        BPS             : 89
+        DURATION        : 01:01:22.375000000
+        NUMBER_OF_FRAMES: 1293
+        NUMBER_OF_BYTES : 41043
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] n:   0 pts:   1566 pts_time:1.566   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F98164F1 plane_checksum:[8EB67ABD 747B0524 F921E501] mean:[137 126 126] stdev:[64.9 5.8 6.5]
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Star Trek: Starfleet Academy S01E03 Vitus Reflux
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 03
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        BPS             : 9211910
+        DURATION        : 01:02:40.841000000
+        NUMBER_OF_FRAMES: 90170
+        NUMBER_OF_BYTES : 4330566462
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] n:   1 pts:   3568 pts_time:3.568   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:366F3B7B plane_checksum:[0E1129FD E49C5876 62E5B8F9] mean:[134 126 125] stdev:[66.4 5.7 6.4]
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] n:   2 pts:   5570 pts_time:5.57    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AD8D964A plane_checksum:[402B0FE3 7AEDBABE 8119CB9A] mean:[128 127 124] stdev:[66.7 5.6 6.3]
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] n:   3 pts:   7572 pts_time:7.572   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2D342BC4 plane_checksum:[C98966F1 953393E2 69A530E2] mean:[93 115 139] stdev:[48.7 11.5 20.3]
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] n:   4 pts:   9574 pts_time:9.574   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:4E3CCD37 plane_checksum:[E48F6E2F E0AD5652 2B6208B6] mean:[84 116 137] stdev:[49.8 11.6 20.0]
+[Parsed_showinfo_0 @ 0x7eeac860a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7eeacd880500] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.63 bitrate=N/A speed=  20x    

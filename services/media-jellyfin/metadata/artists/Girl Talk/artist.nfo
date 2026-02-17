@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Girl Talk</title>
+  <runtime>71</runtime>
+  <country />
+  <genre>Girl Talk</genre>
+  <studio />
+  <musicbrainzartistid>24e36781-1f4a-40af-bd18-c5de61f10c66</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Girl Talk/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Girl Talk/backdrop.jpg</fanart>
+  </art>
+</artist>

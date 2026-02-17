@@ -1,0 +1,70 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Spartacus - House of Ashur/Season 1/Spartacus - House of Ashur - S01E09 - Those Who Remain WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:51:56.83, start: 0.000000, bitrate: 10118 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9476057
+        DURATION        : 00:51:56.781000000
+        NUMBER_OF_FRAMES: 74728
+        NUMBER_OF_BYTES : 3691849375
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:51:56.832000000
+        NUMBER_OF_FRAMES: 97401
+        NUMBER_OF_BYTES : 249346560
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 74
+        DURATION        : 00:50:46.752000000
+        NUMBER_OF_FRAMES: 1002
+        NUMBER_OF_BYTES : 28187
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Español (Latinoamérica) (SDH)
+        BPS             : 77
+        DURATION        : 00:51:00.599000000
+        NUMBER_OF_FRAMES: 1028
+        NUMBER_OF_BYTES : 29762
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:0 pblack:72 pts:2 t:0.002000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9476057
+        DURATION        : 00:51:56.781000000
+        NUMBER_OF_FRAMES: 74728
+        NUMBER_OF_BYTES : 3691849375
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:1 pblack:54 pts:43 t:0.043000 type:B last_keyframe:0
+frame=   27 fps=0.0 q=-0.0 size=N/A time=00:00:01.12 bitrate=N/A speed=2.25x    [Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:36 pblack:50 pts:1503 t:1.503000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:37 pblack:58 pts:1545 t:1.545000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:38 pblack:72 pts:1587 t:1.587000 type:P last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:39 pblack:90 pts:1628 t:1.628000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:40 pblack:99 pts:1670 t:1.670000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:41 pblack:100 pts:1712 t:1.712000 type:P last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:42 pblack:100 pts:1753 t:1.753000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:43 pblack:100 pts:1795 t:1.795000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:44 pblack:100 pts:1837 t:1.837000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:45 pblack:100 pts:1879 t:1.879000 type:P last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:46 pblack:100 pts:1920 t:1.920000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:47 pblack:100 pts:1962 t:1.962000 type:B last_keyframe:6
+[Parsed_blackframe_0 @ 0x7800c6a0c0c0] frame:48 pblack:100 pts:2004 t:2.004000 type:B last_keyframe:6
+[out#0/null @ 0x7800cba805c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.25x    

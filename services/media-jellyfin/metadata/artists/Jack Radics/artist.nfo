@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Jack Radics</title>
+  <runtime>3</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>7b68b1b6-856a-4697-85b4-6b0851ba7c2b</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Jack Radics/folder.jpg</poster>
+  </art>
+</artist>

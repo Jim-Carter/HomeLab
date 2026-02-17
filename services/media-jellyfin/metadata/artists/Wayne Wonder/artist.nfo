@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Wayne Wonder</title>
+  <runtime>2</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>fa5ecc27-10f6-41eb-90ac-9498a2bf6b43</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Wayne Wonder/folder.jpg</poster>
+  </art>
+</artist>

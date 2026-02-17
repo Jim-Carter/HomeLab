@@ -1,0 +1,87 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Maigret (2025)/Season 1/Maigret (2025) - S01E06 - Maigret Comes Home (2) WEBDL-1080p.mkv':
+  Metadata:
+    title           : Maigret S01E06 Maigret Comes Home, Part Two
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:52:17.44, start: 0.000000, bitrate: 9207 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 7.000000, end 19.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 19.000000, end 3107.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 3107.000000, end 3137.440000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 8564790
+        DURATION        : 00:52:17.440000000
+        NUMBER_OF_FRAMES: 78436
+        NUMBER_OF_BYTES : 3358939556
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:52:17.440000000
+        NUMBER_OF_FRAMES: 98045
+        NUMBER_OF_BYTES : 250995200
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 62
+        DURATION        : 00:51:40.476000000
+        NUMBER_OF_FRAMES: 749
+        NUMBER_OF_BYTES : 24191
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 66
+        DURATION        : 00:51:49.727000000
+        NUMBER_OF_FRAMES: 812
+        NUMBER_OF_BYTES : 25792
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] n:   0 pts:    900 pts_time:0.9     duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:28B04D97 plane_checksum:[0FD2BFF5 4F602F25 4CA45E6E] mean:[88 118 136] stdev:[42.3 7.6 7.1]
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Maigret S01E06 Maigret Comes Home, Part Two
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : Chapter 03
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default) (original)
+      Metadata:
+        BPS             : 8564790
+        DURATION        : 00:52:17.440000000
+        NUMBER_OF_FRAMES: 78436
+        NUMBER_OF_BYTES : 3358939556
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] n:   1 pts:   2900 pts_time:2.9     duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2FCD5B99 plane_checksum:[15B99215 6C7C7812 F5BF5163] mean:[69 120 134] stdev:[30.1 5.3 4.7]
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] n:   2 pts:   4900 pts_time:4.9     duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:055CDB1E plane_checksum:[7CBA748B 219A9B3C BF4ACB48] mean:[16 128 128] stdev:[2.3 0.3 0.2]
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] n:   3 pts:   6900 pts_time:6.9     duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:ED12AB8E plane_checksum:[95E35AE2 AC2636C4 3B9719E8] mean:[79 127 127] stdev:[42.8 5.7 5.8]
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] n:   4 pts:   8900 pts_time:8.9     duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:A5D371B4 plane_checksum:[BC06AAE7 DB8A8031 144C468D] mean:[85 127 126] stdev:[42.9 4.9 5.0]
+[Parsed_showinfo_0 @ 0x7f87c880a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7f87cda805c0] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.96 bitrate=N/A speed=  16x    

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Carlos Nunez</title>
+  <runtime>6</runtime>
+  <genre>Celtic</genre>
+  <musicbrainzartistid>3d9ba6f0-c4ed-450b-a150-37e2ebf13e77</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Carlos Nunez/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Carlos Nunez/backdrop.jpg</fanart>
+  </art>
+</artist>

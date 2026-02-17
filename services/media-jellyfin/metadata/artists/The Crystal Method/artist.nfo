@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Crystal Method</title>
+  <runtime>45</runtime>
+  <genre>Alternative</genre>
+  <genre>Dance</genre>
+  <genre>Electronic</genre>
+  <genre>Electronica</genre>
+  <genre>Techno</genre>
+  <genre>Trance</genre>
+  <musicbrainzartistid>aaf09f31-bb5c-43e5-9f54-bb6554c33a71</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Crystal Method/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Crystal Method/backdrop.jpg</fanart>
+  </art>
+</artist>

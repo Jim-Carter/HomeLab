@@ -1,0 +1,260 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/High Potential/Season 1/High Potential - S01E10 - Chutes and Murders WEBDL-720p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:42:35.55, start: 0.000000, bitrate: 3094 kb/s
+  Chapters:
+    Chapter #0:0: start 33.867000, end 38.789000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 38.789000, end 2520.979000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 2520.979000, end 2555.552000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2832465
+        DURATION        : 00:42:35.512000000
+        NUMBER_OF_FRAMES: 61271
+        NUMBER_OF_BYTES : 904800083
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:42:35.552000000
+        NUMBER_OF_FRAMES: 79861
+        NUMBER_OF_BYTES : 81777664
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 109
+        DURATION        : 00:41:36.619000000
+        NUMBER_OF_FRAMES: 847
+        NUMBER_OF_BYTES : 34286
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 114
+        DURATION        : 00:41:38.746000000
+        NUMBER_OF_FRAMES: 878
+        NUMBER_OF_BYTES : 35756
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(cze): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 89
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 818
+        NUMBER_OF_BYTES : 28260
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(dan): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 93
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 829
+        NUMBER_OF_BYTES : 29611
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(ger): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 107
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 802
+        NUMBER_OF_BYTES : 34101
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(gre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 153
+        DURATION        : 00:41:55.012000000
+        NUMBER_OF_FRAMES: 707
+        NUMBER_OF_BYTES : 48162
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 90
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 794
+        NUMBER_OF_BYTES : 28847
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 94
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 831
+        NUMBER_OF_BYTES : 30085
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fin): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 89
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 713
+        NUMBER_OF_BYTES : 28413
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 90
+        DURATION        : 00:42:16.492000000
+        NUMBER_OF_FRAMES: 837
+        NUMBER_OF_BYTES : 28707
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(hun): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 99
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 759
+        NUMBER_OF_BYTES : 31553
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(ita): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 91
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 775
+        NUMBER_OF_BYTES : 28955
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(jpn): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 76
+        DURATION        : 00:42:11.946000000
+        NUMBER_OF_FRAMES: 763
+        NUMBER_OF_BYTES : 24268
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(kor): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 113
+        DURATION        : 00:42:12.113000000
+        NUMBER_OF_FRAMES: 845
+        NUMBER_OF_BYTES : 35934
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(dut): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 85
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 634
+        NUMBER_OF_BYTES : 27148
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(nor): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 92
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 768
+        NUMBER_OF_BYTES : 29301
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(pol): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 87
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 786
+        NUMBER_OF_BYTES : 27721
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 92
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 782
+        NUMBER_OF_BYTES : 29435
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 98
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 828
+        NUMBER_OF_BYTES : 31328
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(rum): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 94
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 719
+        NUMBER_OF_BYTES : 29956
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(slo): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 88
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 827
+        NUMBER_OF_BYTES : 28139
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(swe): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 95
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 849
+        NUMBER_OF_BYTES : 30181
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(tur): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 95
+        DURATION        : 00:41:55.012000000
+        NUMBER_OF_FRAMES: 711
+        NUMBER_OF_BYTES : 29994
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(chi): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Traditional
+        BPS             : 98
+        DURATION        : 00:42:16.450000000
+        NUMBER_OF_FRAMES: 853
+        NUMBER_OF_BYTES : 31189
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Scene 1
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2832465
+        DURATION        : 00:42:35.512000000
+        NUMBER_OF_FRAMES: 61271
+        NUMBER_OF_BYTES : 904800083
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:34 pblack:100 pts:1452 t:1.452000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:35 pblack:100 pts:1494 t:1.494000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:36 pblack:100 pts:1536 t:1.536000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:37 pblack:100 pts:1577 t:1.577000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:38 pblack:100 pts:1619 t:1.619000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:39 pblack:100 pts:1661 t:1.661000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:40 pblack:100 pts:1703 t:1.703000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:41 pblack:100 pts:1744 t:1.744000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:42 pblack:100 pts:1786 t:1.786000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:43 pblack:100 pts:1828 t:1.828000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:44 pblack:100 pts:1869 t:1.869000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:45 pblack:100 pts:1911 t:1.911000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:46 pblack:100 pts:1953 t:1.953000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:47 pblack:100 pts:1995 t:1.995000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x74016b20c0c0] frame:48 pblack:100 pts:2036 t:2.036000 type:B last_keyframe:0
+[out#0/null @ 0x7401703c9780] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=13.2x    

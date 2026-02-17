@@ -1,0 +1,77 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/You/Season 5/You - S05E03 - Impostor Syndrome WEBRip-1080p.mkv':
+  Metadata:
+    encoder         : Lavf61.1.100
+    creation_time   : 2025-04-24T20:20:18.000000Z
+  Duration: 00:53:45.06, start: 0.000000, bitrate: 1222 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 4.505000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 4.505000, end 73.532000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 73.532000, end 3076.574000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 3076.574000, end 3225.014000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(ara): Subtitle: ass (ssa)
+  Stream #0:3(chi): Subtitle: ass (ssa)
+  Stream #0:4(chi): Subtitle: ass (ssa)
+  Stream #0:5(hrv): Subtitle: ass (ssa)
+  Stream #0:6(cze): Subtitle: ass (ssa)
+  Stream #0:7(dan): Subtitle: ass (ssa)
+  Stream #0:8(dut): Subtitle: ass (ssa)
+  Stream #0:9(eng): Subtitle: ass (ssa)
+  Stream #0:10(eng): Subtitle: ass (ssa)
+  Stream #0:11(fin): Subtitle: ass (ssa)
+  Stream #0:12(fre): Subtitle: ass (ssa)
+  Stream #0:13(fil): Subtitle: ass (ssa)
+  Stream #0:14(ger): Subtitle: ass (ssa)
+  Stream #0:15(gre): Subtitle: ass (ssa)
+  Stream #0:16(heb): Subtitle: ass (ssa)
+  Stream #0:17(hun): Subtitle: ass (ssa)
+  Stream #0:18(ind): Subtitle: ass (ssa)
+  Stream #0:19(ita): Subtitle: ass (ssa)
+  Stream #0:20(jpn): Subtitle: ass (ssa)
+  Stream #0:21(kor): Subtitle: ass (ssa)
+  Stream #0:22(may): Subtitle: ass (ssa)
+  Stream #0:23(nob): Subtitle: ass (ssa)
+  Stream #0:24(pol): Subtitle: ass (ssa)
+  Stream #0:25(por): Subtitle: ass (ssa)
+  Stream #0:26(por): Subtitle: ass (ssa)
+  Stream #0:27(rum): Subtitle: ass (ssa)
+  Stream #0:28(rus): Subtitle: ass (ssa)
+  Stream #0:29(spa): Subtitle: ass (ssa)
+  Stream #0:30(spa): Subtitle: ass (ssa)
+  Stream #0:31(swe): Subtitle: ass (ssa)
+  Stream #0:32(tha): Subtitle: ass (ssa)
+  Stream #0:33(tur): Subtitle: ass (ssa)
+  Stream #0:34(ukr): Subtitle: ass (ssa)
+  Stream #0:35(vie): Subtitle: ass (ssa)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x70f54420a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x70f54420a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x70f54420a0c0] n:   0 pts:   5067 pts_time:5.067   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:0A17C2EF plane_checksum:[23129F7C AA875493 F68FCED1] mean:[123 506 517] stdev:[49.9 13.2 16.1]
+[Parsed_showinfo_0 @ 0x70f54420a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : Recap
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x70f54420a0c0] n:   1 pts:   7111 pts_time:7.111   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:89FE745C plane_checksum:[A875F49B 630E501B 38C42F97] mean:[120 508 515] stdev:[60.6 9.2 14.5]
+[Parsed_showinfo_0 @ 0x70f54420a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x70f54420a0c0] n:   2 pts:   8946 pts_time:8.946   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:4A38BF7E plane_checksum:[F49B2145 3B8C8802 6B7A1637] mean:[172 491 542] stdev:[93.7 20.5 34.5]
+[Parsed_showinfo_0 @ 0x70f54420a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x70f549100680] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.08 bitrate=N/A speed=27.3x    

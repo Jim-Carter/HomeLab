@@ -1,0 +1,60 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7af4f4cbe000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/TV/Mr.Inbetween.2018.S01.03.1080p.WebRip.X264.Will1869/S03/Mr Inbetween - S03E01 - Coulda Shoulda.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S03E01 - Coulda Shoulda
+    date            : 2023
+    encoder         : DVDFab
+  Duration: 00:28:16.12, start: 0.000000, bitrate: 3430 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 3159 kb/s, 23.81 fps, 23.81 tbr, 23809 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x0]: Video: bmp, bgra, 640x360, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] config in time_base: 1/23809, frame_rate: 23809/1000
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   0 pts:    789 pts_time:0.0331387 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F0C711DE plane_checksum:[B042A5DF A395C670 F565A571] mean:[24 128 126] stdev:[18.1 2.1 2.8]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S03E01 - Coulda Shoulda
+    date            : 2023
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.81 fps, 23.81 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   1 pts:  24789 pts_time:1.041161 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5B974DDF plane_checksum:[B446087C 7C10A7F2 77AB9D62] mean:[24 128 126] stdev:[18.1 2.1 2.8]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   2 pts:  48789 pts_time:2.049183 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:17C9AA91 plane_checksum:[95FFC914 F06AB8FE C8C22870] mean:[24 128 127] stdev:[15.3 1.7 2.3]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   3 pts:  72789 pts_time:3.057205 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5AD95309 plane_checksum:[907E663A 1BB15A85 4E6B923B] mean:[39 122 136] stdev:[30.2 11.0 13.7]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   4 pts:  96789 pts_time:4.065227 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:13DA68AB plane_checksum:[CF91CA1B B036A4C8 9E3EF9AA] mean:[40 122 136] stdev:[32.2 11.0 13.6]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   5 pts: 120789 pts_time:5.07325 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:4C7BCB16 plane_checksum:[6F96B3E9 1F197F1B 4CA79803] mean:[35 123 134] stdev:[26.7 9.1 11.2]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   6 pts: 144789 pts_time:6.081272 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:033B0CDE plane_checksum:[B71867E8 7D191CA5 B3538842] mean:[38 122 136] stdev:[30.4 10.6 13.1]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] n:   7 pts: 167789 pts_time:7.047293 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:852ECC97 plane_checksum:[76771516 83783B12 2DD67C6F] mean:[42 126 130] stdev:[34.4 6.2 8.2]
+[Parsed_showinfo_0 @ 0x7af4eec0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x7af4f4c808c0] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    7 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.13 bitrate=N/A speed=18.5x    

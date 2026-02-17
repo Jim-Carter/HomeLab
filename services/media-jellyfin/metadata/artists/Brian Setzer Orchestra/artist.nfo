@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Brian Setzer Orchestra</title>
+  <runtime>6</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>3c98e32e-5bf5-4484-bdab-bd8d1736112a</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Brian Setzer Orchestra/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Brian Setzer Orchestra/backdrop.jpg</fanart>
+  </art>
+</artist>

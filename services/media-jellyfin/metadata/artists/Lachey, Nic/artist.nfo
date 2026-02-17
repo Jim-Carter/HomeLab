@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Lachey, Nic</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>51eb1070-465f-4ec5-bbd9-2c3f4d82424f</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Lachey, Nic/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Lachey, Nic/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Paula Abdul</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>275d1fca-22e8-46b9-85e6-c3523098a599</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Paula Abdul/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Paula Abdul/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Count Basie's Kansas City Seven</title>
+  <runtime>3</runtime>
+  <genre>Jazz</genre>
+  <musicbrainzartistid>265af63b-5913-42ea-80be-850993f21859</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Count Basie's Kansas City Seven/folder.jpg</poster>
+  </art>
+</artist>

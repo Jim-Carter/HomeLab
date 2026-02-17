@@ -1,0 +1,58 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E01 - I See Him WEBDL-1080p.mkv':
+  Metadata:
+    title           : Robin Hood S01E01 I See Him
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:59:50.05, start: 0.000000, bitrate: 9694 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 9051927
+        DURATION        : 00:59:50.045000000
+        NUMBER_OF_FRAMES: 86075
+        NUMBER_OF_BYTES : 4062103227
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:59:50.048000000
+        NUMBER_OF_FRAMES: 112189
+        NUMBER_OF_BYTES : 287203840
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 47
+        DURATION        : 00:55:33.872000000
+        NUMBER_OF_FRAMES: 719
+        NUMBER_OF_BYTES : 19898
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 52
+        DURATION        : 00:58:01.687000000
+        NUMBER_OF_FRAMES: 875
+        NUMBER_OF_BYTES : 22952
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Robin Hood S01E01 I See Him
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        BPS             : 9051927
+        DURATION        : 00:59:50.045000000
+        NUMBER_OF_FRAMES: 86075
+        NUMBER_OF_BYTES : 4062103227
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x73fdf6e805c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=2.06x    

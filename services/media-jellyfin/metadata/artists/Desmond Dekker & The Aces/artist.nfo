@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Desmond Dekker &amp; The Aces</title>
+  <runtime>4</runtime>
+  <genre>Reggae</genre>
+  <musicbrainzartistid>ba971bf0-8316-4d0d-820b-57f4882c497f</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Desmond Dekker &amp; The Aces/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Desmond Dekker &amp; The Aces/backdrop.jpg</fanart>
+  </art>
+</artist>

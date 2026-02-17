@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Maria Montell</title>
+  <runtime>3</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>5f6e60f5-f65d-42e8-a0f6-b40b80d05bd5</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Maria Montell/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Maria Montell/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Ray Anthony</title>
+  <runtime>10</runtime>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>2ae30e31-a4ff-4ef0-bbaf-7066817adf38</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Ray Anthony/folder.jpg</poster>
+  </art>
+</artist>

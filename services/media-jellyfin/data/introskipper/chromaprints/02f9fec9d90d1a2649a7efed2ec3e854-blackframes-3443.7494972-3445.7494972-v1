@@ -1,0 +1,117 @@
+[matroska,webm @ 0x7a8d418be000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x7a8d418be000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 3/You - S03E10 - What is Love WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E10.What.is.Love.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T09:10:02.000000Z
+  Duration: 00:59:56.58, start: 0.000000, bitrate: 2862 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2544219
+        BPS-eng         : 2544219
+        DURATION        : 00:59:55.592000000
+        DURATION-eng    : 00:59:55.592000000
+        NUMBER_OF_FRAMES: 86208
+        NUMBER_OF_FRAMES-eng: 86208
+        NUMBER_OF_BYTES : 1143496906
+        NUMBER_OF_BYTES-eng: 1143496906
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:59:56.576000000
+        DURATION-eng    : 00:59:56.576000000
+        NUMBER_OF_FRAMES: 112393
+        NUMBER_OF_FRAMES-eng: 112393
+        NUMBER_OF_BYTES : 115090432
+        NUMBER_OF_BYTES-eng: 115090432
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 31390
+        BPS-eng         : 31390
+        DURATION        : 00:56:37.768000000
+        DURATION-eng    : 00:56:37.768000000
+        NUMBER_OF_FRAMES: 1632
+        NUMBER_OF_FRAMES-eng: 1632
+        NUMBER_OF_BYTES : 13332343
+        NUMBER_OF_BYTES-eng: 13332343
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 32965
+        BPS-eng         : 32965
+        DURATION        : 00:56:37.768000000
+        DURATION-eng    : 00:56:37.768000000
+        NUMBER_OF_FRAMES: 1704
+        NUMBER_OF_FRAMES-eng: 1704
+        NUMBER_OF_BYTES : 14001073
+        NUMBER_OF_BYTES-eng: 14001073
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E10.What.is.Love.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2544219
+        BPS-eng         : 2544219
+        DURATION        : 00:59:55.592000000
+        DURATION-eng    : 00:59:55.592000000
+        NUMBER_OF_FRAMES: 86208
+        NUMBER_OF_FRAMES-eng: 86208
+        NUMBER_OF_BYTES : 1143496906
+        NUMBER_OF_BYTES-eng: 1143496906
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:10:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:10:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:32 pblack:51 pts:1359 t:1.359000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:33 pblack:55 pts:1401 t:1.401000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:34 pblack:61 pts:1443 t:1.443000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:35 pblack:65 pts:1484 t:1.484000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:36 pblack:70 pts:1526 t:1.526000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:37 pblack:75 pts:1568 t:1.568000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:38 pblack:80 pts:1609 t:1.609000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:39 pblack:85 pts:1651 t:1.651000 type:P last_keyframe:16
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:40 pblack:91 pts:1693 t:1.693000 type:I last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:41 pblack:93 pts:1735 t:1.735000 type:P last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:42 pblack:95 pts:1776 t:1.776000 type:P last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:43 pblack:96 pts:1818 t:1.818000 type:P last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:44 pblack:97 pts:1860 t:1.860000 type:P last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:45 pblack:97 pts:1901 t:1.901000 type:P last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:46 pblack:97 pts:1943 t:1.943000 type:P last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:47 pblack:97 pts:1985 t:1.985000 type:P last_keyframe:40
+[Parsed_blackframe_0 @ 0x7a8d3c80c0c0] frame:48 pblack:97 pts:2027 t:2.027000 type:P last_keyframe:40
+[out#0/null @ 0x7a8d418808c0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=5.86x    

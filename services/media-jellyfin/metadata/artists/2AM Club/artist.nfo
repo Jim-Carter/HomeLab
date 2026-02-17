@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>2AM Club</title>
+  <runtime>6</runtime>
+  <genre>JAMS</genre>
+  <musicbrainzartistid>eb4b557d-5181-4720-b4e1-18719c6ca5bf</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/2AM Club/folder.jpg</poster>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>U2</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/U2/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/U2/backdrop.jpg</fanart>
+  </art>
+</artist>

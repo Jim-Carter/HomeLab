@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>John Mogensen</title>
+  <runtime>2</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>f9831636-7bb5-40e2-80f9-553016151850</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/John Mogensen/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/John Mogensen/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Vic Damone</title>
+  <runtime>3</runtime>
+  <genre>Holiday</genre>
+  <musicbrainzartistid>423066e2-4dcb-4014-b824-cc55933f0bf0</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Vic Damone/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Vic Damone/backdrop.jpg</fanart>
+  </art>
+</artist>

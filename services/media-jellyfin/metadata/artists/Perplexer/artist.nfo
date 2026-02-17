@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Perplexer</title>
+  <runtime>4</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>408a603b-5497-476d-8e73-8b756a7b961c</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Perplexer/folder.jpg</poster>
+  </art>
+</artist>

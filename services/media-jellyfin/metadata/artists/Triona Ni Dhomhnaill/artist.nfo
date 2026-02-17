@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Triona Ni Dhomhnaill</title>
+  <runtime>7</runtime>
+  <genre>Celtic</genre>
+  <musicbrainzartistid>0eb0f4b6-9c40-492c-a360-1159368d95ba</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Triona Ni Dhomhnaill/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Triona Ni Dhomhnaill/backdrop.jpg</fanart>
+  </art>
+</artist>

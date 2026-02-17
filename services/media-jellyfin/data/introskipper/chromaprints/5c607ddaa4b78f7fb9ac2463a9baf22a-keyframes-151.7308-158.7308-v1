@@ -1,0 +1,70 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E02 - A Heinous Devil WEBDL-720p.mkv':
+  Metadata:
+    title           : Robin Hood S01E02 A Heinous Devil
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:59:30.59, start: 0.000000, bitrate: 4359 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 3717928
+        DURATION        : 00:59:30.567000000
+        NUMBER_OF_FRAMES: 85608
+        NUMBER_OF_BYTES : 1659389254
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:59:30.592000000
+        NUMBER_OF_FRAMES: 111581
+        NUMBER_OF_BYTES : 285647360
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 35
+        DURATION        : 00:57:44.878000000
+        NUMBER_OF_FRAMES: 559
+        NUMBER_OF_BYTES : 15202
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 40
+        DURATION        : 00:58:11.571000000
+        NUMBER_OF_FRAMES: 707
+        NUMBER_OF_BYTES : 17801
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] n:   0 pts:    421 pts_time:0.421   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:4C75D5CF plane_checksum:[72C224F7 A1CDFE96 77CBB233] mean:[124 117 128] stdev:[64.6 5.8 5.8]
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Robin Hood S01E02 A Heinous Devil
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        BPS             : 3717928
+        DURATION        : 00:59:30.567000000
+        NUMBER_OF_FRAMES: 85608
+        NUMBER_OF_BYTES : 1659389254
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] n:   1 pts:   2423 pts_time:2.423   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:3FB74EC4 plane_checksum:[B7D90000 308A6FAF 185FDF06] mean:[120 120 124] stdev:[54.9 4.2 6.0]
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] n:   2 pts:   4425 pts_time:4.425   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:C21169E5 plane_checksum:[9C146FE0 7A3C5944 1D44A0B2] mean:[124 119 126] stdev:[55.7 5.0 6.3]
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] n:   3 pts:   6427 pts_time:6.427   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:6FD108D7 plane_checksum:[E239FD99 D321FBA0 194F0F80] mean:[84 128 123] stdev:[40.4 1.3 3.3]
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] n:   4 pts:   8429 pts_time:8.429   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:9DE2F134 plane_checksum:[FB4FBF5A B75E79CC F881B7FF] mean:[87 128 123] stdev:[41.6 1.2 3.3]
+[Parsed_showinfo_0 @ 0x7407fd00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7408022805c0] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.46 bitrate=N/A speed=51.5x    

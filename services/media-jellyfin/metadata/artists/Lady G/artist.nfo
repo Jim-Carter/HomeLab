@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Lady G</title>
+  <runtime>1</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>773c2386-a3a4-4c80-bef4-78ee2ab1ae79</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Lady G/folder.jpg</poster>
+  </art>
+</artist>

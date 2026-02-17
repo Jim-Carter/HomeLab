@@ -1,0 +1,34 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/High Potential/Season 2/High Potential - S02E10 - Grounded HDTV-720p.mkv':
+  Metadata:
+    encoder         : libx264 + libebml + libmatroska + libfastrar
+    creation_time   : 2026-01-21T02:17:44.000000Z
+  Duration: 00:42:40.48, start: 0.000000, bitrate: 2726 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709/unknown/unknown, progressive), 1280x720, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:0 pblack:55 pts:37 t:0.037000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709/unknown/unknown, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:1 pblack:55 pts:79 t:0.079000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:2 pblack:55 pts:120 t:0.120000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:3 pblack:55 pts:162 t:0.162000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:4 pblack:56 pts:204 t:0.204000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:5 pblack:55 pts:245 t:0.245000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:6 pblack:55 pts:287 t:0.287000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:7 pblack:55 pts:329 t:0.329000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:8 pblack:55 pts:371 t:0.371000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:9 pblack:55 pts:412 t:0.412000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:10 pblack:55 pts:454 t:0.454000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:11 pblack:55 pts:496 t:0.496000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:12 pblack:55 pts:537 t:0.537000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:13 pblack:55 pts:579 t:0.579000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:14 pblack:55 pts:621 t:0.621000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe3bb00c0c0] frame:15 pblack:55 pts:663 t:0.663000 type:P last_keyframe:0
+[out#0/null @ 0x7fe3bfc802c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=9.37x    

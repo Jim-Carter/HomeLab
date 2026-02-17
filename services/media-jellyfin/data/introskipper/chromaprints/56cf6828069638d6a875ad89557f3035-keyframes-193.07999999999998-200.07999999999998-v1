@@ -1,0 +1,58 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E05 - Go Back to Them WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+  Duration: 00:53:35.52, start: 0.000000, bitrate: 9808 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9166225
+        DURATION        : 00:53:35.504000000
+        NUMBER_OF_FRAMES: 77095
+        NUMBER_OF_BYTES : 3684254534
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:53:35.520000000
+        NUMBER_OF_FRAMES: 100485
+        NUMBER_OF_BYTES : 257241600
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 50
+        DURATION        : 00:52:14.298000000
+        NUMBER_OF_FRAMES: 773
+        NUMBER_OF_BYTES : 19673
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] n:   0 pts:   1114 pts_time:1.114   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:19F457E1 plane_checksum:[6636E554 3D537D17 00B0F558] mean:[121 120 124] stdev:[55.1 4.4 6.3]
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9166225
+        DURATION        : 00:53:35.504000000
+        NUMBER_OF_FRAMES: 77095
+        NUMBER_OF_BYTES : 3684254534
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] n:   1 pts:   3116 pts_time:3.116   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F30A6435 plane_checksum:[A3D2B17E 5607CC06 006BE693] mean:[124 119 125] stdev:[55.2 4.7 6.2]
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] n:   2 pts:   5118 pts_time:5.118   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F77D3D1F plane_checksum:[9DB1DA74 146EB890 F1B9A9FD] mean:[31 123 134] stdev:[10.5 3.6 4.5]
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] n:   3 pts:   7120 pts_time:7.12    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FEF92141 plane_checksum:[CF900D6B 468F5437 985CBF90] mean:[27 125 132] stdev:[8.0 2.9 3.8]
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] n:   4 pts:   9122 pts_time:9.122   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:608276CC plane_checksum:[9A6CFE98 E50F6D56 2CE50ACF] mean:[28 125 132] stdev:[10.5 3.6 3.9]
+[Parsed_showinfo_0 @ 0x73cf1b20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x73cf20880440] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.17 bitrate=N/A speed=13.3x    

@@ -1,0 +1,79 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Mayor of Kingstown/Season 4/Mayor of Kingstown - S04E02 - Promises to Keep WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:51:24.10, start: 0.000000, bitrate: 9883 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9241250
+        DURATION        : 00:51:24.081000000
+        NUMBER_OF_FRAMES: 73944
+        NUMBER_OF_BYTES : 3562595757
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:51:24.096000000
+        NUMBER_OF_FRAMES: 96378
+        NUMBER_OF_BYTES : 246727680
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 78
+        DURATION        : 00:50:33.463000000
+        NUMBER_OF_FRAMES: 901
+        NUMBER_OF_BYTES : 29699
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 87
+        DURATION        : 00:50:40.371000000
+        NUMBER_OF_FRAMES: 1033
+        NUMBER_OF_BYTES : 33138
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:0 pblack:99 pts:22 t:0.022000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9241250
+        DURATION        : 00:51:24.081000000
+        NUMBER_OF_FRAMES: 73944
+        NUMBER_OF_BYTES : 3562595757
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:1 pblack:99 pts:64 t:0.064000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:2 pblack:99 pts:106 t:0.106000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:3 pblack:99 pts:148 t:0.148000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:4 pblack:99 pts:189 t:0.189000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:5 pblack:99 pts:231 t:0.231000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:6 pblack:99 pts:273 t:0.273000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:7 pblack:99 pts:314 t:0.314000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:8 pblack:99 pts:356 t:0.356000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:9 pblack:99 pts:398 t:0.398000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:10 pblack:99 pts:440 t:0.440000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:11 pblack:99 pts:481 t:0.481000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:12 pblack:99 pts:523 t:0.523000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:13 pblack:99 pts:565 t:0.565000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:14 pblack:99 pts:606 t:0.606000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:15 pblack:99 pts:648 t:0.648000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:16 pblack:99 pts:690 t:0.690000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:17 pblack:99 pts:731 t:0.731000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:18 pblack:99 pts:773 t:0.773000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:19 pblack:99 pts:815 t:0.815000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:20 pblack:99 pts:857 t:0.857000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:21 pblack:99 pts:898 t:0.898000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:22 pblack:99 pts:940 t:0.940000 type:I last_keyframe:22
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:23 pblack:99 pts:982 t:0.982000 type:B last_keyframe:22
+[Parsed_blackframe_0 @ 0x75f50160c0c0] frame:24 pblack:99 pts:1023 t:1.023000 type:B last_keyframe:22
+[out#0/null @ 0x75f5064805c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=4.18x    

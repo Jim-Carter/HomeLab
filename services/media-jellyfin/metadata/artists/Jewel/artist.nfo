@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Jewel</title>
+  <runtime>49</runtime>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>abae8575-ec8a-4736-abc3-1ad5093a68aa</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Jewel/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Jewel/backdrop.jpg</fanart>
+  </art>
+</artist>

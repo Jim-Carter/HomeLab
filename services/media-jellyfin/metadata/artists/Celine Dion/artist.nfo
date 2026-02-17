@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Celine Dion</title>
+  <runtime>9</runtime>
+  <musicbrainzartistid>847e8a0c-cc20-4213-9e16-975515c2a926</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Celine Dion/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Celine Dion/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>mario lanza</title>
+  <runtime>6</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>09fa3805-2477-4944-9d30-e4e75fc92954</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/mario lanza/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/mario lanza/backdrop.jpg</fanart>
+  </art>
+</artist>

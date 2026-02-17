@@ -1,0 +1,99 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Landman/Season 2/Landman.S02E08.Handsome.Touched.Me.1080p.PMTP.WEB-DL.DDP5.1.H.264-STC.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2026-01-04T09:48:00.000000Z
+  Duration: 00:50:51.80, start: 0.000000, bitrate: 5082 kb/s
+  Chapters:
+    Chapter #0:0: start 11.000000, end 63.000000
+      Metadata:
+        title           : Preview Start
+    Chapter #0:1: start 63.000000, end 385.000000
+      Metadata:
+        title           : Preview End
+    Chapter #0:2: start 385.000000, end 433.000000
+      Metadata:
+        title           : openCreditStart
+    Chapter #0:3: start 433.000000, end 2980.000000
+      Metadata:
+        title           : openCreditEnd
+    Chapter #0:4: start 2980.000000, end 3051.803000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4888580
+        DURATION        : 00:50:51.757000000
+        NUMBER_OF_FRAMES: 73169
+        NUMBER_OF_BYTES : 1864844798
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 192 kb/s (default)
+      Metadata:
+        BPS             : 192000
+        DURATION        : 00:50:51.803000000
+        NUMBER_OF_FRAMES: 95369
+        NUMBER_OF_BYTES : 73243392
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 87
+        DURATION        : 00:49:58.996000000
+        NUMBER_OF_FRAMES: 1080
+        NUMBER_OF_BYTES : 32809
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Mexico
+        BPS             : 72
+        DURATION        : 00:49:29.383000000
+        NUMBER_OF_FRAMES: 812
+        NUMBER_OF_BYTES : 26933
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   0 pts:    690 pts_time:0.69    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:898B3B9C plane_checksum:[745E2CD1 E5C7B463 748A5A59] mean:[115 108 140] stdev:[54.9 11.3 6.7]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : openCreditEnd
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 4888580
+        DURATION        : 00:50:51.757000000
+        NUMBER_OF_FRAMES: 73169
+        NUMBER_OF_BYTES : 1864844798
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   1 pts:   2692 pts_time:2.692   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:75508967 plane_checksum:[BF2BB55A 968AF4B8 3B03DF37] mean:[127 104 141] stdev:[53.4 10.8 6.6]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   2 pts:   4694 pts_time:4.694   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:CD969370 plane_checksum:[64EBDC1E 432FC6E3 A3E1F051] mean:[119 106 141] stdev:[53.9 11.1 6.8]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   3 pts:   5945 pts_time:5.945   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:746E64F1 plane_checksum:[93EF59E6 FBB5456A 367BC592] mean:[16 128 128] stdev:[0.0 0.4 0.1]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   4 pts:   6321 pts_time:6.321   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:746E64F1 plane_checksum:[93EF59E6 FBB5456A 367BC592] mean:[16 128 128] stdev:[0.0 0.4 0.1]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   5 pts:   6696 pts_time:6.696   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:8146EEDD plane_checksum:[2F205DA6 C792CE52 423EC2D6] mean:[16 128 128] stdev:[0.0 0.1 0.1]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   6 pts:   6738 pts_time:6.738   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EC0F2C71 plane_checksum:[BCCAF131 40A1E3BD 82C95765] mean:[110 105 142] stdev:[45.0 10.7 8.0]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] n:   7 pts:   8698 pts_time:8.698   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:1B17F4BF plane_checksum:[3DC98B8A 2DE538EC EB063049] mean:[111 107 139] stdev:[52.0 10.5 7.9]
+[Parsed_showinfo_0 @ 0x7b82f380a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7b82f8280500] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    7 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.79 bitrate=N/A speed=24.6x    

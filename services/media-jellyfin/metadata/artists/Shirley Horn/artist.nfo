@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Shirley Horn</title>
+  <runtime>4</runtime>
+  <genre>Jazz</genre>
+  <musicbrainzartistid>1f72d108-f2dc-44cd-8213-8d3426cc2c9a</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Shirley Horn/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Shirley Horn/backdrop.jpg</fanart>
+  </art>
+</artist>

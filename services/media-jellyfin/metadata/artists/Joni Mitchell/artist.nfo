@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Joni Mitchell                 </title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>a6de8ef9-b1a1-4756-97aa-481bbb8a4069</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Joni Mitchell/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Joni Mitchell/backdrop.jpg</fanart>
+  </art>
+</artist>

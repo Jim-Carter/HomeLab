@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Public Enemy</title>
+  <runtime>6</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>bf2e15d0-4b77-469e-bfb4-f8414415baca</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Public Enemy/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Public Enemy/backdrop.jpg</fanart>
+  </art>
+</artist>

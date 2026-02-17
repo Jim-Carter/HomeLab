@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>From First To Last</title>
+  <runtime>5</runtime>
+  <genre>Punk</genre>
+  <musicbrainzartistid>7f36c2ba-a338-402f-861f-390229bfae04</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/From First To Last/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/From First To Last/backdrop.jpg</fanart>
+  </art>
+</artist>

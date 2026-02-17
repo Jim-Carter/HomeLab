@@ -1,0 +1,35 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Industry/Season 1/Industry - S01E03 - Notting Hill WEBRip-1080p.mkv':
+  Metadata:
+    creation_time   : 2024-08-26T14:01:51.000000Z
+    ENCODER         : Lavf61.1.100
+  Duration: 00:50:32.74, start: 0.000000, bitrate: 3011 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:50:32.697000000
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        DURATION        : 00:50:32.736000000
+  Stream #0:2(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : SDH
+        DURATION        : 00:50:27.083000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] n:   0 pts:    890 pts_time:0.89    duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:171CDAF4 plane_checksum:[7C4B705E 80A009D0 0C1460C6] mean:[96 508 517] stdev:[75.7 8.8 12.0]
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:50:32.697000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] n:   1 pts:   4351 pts_time:4.351   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:9D888E71 plane_checksum:[6737ED31 59182BB7 4DF4757A] mean:[277 521 511] stdev:[173.1 16.9 18.8]
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] n:   2 pts:  15362 pts_time:15.362  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:CFCFE8F4 plane_checksum:[8ADF1C14 93D967CF 6ABD6511] mean:[193 509 517] stdev:[85.7 16.5 11.4]
+[Parsed_showinfo_0 @ 0x77d8e140a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x77d8e6680680] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:04.37 bitrate=N/A speed=8.86x    

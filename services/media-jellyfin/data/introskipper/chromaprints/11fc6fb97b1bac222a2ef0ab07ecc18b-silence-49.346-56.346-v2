@@ -1,0 +1,250 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Alien Earth/Alien Earth S01E05 In Space No One 720p DSNP WEB-DL DDP5 1 H 264-FLUX.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:04:21.54, start: 0.000000, bitrate: 2548 kb/s
+  Chapters:
+    Chapter #0:0: start 14.681000, end 54.346000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 54.346000, end 3660.532000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 3660.532000, end 3861.542000
+      Metadata:
+        title           : Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 24 fps, 24 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 2288570
+        DURATION        : 01:04:21.542000000
+        NUMBER_OF_FRAMES: 92677
+        NUMBER_OF_BYTES : 1104676425
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default) (original)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 01:04:21.504000000
+        NUMBER_OF_FRAMES: 120672
+        NUMBER_OF_BYTES : 123568128
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:59:38.666000000
+        NUMBER_OF_FRAMES: 615
+        NUMBER_OF_BYTES : 21081
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 53
+        DURATION        : 00:59:44.750000000
+        NUMBER_OF_FRAMES: 699
+        NUMBER_OF_BYTES : 24164
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(cze): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 38
+        DURATION        : 01:03:19.291000000
+        NUMBER_OF_FRAMES: 587
+        NUMBER_OF_BYTES : 18502
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(dan): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 41
+        DURATION        : 01:03:03.875000000
+        NUMBER_OF_FRAMES: 616
+        NUMBER_OF_BYTES : 19518
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(ger): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 44
+        DURATION        : 01:03:09.875000000
+        NUMBER_OF_FRAMES: 627
+        NUMBER_OF_BYTES : 21296
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(gre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 73
+        DURATION        : 01:03:03.875000000
+        NUMBER_OF_FRAMES: 601
+        NUMBER_OF_BYTES : 34978
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Latin American
+        BPS             : 41
+        DURATION        : 01:03:09.875000000
+        NUMBER_OF_FRAMES: 621
+        NUMBER_OF_BYTES : 19625
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 42
+        DURATION        : 01:03:13.291000000
+        NUMBER_OF_FRAMES: 632
+        NUMBER_OF_BYTES : 20110
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fin): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 41
+        DURATION        : 01:03:09.875000000
+        NUMBER_OF_FRAMES: 632
+        NUMBER_OF_BYTES : 19520
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 42
+        DURATION        : 01:03:03.875000000
+        NUMBER_OF_FRAMES: 615
+        NUMBER_OF_BYTES : 20308
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(hun): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 43
+        DURATION        : 01:03:19.291000000
+        NUMBER_OF_FRAMES: 581
+        NUMBER_OF_BYTES : 20826
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(ita): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 44
+        DURATION        : 00:59:23.000000000
+        NUMBER_OF_FRAMES: 623
+        NUMBER_OF_BYTES : 20011
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(jpn): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 33
+        DURATION        : 01:03:13.291000000
+        NUMBER_OF_FRAMES: 619
+        NUMBER_OF_BYTES : 16012
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(kor): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 46
+        DURATION        : 01:03:13.291000000
+        NUMBER_OF_FRAMES: 647
+        NUMBER_OF_BYTES : 22184
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(dut): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 36
+        DURATION        : 01:03:03.875000000
+        NUMBER_OF_FRAMES: 424
+        NUMBER_OF_BYTES : 17435
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(nor): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 40
+        DURATION        : 01:03:03.875000000
+        NUMBER_OF_FRAMES: 624
+        NUMBER_OF_BYTES : 19191
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(pol): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 39
+        DURATION        : 01:03:19.291000000
+        NUMBER_OF_FRAMES: 623
+        NUMBER_OF_BYTES : 18572
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Brazilian
+        BPS             : 41
+        DURATION        : 01:03:09.875000000
+        NUMBER_OF_FRAMES: 583
+        NUMBER_OF_BYTES : 19704
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 42
+        DURATION        : 01:03:19.291000000
+        NUMBER_OF_FRAMES: 616
+        NUMBER_OF_BYTES : 20279
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(rum): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 42
+        DURATION        : 01:03:03.875000000
+        NUMBER_OF_FRAMES: 527
+        NUMBER_OF_BYTES : 20073
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(slo): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 43
+        DURATION        : 01:03:19.291000000
+        NUMBER_OF_FRAMES: 644
+        NUMBER_OF_BYTES : 20660
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(swe): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 43
+        DURATION        : 01:03:03.875000000
+        NUMBER_OF_FRAMES: 633
+        NUMBER_OF_BYTES : 20418
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(tur): Subtitle: subrip (srt) (dub)
+      Metadata:
+        BPS             : 45
+        DURATION        : 01:03:09.875000000
+        NUMBER_OF_FRAMES: 628
+        NUMBER_OF_BYTES : 21593
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(chi): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Traditional
+        BPS             : 37
+        DURATION        : 01:03:13.291000000
+        NUMBER_OF_FRAMES: 645
+        NUMBER_OF_BYTES : 17955
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Scene 1
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default) (original)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 01:04:21.504000000
+        NUMBER_OF_FRAMES: 120672
+        NUMBER_OF_BYTES : 123568128
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[out#0/null @ 0x75aa06c4e6c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=36.6x    

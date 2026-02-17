@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Raveonettes</title>
+  <runtime>5</runtime>
+  <musicbrainzartistid>79255a50-40df-447f-9612-2cf669080196</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Raveonettes/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Raveonettes/backdrop.jpg</fanart>
+  </art>
+</artist>

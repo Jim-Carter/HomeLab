@@ -1,0 +1,118 @@
+[matroska,webm @ 0x78c105cbe000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x78c105cbe000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/You/Season 3/You - S03E07 - We're All Mad Here WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E07.Were.All.Mad.Here.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T09:00:52.000000Z
+  Duration: 00:51:13.95, start: 0.000000, bitrate: 2869 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2542729
+        BPS-eng         : 2542729
+        DURATION        : 00:51:12.069000000
+        DURATION-eng    : 00:51:12.069000000
+        NUMBER_OF_FRAMES: 73656
+        NUMBER_OF_FRAMES-eng: 73656
+        NUMBER_OF_BYTES : 976430115
+        NUMBER_OF_BYTES-eng: 976430115
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:00:52
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:00:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:51:13.952000000
+        DURATION-eng    : 00:51:13.952000000
+        NUMBER_OF_FRAMES: 96061
+        NUMBER_OF_FRAMES-eng: 96061
+        NUMBER_OF_BYTES : 98366464
+        NUMBER_OF_BYTES-eng: 98366464
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:00:52
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:00:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 36905
+        BPS-eng         : 36905
+        DURATION        : 00:47:53.954000000
+        DURATION-eng    : 00:47:53.954000000
+        NUMBER_OF_FRAMES: 1546
+        NUMBER_OF_FRAMES-eng: 1546
+        NUMBER_OF_BYTES : 13257991
+        NUMBER_OF_BYTES-eng: 13257991
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:00:52
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:00:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 38042
+        BPS-eng         : 38042
+        DURATION        : 00:48:24.401000000
+        DURATION-eng    : 00:48:24.401000000
+        NUMBER_OF_FRAMES: 1590
+        NUMBER_OF_FRAMES-eng: 1590
+        NUMBER_OF_BYTES : 13811482
+        NUMBER_OF_BYTES-eng: 13811482
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:00:52
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:00:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   0 pts:     62 pts_time:0.062   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AA4188E3 plane_checksum:[97AFE303 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E07.Were.All.Mad.Here.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2542729
+        BPS-eng         : 2542729
+        DURATION        : 00:51:12.069000000
+        DURATION-eng    : 00:51:12.069000000
+        NUMBER_OF_FRAMES: 73656
+        NUMBER_OF_FRAMES-eng: 73656
+        NUMBER_OF_BYTES : 976430115
+        NUMBER_OF_BYTES-eng: 976430115
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 09:00:52
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 09:00:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   1 pts:   1063 pts_time:1.063   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:A83B887E plane_checksum:[04FCE29E 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   2 pts:   2064 pts_time:2.064   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F9548B42 plane_checksum:[A52CE562 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   3 pts:   3065 pts_time:3.065   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FE9F1C27 plane_checksum:[FE377647 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   4 pts:   4066 pts_time:4.066   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AB791C87 plane_checksum:[790F76A7 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   5 pts:   5067 pts_time:5.067   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:7920C332 plane_checksum:[18F2C818 4E5771A9 A16F8962] mean:[173 507 507] stdev:[88.4 15.4 12.4]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   6 pts:   6068 pts_time:6.068   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:C746BC0F plane_checksum:[A7D2DB1A A9D4524D 094C8E99] mean:[168 507 508] stdev:[83.5 14.2 11.5]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] n:   7 pts:   7069 pts_time:7.069   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:7496A151 plane_checksum:[42C89181 2D4768BD 689AA704] mean:[133 501 516] stdev:[52.3 13.4 8.8]
+[Parsed_showinfo_0 @ 0x78c100e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x78c105c80800] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    7 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.08 bitrate=N/A speed=38.7x    

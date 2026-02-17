@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Gregory Isaacs</title>
+  <runtime>1</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>9abff216-e204-4dbc-9849-d1dbe1fbbda8</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Gregory Isaacs/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Gregory Isaacs/backdrop.jpg</fanart>
+  </art>
+</artist>

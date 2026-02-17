@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Lady Saw</title>
+  <runtime>3</runtime>
+  <genre>Dance Hall</genre>
+  <musicbrainzartistid>be23dca9-50e8-455d-9029-1372b299aff0</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Lady Saw/folder.jpg</poster>
+  </art>
+</artist>

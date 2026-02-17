@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Kay Starr</title>
+  <runtime>5</runtime>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>d25d395a-3891-4243-9a05-8308ad24969d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Kay Starr/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Kay Starr/backdrop.jpg</fanart>
+  </art>
+</artist>

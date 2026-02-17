@@ -1,0 +1,64 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x724838cbe000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/media/TV Shows/Mr.Inbetween.2018.S01.03.1080p.WebRip.X264.Will1869/S02/Mr Inbetween - S02E09 - Socks Are Important.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S02E09 - Socks Are Important
+    date            : 2023
+    encoder         : DVDFab
+  Duration: 00:28:06.84, start: 0.000000, bitrate: 3444 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 3173 kb/s, 23.81 fps, 23.81 tbr, 23809 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x0]: Video: bmp, bgra, 640x360, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x72483340a0c0] config in time_base: 1/23809, frame_rate: 23809/1000
+[Parsed_showinfo_0 @ 0x72483340a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   0 pts:    531 pts_time:0.0223025 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:39CD5F1A plane_checksum:[AB3254A8 316C8EF6 E2A37B6D] mean:[31 129 127] stdev:[18.2 3.0 2.8]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S02E09 - Socks Are Important
+    date            : 2023
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.81 fps, 23.81 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   1 pts:  24531 pts_time:1.030325 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:771A2B87 plane_checksum:[4D794FA6 FEBA9A00 C0E441D2] mean:[30 129 127] stdev:[17.5 2.9 2.7]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   2 pts:  48531 pts_time:2.038347 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:4AF82F63 plane_checksum:[9680861A F723B40F F2B9F51C] mean:[28 130 126] stdev:[10.3 2.4 2.4]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   3 pts:  72531 pts_time:3.046369 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:C1D54EE2 plane_checksum:[555DC1C4 07654FEC 1BFC3D23] mean:[37 138 120] stdev:[24.7 16.5 14.0]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   4 pts:  96531 pts_time:4.054391 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:206BA387 plane_checksum:[5C789DB1 EF320873 D769FD54] mean:[39 139 120] stdev:[27.2 16.8 14.3]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   5 pts: 120531 pts_time:5.062413 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:B7734752 plane_checksum:[5FEBAFAC 97503801 E7555F96] mean:[40 140 120] stdev:[25.6 14.4 12.9]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   6 pts: 144531 pts_time:6.070436 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:8F4B8867 plane_checksum:[657255A4 216D47F5 BFFBEABF] mean:[40 140 119] stdev:[25.8 14.6 13.1]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   7 pts: 164531 pts_time:6.910454 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AEC8998A plane_checksum:[DA602147 BAABF8F7 C6F07F3D] mean:[31 133 124] stdev:[15.3 9.2 7.8]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   8 pts: 166531 pts_time:6.994456 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:1CF996D6 plane_checksum:[78B0A754 52D298FE 298A5675] mean:[41 127 130] stdev:[48.6 7.8 9.0]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x72483340a0c0] n:   9 pts: 171531 pts_time:7.20446 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:DDD6B01B plane_checksum:[8A4DB5FB 4C559012 3A4B69FF] mean:[56 125 132] stdev:[28.7 4.4 5.3]
+[Parsed_showinfo_0 @ 0x72483340a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x724838c808c0] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    8 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.97 bitrate=N/A speed=18.8x    

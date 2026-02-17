@@ -1,0 +1,75 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/All Her Fault/Season 1/All Her Fault - S01E06 - Episode 6 WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:46:49.60, start: 0.000000, bitrate: 6850 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6208032
+        DURATION        : 00:46:49.599000000
+        NUMBER_OF_FRAMES: 67363
+        NUMBER_OF_BYTES : 2180260301
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:46:49.600000000
+        NUMBER_OF_FRAMES: 87800
+        NUMBER_OF_BYTES : 224768000
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 73
+        DURATION        : 00:44:49.381000000
+        NUMBER_OF_FRAMES: 771
+        NUMBER_OF_BYTES : 24663
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 80
+        DURATION        : 00:45:07.749000000
+        NUMBER_OF_FRAMES: 888
+        NUMBER_OF_BYTES : 27325
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(spa): Subtitle: subrip (srt) (dub) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 78
+        DURATION        : 00:45:08.097000000
+        NUMBER_OF_FRAMES: 996
+        NUMBER_OF_BYTES : 26475
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] n:   0 pts:   1661 pts_time:1.661   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EB53D44D plane_checksum:[2F205DA6 DDC5BB4C DDC5BB4C] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 6208032
+        DURATION        : 00:46:49.599000000
+        NUMBER_OF_FRAMES: 67363
+        NUMBER_OF_BYTES : 2180260301
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] n:   1 pts:   3663 pts_time:3.663   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F6E3BDB2 plane_checksum:[564B470B DDC5BB4C DDC5BB4C] mean:[17 128 128] stdev:[10.4 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] n:   2 pts:   5665 pts_time:5.665   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:15912674 plane_checksum:[EBB06F4A 75BF9427 A2E922F4] mean:[51 126 127] stdev:[32.3 2.8 4.8]
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] n:   3 pts:   7667 pts_time:7.667   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:12CC0754 plane_checksum:[B9A6DBF8 1D043A46 1EA7F0F8] mean:[75 127 126] stdev:[53.1 2.1 3.7]
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] n:   4 pts:   9669 pts_time:9.669   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:96D98F76 plane_checksum:[AA3B7858 C3A9B59F 7A816170] mean:[68 126 126] stdev:[41.9 2.3 3.9]
+[Parsed_showinfo_0 @ 0x7aa9da00a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7aa9dea80680] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.71 bitrate=N/A speed=  40x    

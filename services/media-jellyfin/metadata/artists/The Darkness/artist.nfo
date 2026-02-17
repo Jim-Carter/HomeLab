@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Darkness</title>
+  <runtime>7</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>81df2271-03a1-46a3-bb30-cce187235312</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Darkness/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Darkness/backdrop.jpg</fanart>
+  </art>
+</artist>

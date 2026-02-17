@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>A Split Second</title>
+  <runtime>1</runtime>
+  <genre>Industrial</genre>
+  <musicbrainzartistid>bf270b87-6da7-485b-8c5b-0d02c9c47f41</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/A Split Second/folder.jpg</poster>
+  </art>
+</artist>

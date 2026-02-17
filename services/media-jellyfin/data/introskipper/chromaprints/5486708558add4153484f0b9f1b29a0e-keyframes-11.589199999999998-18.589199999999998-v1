@@ -1,0 +1,118 @@
+[matroska,webm @ 0x72c3c2ebe000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x72c3c2ebe000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 3/You - S03E02 - So I Married an Axe Murderer WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E02.So.I.Married.An.Axe.Murderer.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T08:46:03.000000Z
+  Duration: 00:51:22.02, start: 0.000000, bitrate: 2855 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2528405
+        BPS-eng         : 2528405
+        DURATION        : 00:51:20.077000000
+        DURATION-eng    : 00:51:20.077000000
+        NUMBER_OF_FRAMES: 73848
+        NUMBER_OF_FRAMES-eng: 73848
+        NUMBER_OF_BYTES : 973460517
+        NUMBER_OF_BYTES-eng: 973460517
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:46:03
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:46:03
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:51:22.016000000
+        DURATION-eng    : 00:51:22.016000000
+        NUMBER_OF_FRAMES: 96313
+        NUMBER_OF_FRAMES-eng: 96313
+        NUMBER_OF_BYTES : 98624512
+        NUMBER_OF_BYTES-eng: 98624512
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:46:03
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:46:03
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 36902
+        BPS-eng         : 36902
+        DURATION        : 00:48:08.510000000
+        DURATION-eng    : 00:48:08.510000000
+        NUMBER_OF_FRAMES: 1552
+        NUMBER_OF_FRAMES-eng: 1552
+        NUMBER_OF_BYTES : 13324057
+        NUMBER_OF_BYTES-eng: 13324057
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:46:03
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:46:03
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 38496
+        BPS-eng         : 38496
+        DURATION        : 00:48:22.607000000
+        DURATION-eng    : 00:48:22.607000000
+        NUMBER_OF_FRAMES: 1608
+        NUMBER_OF_FRAMES-eng: 1608
+        NUMBER_OF_BYTES : 13967675
+        NUMBER_OF_BYTES-eng: 13967675
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:46:03
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:46:03
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   0 pts:    423 pts_time:0.423   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:3270D786 plane_checksum:[E18E31B5 8BF9D2E1 8BF9D2E1] mean:[66 512 512] stdev:[39.6 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E02.So.I.Married.An.Axe.Murderer.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2528405
+        BPS-eng         : 2528405
+        DURATION        : 00:51:20.077000000
+        DURATION-eng    : 00:51:20.077000000
+        NUMBER_OF_FRAMES: 73848
+        NUMBER_OF_FRAMES-eng: 73848
+        NUMBER_OF_BYTES : 973460517
+        NUMBER_OF_BYTES-eng: 973460517
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:46:03
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:46:03
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   1 pts:   1424 pts_time:1.424   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:1724AF07 plane_checksum:[3A840936 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   2 pts:   2425 pts_time:2.425   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:9C7EAFC6 plane_checksum:[01BA09F5 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   3 pts:   3426 pts_time:3.426   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2AD2B189 plane_checksum:[5FB00BB8 8BF9D2E1 8BF9D2E1] mean:[69 512 512] stdev:[60.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   4 pts:   4427 pts_time:4.427   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FE9F1C27 plane_checksum:[FE377647 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   5 pts:   5428 pts_time:5.428   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AB791C87 plane_checksum:[790F76A7 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   6 pts:   6429 pts_time:6.429   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AB791C87 plane_checksum:[790F76A7 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] n:   7 pts:   7430 pts_time:7.43    duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:76F7112B plane_checksum:[70287D1F 69251AEE 885E790F] mean:[273 517 496] stdev:[136.1 15.9 22.1]
+[Parsed_showinfo_0 @ 0x72c3bda0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x72c3c2e80800] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    7 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.46 bitrate=N/A speed=34.6x    

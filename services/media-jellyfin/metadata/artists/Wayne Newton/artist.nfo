@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Wayne Newton</title>
+  <runtime>2</runtime>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>b6b6f1cf-e1c8-46e9-bc54-1a63ed1f8d51</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Wayne Newton/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Wayne Newton/backdrop.jpg</fanart>
+  </art>
+</artist>

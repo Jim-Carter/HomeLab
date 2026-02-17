@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Christophe Beck</title>
+  <runtime>39</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>0df890e1-f4f2-4b21-a413-cd8af1af32d8</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Christophe Beck/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Christophe Beck/backdrop.jpg</fanart>
+  </art>
+</artist>

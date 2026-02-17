@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Eek A Mouse</title>
+  <runtime>5</runtime>
+  <genre>Reggae</genre>
+  <musicbrainzartistid>c7e31260-7372-46dc-adf1-bd6e3e983e32</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Eek A Mouse/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Eek A Mouse/backdrop.jpg</fanart>
+  </art>
+</artist>

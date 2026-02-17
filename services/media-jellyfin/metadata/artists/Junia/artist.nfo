@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Junia</title>
+  <runtime>3</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>2312b32e-f942-4985-9e16-62f060d987a6</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Junia/folder.jpg</poster>
+  </art>
+</artist>

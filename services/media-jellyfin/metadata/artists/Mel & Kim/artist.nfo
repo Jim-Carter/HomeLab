@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Mel &amp; Kim</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>7a9e37d6-4396-415b-80f6-4b23b1c041df</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Mel &amp; Kim/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Mel &amp; Kim/backdrop.jpg</fanart>
+  </art>
+</artist>

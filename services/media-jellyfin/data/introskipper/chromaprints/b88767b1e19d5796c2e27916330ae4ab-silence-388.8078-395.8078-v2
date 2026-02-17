@@ -1,0 +1,87 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Star Trek - Strange New Worlds/Season 3/Star Trek - Strange New Worlds - S03E01 - Hegemony (2) WEBDL-1080p Proper.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-17T07:46:43.000000Z
+  Duration: 00:49:03.04, start: 0.000000, bitrate: 6512 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6061701
+        DURATION        : 00:49:03.024000000
+        NUMBER_OF_FRAMES: 70562
+        NUMBER_OF_BYTES : 2229966566
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(fre): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (default)
+      Metadata:
+        title           : French (France)
+        BPS             : 224000
+        DURATION        : 00:49:03.040000000
+        NUMBER_OF_FRAMES: 91970
+        NUMBER_OF_BYTES : 82405120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (original)
+      Metadata:
+        title           : English
+        BPS             : 224000
+        DURATION        : 00:49:03.040000000
+        NUMBER_OF_FRAMES: 91970
+        NUMBER_OF_BYTES : 82405120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(fre): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : French (France) Forced
+        BPS             : 0
+        DURATION        : 00:43:10.880000000
+        NUMBER_OF_FRAMES: 9
+        NUMBER_OF_BYTES : 275
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (France) Full
+        BPS             : 68
+        DURATION        : 00:46:31.498000000
+        NUMBER_OF_FRAMES: 649
+        NUMBER_OF_BYTES : 23944
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : English SDH
+        BPS             : 79
+        DURATION        : 00:46:32.310000000
+        NUMBER_OF_FRAMES: 823
+        NUMBER_OF_BYTES : 27791
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(fre): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : French (France)
+        BPS             : 224000
+        DURATION        : 00:49:03.040000000
+        NUMBER_OF_FRAMES: 91970
+        NUMBER_OF_BYTES : 82405120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x78fa54c09080] silence_start: 5.110417
+[silencedetect @ 0x78fa54c09080] silence_end: 5.215479 | silence_duration: 0.105063
+[silencedetect @ 0x78fa54c09080] silence_start: 5.247167
+[silencedetect @ 0x78fa54c09080] silence_end: 7.032 | silence_duration: 1.784833
+[out#0/null @ 0x78fa582808c0] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 147x    

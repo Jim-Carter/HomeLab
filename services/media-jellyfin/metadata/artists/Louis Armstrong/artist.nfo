@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Louis Armstrong</title>
+  <runtime>95</runtime>
+  <genre>Christmas Jazz</genre>
+  <genre>General Holiday</genre>
+  <genre>Jazz</genre>
+  <musicbrainzartistid>eea8a864-fcda-4602-9569-38ab446decd6</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Louis Armstrong/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Louis Armstrong/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,60 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/The Pendragon Cycle - Rise of the Merlin/Season 1/The Pendragon Cycle - Rise of the Merlin - S01E01 - Island of the Mighty WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-03T03:53:48.000000Z
+  Duration: 01:08:34.92, start: 0.000000, bitrate: 3603 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 3408921
+        DURATION        : 01:08:34.917000000
+        NUMBER_OF_FRAMES: 98758
+        NUMBER_OF_BYTES : 1753428629
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-03 03:53:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 192000
+        DURATION        : 01:08:34.880000000
+        NUMBER_OF_FRAMES: 192885
+        NUMBER_OF_BYTES : 98757121
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-03 03:53:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 43
+        DURATION        : 01:08:28.270000000
+        NUMBER_OF_FRAMES: 834
+        NUMBER_OF_BYTES : 22219
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-03 03:53:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:0 pblack:52 pts:20 t:0.020000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 3408921
+        DURATION        : 01:08:34.917000000
+        NUMBER_OF_FRAMES: 98758
+        NUMBER_OF_BYTES : 1753428629
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-03 03:53:48
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:1 pblack:51 pts:62 t:0.062000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:2 pblack:51 pts:103 t:0.103000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:3 pblack:51 pts:145 t:0.145000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:4 pblack:51 pts:187 t:0.187000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:5 pblack:51 pts:228 t:0.228000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:6 pblack:51 pts:270 t:0.270000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:7 pblack:51 pts:312 t:0.312000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:8 pblack:51 pts:353 t:0.353000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7a6a8c60c0c0] frame:9 pblack:51 pts:395 t:0.395000 type:P last_keyframe:0
+[out#0/null @ 0x7a6a91880500] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=7.53x    

@@ -1,0 +1,66 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Mayor of Kingstown/Season 4/Mayor of Kingstown - S04E05 - Damned WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:51:33.47, start: 0.000000, bitrate: 9738 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9095757
+        DURATION        : 00:51:33.466000000
+        NUMBER_OF_FRAMES: 74169
+        NUMBER_OF_BYTES : 3517176928
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:51:33.472000000
+        NUMBER_OF_FRAMES: 96671
+        NUMBER_OF_BYTES : 247477760
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 62
+        DURATION        : 00:50:10.107000000
+        NUMBER_OF_FRAMES: 795
+        NUMBER_OF_BYTES : 23603
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 68
+        DURATION        : 00:50:24.389000000
+        NUMBER_OF_FRAMES: 881
+        NUMBER_OF_BYTES : 25790
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] n:   0 pts:   1640 pts_time:1.64    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:A47D0ED3 plane_checksum:[870727BF 5FA5FE3A 78D1E8BC] mean:[81 127 126] stdev:[23.4 2.2 2.2]
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9095757
+        DURATION        : 00:51:33.466000000
+        NUMBER_OF_FRAMES: 74169
+        NUMBER_OF_BYTES : 3517176928
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] n:   1 pts:   3642 pts_time:3.642   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:BF90834E plane_checksum:[E2DD77E2 22291FD0 30F3EB8D] mean:[77 128 126] stdev:[24.4 2.2 2.0]
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] n:   2 pts:   5644 pts_time:5.644   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:6272F3EB plane_checksum:[E30B6138 2ABA3820 940A5A93] mean:[77 129 125] stdev:[24.0 2.4 2.2]
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] n:   3 pts:   7646 pts_time:7.646   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:0B4F4609 plane_checksum:[72DEC324 F9DBB0AA 6DC7D21D] mean:[37 129 124] stdev:[15.3 2.5 3.8]
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] n:   4 pts:   9648 pts_time:9.648   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:A951F2E9 plane_checksum:[89778069 F95CE9B3 DC1188BE] mean:[37 129 124] stdev:[15.1 2.5 3.8]
+[Parsed_showinfo_0 @ 0x74c94e20a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x74c953a805c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.67 bitrate=N/A speed=11.4x    

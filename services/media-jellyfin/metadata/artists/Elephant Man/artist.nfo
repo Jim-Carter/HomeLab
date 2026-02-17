@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Elephant Man</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>cd5f7bd9-ee6f-4a99-8dd9-dc3afd9da736</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Elephant Man/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Elephant Man/backdrop.jpg</fanart>
+  </art>
+</artist>

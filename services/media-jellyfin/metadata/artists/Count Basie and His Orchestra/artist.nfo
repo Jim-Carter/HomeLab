@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Count Basie and His Orchestra</title>
+  <runtime>21</runtime>
+  <genre>Jazz</genre>
+  <musicbrainzartistid>885f0f99-e945-4181-9990-bff2762ef9b8</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Count Basie and His Orchestra/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Count Basie and His Orchestra/backdrop.jpg</fanart>
+  </art>
+</artist>

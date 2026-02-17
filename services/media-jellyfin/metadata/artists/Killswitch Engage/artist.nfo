@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Killswitch Engage</title>
+  <runtime>4</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>8295ee00-0096-461d-95c7-c2263d2a4c6d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Killswitch Engage/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Killswitch Engage/backdrop.jpg</fanart>
+  </art>
+</artist>

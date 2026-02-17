@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Lisa Loeb</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>22c5cef9-80e8-48d2-acd3-6d16f6c8a16d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Lisa Loeb/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Lisa Loeb/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Police                    </title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>9e0e2b01-41db-4008-bd8b-988977d6019a</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Police/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Police/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,62 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7d5b7a4be000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/media/TV Shows/Mr.Inbetween.2018.S01.03.1080p.WebRip.X264.Will1869/S01/Mr Inbetween - S01E06 - Your Mum's Got a Strongbox.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S01E06 - Your Mum's Got a Strongbox
+    date            : 2023
+    encoder         : DVDFab
+  Duration: 00:25:40.59, start: 0.000000, bitrate: 3766 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 3495 kb/s, 23.81 fps, 23.81 tbr, 23809 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x0]: Video: bmp, bgra, 640x360, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] config in time_base: 1/23809, frame_rate: 23809/1000
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   0 pts:   4751 pts_time:0.199546 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:E7627927 plane_checksum:[BA3AE71B 92A6C243 23A0CFAB] mean:[38 126 134] stdev:[35.3 14.2 11.8]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S01E06 - Your Mum's Got a Strongbox
+    date            : 2023
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.81 fps, 23.81 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   1 pts:  28751 pts_time:1.207569 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:7DF6085C plane_checksum:[19D94A10 6839BD5E D86F00DF] mean:[39 126 135] stdev:[35.6 14.5 12.0]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   2 pts:  36751 pts_time:1.543576 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:96E1C3FF plane_checksum:[C55E4E63 8E55BA41 DDC5BB4C] mean:[16 128 128] stdev:[0.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   3 pts:  60751 pts_time:2.551598 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:47BF5D9E plane_checksum:[CDCC971E 8F387716 F6864F5B] mean:[21 129 129] stdev:[10.3 2.2 3.9]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   4 pts:  84751 pts_time:3.55962 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:4A8CD0B4 plane_checksum:[82C70D9A 496A59CE 6DDF694C] mean:[41 130 136] stdev:[39.9 6.0 14.3]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   5 pts: 108751 pts_time:4.567642 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FB56A0AF plane_checksum:[E5324F1B C457DDCB 3E1273BA] mean:[44 130 139] stdev:[43.5 7.0 18.5]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   6 pts: 132751 pts_time:5.575665 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2F979DBD plane_checksum:[F6EE49EE FCAAC392 E7C6902E] mean:[34 130 135] stdev:[30.4 5.7 12.6]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   7 pts: 156751 pts_time:6.583687 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:DB25D41D plane_checksum:[B69D3B37 643661B4 9BBC3732] mean:[42 130 138] stdev:[40.2 6.8 16.8]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] n:   8 pts: 180751 pts_time:7.591709 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:848EFFAF plane_checksum:[02E756F4 CAEEA93B C85DFF71] mean:[40 130 134] stdev:[39.9 5.1 12.0]
+[Parsed_showinfo_0 @ 0x7d5b7480a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x7d5b7a4808c0] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    8 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.63 bitrate=N/A speed=  19x    

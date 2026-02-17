@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Johnny Cash</title>
+  <runtime>74</runtime>
+  <genre>Country</genre>
+  <genre>Gospel</genre>
+  <genre>Other</genre>
+  <musicbrainzartistid>d43d12a1-2dc9-4257-a2fd-0a3bb1081b86</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Johnny Cash/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Johnny Cash/backdrop.jpg</fanart>
+  </art>
+</artist>

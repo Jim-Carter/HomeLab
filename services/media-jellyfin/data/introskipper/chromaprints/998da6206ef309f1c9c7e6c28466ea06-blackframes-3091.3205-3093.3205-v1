@@ -1,0 +1,102 @@
+[matroska,webm @ 0x7e2376cbe000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x7e2376cbe000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 3/You - S03E06 - W.O.M.B WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E06.W.O.M.B.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T08:57:42.000000Z
+  Duration: 00:53:19.90, start: 0.000000, bitrate: 2872 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2548898
+        BPS-eng         : 2548898
+        DURATION        : 00:53:19.196000000
+        DURATION-eng    : 00:53:19.196000000
+        NUMBER_OF_FRAMES: 76704
+        NUMBER_OF_FRAMES-eng: 76704
+        NUMBER_OF_BYTES : 1019303269
+        NUMBER_OF_BYTES-eng: 1019303269
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:53:19.904000000
+        DURATION-eng    : 00:53:19.904000000
+        NUMBER_OF_FRAMES: 99997
+        NUMBER_OF_FRAMES-eng: 99997
+        NUMBER_OF_BYTES : 102396928
+        NUMBER_OF_BYTES-eng: 102396928
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 34096
+        BPS-eng         : 34096
+        DURATION        : 00:50:17.930000000
+        DURATION-eng    : 00:50:17.930000000
+        NUMBER_OF_FRAMES: 1494
+        NUMBER_OF_FRAMES-eng: 1494
+        NUMBER_OF_BYTES : 12862471
+        NUMBER_OF_BYTES-eng: 12862471
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 35964
+        BPS-eng         : 35964
+        DURATION        : 00:50:24.812000000
+        DURATION-eng    : 00:50:24.812000000
+        NUMBER_OF_FRAMES: 1556
+        NUMBER_OF_FRAMES-eng: 1556
+        NUMBER_OF_BYTES : 13598223
+        NUMBER_OF_BYTES-eng: 13598223
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7e237120c0c0] frame:0 pblack:94 pts:17 t:0.017000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E06.W.O.M.B.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2548898
+        BPS-eng         : 2548898
+        DURATION        : 00:53:19.196000000
+        DURATION-eng    : 00:53:19.196000000
+        NUMBER_OF_FRAMES: 76704
+        NUMBER_OF_FRAMES-eng: 76704
+        NUMBER_OF_BYTES : 1019303269
+        NUMBER_OF_BYTES-eng: 1019303269
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:57:42
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:57:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7e237120c0c0] frame:1 pblack:94 pts:59 t:0.059000 type:P last_keyframe:0
+[out#0/null @ 0x7e2376c80800] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=5.32x    

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Daughtry</title>
+  <runtime>3</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>21e3292e-dac8-4609-b57d-402f926aa41f</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Daughtry/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Daughtry/backdrop.jpg</fanart>
+  </art>
+</artist>

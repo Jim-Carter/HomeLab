@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Poison</title>
+  <runtime>4</runtime>
+  <genre>Metal</genre>
+  <musicbrainzartistid>c79c43d4-cbed-4373-89ce-6560f62eb7d8</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Poison/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Poison/backdrop.jpg</fanart>
+  </art>
+</artist>

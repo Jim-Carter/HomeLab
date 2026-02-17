@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Fall Out Boy</title>
+  <runtime>13</runtime>
+  <genre>Other</genre>
+  <genre>Pop</genre>
+  <musicbrainzartistid>516cef4d-0718-4007-9939-f9b38af3f784</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Fall Out Boy/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Fall Out Boy/backdrop.jpg</fanart>
+  </art>
+</artist>

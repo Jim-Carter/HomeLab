@@ -1,0 +1,202 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Wild Cards/Season 1/Wild Cards - S01E04 - Strangers on a Wave WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-07T03:07:01.000000Z
+  Duration: 00:42:17.02, start: 0.000000, bitrate: 8146 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 13.000000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:1: start 13.000000, end 101.000000
+      Metadata:
+        title           : Scene 2
+    Chapter #0:2: start 101.000000, end 154.000000
+      Metadata:
+        title           : Scene 3
+    Chapter #0:3: start 154.000000, end 190.000000
+      Metadata:
+        title           : Scene 4
+    Chapter #0:4: start 190.000000, end 228.000000
+      Metadata:
+        title           : Scene 5
+    Chapter #0:5: start 228.000000, end 304.000000
+      Metadata:
+        title           : Scene 6
+    Chapter #0:6: start 304.000000, end 385.000000
+      Metadata:
+        title           : Scene 7
+    Chapter #0:7: start 385.000000, end 495.000000
+      Metadata:
+        title           : Scene 8
+    Chapter #0:8: start 495.000000, end 553.000000
+      Metadata:
+        title           : Scene 9
+    Chapter #0:9: start 553.000000, end 573.000000
+      Metadata:
+        title           : Scene 10
+    Chapter #0:10: start 573.000000, end 650.000000
+      Metadata:
+        title           : Scene 11
+    Chapter #0:11: start 650.000000, end 741.000000
+      Metadata:
+        title           : Scene 12
+    Chapter #0:12: start 741.000000, end 774.000000
+      Metadata:
+        title           : Scene 13
+    Chapter #0:13: start 774.000000, end 826.000000
+      Metadata:
+        title           : Scene 14
+    Chapter #0:14: start 826.000000, end 873.000000
+      Metadata:
+        title           : Scene 15
+    Chapter #0:15: start 873.000000, end 909.000000
+      Metadata:
+        title           : Scene 16
+    Chapter #0:16: start 909.000000, end 1035.000000
+      Metadata:
+        title           : Scene 17
+    Chapter #0:17: start 1035.000000, end 1156.000000
+      Metadata:
+        title           : Scene 18
+    Chapter #0:18: start 1156.000000, end 1198.000000
+      Metadata:
+        title           : Scene 19
+    Chapter #0:19: start 1198.000000, end 1281.000000
+      Metadata:
+        title           : Scene 20
+    Chapter #0:20: start 1281.000000, end 1332.000000
+      Metadata:
+        title           : Scene 21
+    Chapter #0:21: start 1332.000000, end 1374.000000
+      Metadata:
+        title           : Scene 22
+    Chapter #0:22: start 1374.000000, end 1470.000000
+      Metadata:
+        title           : Scene 23
+    Chapter #0:23: start 1470.000000, end 1511.000000
+      Metadata:
+        title           : Scene 24
+    Chapter #0:24: start 1511.000000, end 1578.000000
+      Metadata:
+        title           : Scene 25
+    Chapter #0:25: start 1578.000000, end 1609.000000
+      Metadata:
+        title           : Scene 26
+    Chapter #0:26: start 1609.000000, end 1666.000000
+      Metadata:
+        title           : Scene 27
+    Chapter #0:27: start 1666.000000, end 1783.000000
+      Metadata:
+        title           : Scene 28
+    Chapter #0:28: start 1783.000000, end 1854.000000
+      Metadata:
+        title           : Scene 29
+    Chapter #0:29: start 1854.000000, end 1898.000000
+      Metadata:
+        title           : Scene 30
+    Chapter #0:30: start 1898.000000, end 1953.000000
+      Metadata:
+        title           : Scene 31
+    Chapter #0:31: start 1953.000000, end 2002.000000
+      Metadata:
+        title           : Scene 32
+    Chapter #0:32: start 2002.000000, end 2043.000000
+      Metadata:
+        title           : Scene 33
+    Chapter #0:33: start 2043.000000, end 2075.000000
+      Metadata:
+        title           : Scene 34
+    Chapter #0:34: start 2075.000000, end 2179.000000
+      Metadata:
+        title           : Scene 35
+    Chapter #0:35: start 2179.000000, end 2216.000000
+      Metadata:
+        title           : Scene 36
+    Chapter #0:36: start 2216.000000, end 2256.000000
+      Metadata:
+        title           : Scene 37
+    Chapter #0:37: start 2256.000000, end 2376.000000
+      Metadata:
+        title           : Scene 38
+    Chapter #0:38: start 2376.000000, end 2497.000000
+      Metadata:
+        title           : Scene 39
+    Chapter #0:39: start 2497.000000, end 2537.024000
+      Metadata:
+        title           : Scene 40
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 7504367
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2379815826
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:07:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:42:17.024000000
+        NUMBER_OF_FRAMES: 79282
+        NUMBER_OF_BYTES : 202961920
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:07:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 90
+        DURATION        : 00:41:51.640000000
+        NUMBER_OF_FRAMES: 791
+        NUMBER_OF_BYTES : 28389
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:07:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Scene 40
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 7504367
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2379815826
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:07:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   10 fps=0.0 q=-0.0 size=N/A time=00:00:00.41 bitrate=N/A speed=0.834x    [Parsed_blackframe_0 @ 0x7818e720c0c0] frame:23 pblack:99 pts:971 t:0.971000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:24 pblack:99 pts:1012 t:1.012000 type:P last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:25 pblack:99 pts:1054 t:1.054000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:26 pblack:99 pts:1096 t:1.096000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:27 pblack:99 pts:1138 t:1.138000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:28 pblack:99 pts:1179 t:1.179000 type:P last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:29 pblack:99 pts:1221 t:1.221000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:30 pblack:99 pts:1263 t:1.263000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:31 pblack:99 pts:1304 t:1.304000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:32 pblack:99 pts:1346 t:1.346000 type:P last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:33 pblack:99 pts:1388 t:1.388000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:34 pblack:99 pts:1430 t:1.430000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:35 pblack:99 pts:1471 t:1.471000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:36 pblack:99 pts:1513 t:1.513000 type:P last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:37 pblack:99 pts:1555 t:1.555000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:38 pblack:99 pts:1596 t:1.596000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:39 pblack:99 pts:1638 t:1.638000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:40 pblack:99 pts:1680 t:1.680000 type:P last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:41 pblack:99 pts:1722 t:1.722000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:42 pblack:99 pts:1763 t:1.763000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:43 pblack:99 pts:1805 t:1.805000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:44 pblack:99 pts:1847 t:1.847000 type:P last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:45 pblack:99 pts:1888 t:1.888000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:46 pblack:99 pts:1930 t:1.930000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:47 pblack:99 pts:1972 t:1.972000 type:B last_keyframe:12
+[Parsed_blackframe_0 @ 0x7818e720c0c0] frame:48 pblack:99 pts:2013 t:2.013000 type:P last_keyframe:12
+[out#0/null @ 0x7818eca80440] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed= 3.1x    

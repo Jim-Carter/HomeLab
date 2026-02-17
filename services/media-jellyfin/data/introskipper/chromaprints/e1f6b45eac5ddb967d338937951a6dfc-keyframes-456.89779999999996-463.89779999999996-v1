@@ -1,0 +1,83 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Landman/Season 2/Landman - S02E09 - Plans, Tears and Sirens WEBDL-1080p.mkv':
+  Metadata:
+    title           : - GP-TV-NLsubs-Poster-Groep -  - GP AI Open Translate -  Nederlands
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-11T05:51:40.000000Z
+  Duration: 00:56:32.51, start: 0.000000, bitrate: 10249 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9607153
+        DURATION        : 00:56:32.514000000
+        NUMBER_OF_FRAMES: 81339
+        NUMBER_OF_BYTES : 4074050447
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-11 05:51:40
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:56:32.480000000
+        NUMBER_OF_FRAMES: 106015
+        NUMBER_OF_BYTES : 271398400
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-11 05:51:40
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 70
+        DURATION        : 00:55:44.709000000
+        NUMBER_OF_FRAMES: 1023
+        NUMBER_OF_BYTES : 29681
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-11 05:51:40
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 78
+        DURATION        : 00:55:44.709000000
+        NUMBER_OF_FRAMES: 1140
+        NUMBER_OF_BYTES : 33007
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-11 05:51:40
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(dut): Subtitle: subrip (srt) (default)
+      Metadata:
+        BPS             : 72
+        DURATION        : 00:55:36.683000000
+        NUMBER_OF_FRAMES: 970
+        NUMBER_OF_BYTES : 30049
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-11 05:51:40
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] n:   0 pts:   1560 pts_time:1.56    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:E10E1FF1 plane_checksum:[273A3EA2 BFA50BBF 6C65D581] mean:[138 101 142] stdev:[39.9 7.2 5.0]
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : - GP-TV-NLsubs-Poster-Groep -  - GP AI Open Translate -  Nederlands
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9607153
+        DURATION        : 00:56:32.514000000
+        NUMBER_OF_FRAMES: 81339
+        NUMBER_OF_BYTES : 4074050447
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-11 05:51:40
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] n:   1 pts:   3562 pts_time:3.562   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:BBF3CC69 plane_checksum:[32CCD8F7 E47EA229 4961513A] mean:[135 101 142] stdev:[40.8 7.6 5.2]
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:03.58 bitrate=N/A speed=7.17x    [Parsed_showinfo_0 @ 0x7337bdc0a0c0] n:   2 pts:   5564 pts_time:5.564   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:E7D0A45C plane_checksum:[32714804 7BE72E16 F16A2E42] mean:[65 117 134] stdev:[19.0 3.7 2.4]
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] n:   3 pts:   7566 pts_time:7.566   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:68392891 plane_checksum:[2CBD027E 49483376 1F9DF28E] mean:[58 120 135] stdev:[30.4 6.0 5.3]
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] n:   4 pts:   9568 pts_time:9.568   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:79038BEC plane_checksum:[D4810D22 85687D53 EF580177] mean:[98 113 138] stdev:[29.1 5.7 4.1]
+[Parsed_showinfo_0 @ 0x7337bdc0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7337c3080680] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.58 bitrate=N/A speed=7.74x    

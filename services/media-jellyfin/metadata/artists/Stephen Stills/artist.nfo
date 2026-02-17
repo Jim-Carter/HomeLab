@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Stephen Stills                </title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>5642774a-72c0-4099-8da4-7c1ab36378a8</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Stephen Stills/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Stephen Stills/backdrop.jpg</fanart>
+  </art>
+</artist>

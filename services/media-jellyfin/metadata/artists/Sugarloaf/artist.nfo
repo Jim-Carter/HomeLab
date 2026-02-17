@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Sugarloaf                     </title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>1abf53af-e312-4857-b2cf-2638a04aeb59</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Sugarloaf/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Sugarloaf/backdrop.jpg</fanart>
+  </art>
+</artist>

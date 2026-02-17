@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Randy Travis</title>
+  <runtime>8</runtime>
+  <musicbrainzartistid>09b697e3-a849-4670-ae49-e0b821a6271a</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Randy Travis/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Randy Travis/backdrop.jpg</fanart>
+  </art>
+</artist>

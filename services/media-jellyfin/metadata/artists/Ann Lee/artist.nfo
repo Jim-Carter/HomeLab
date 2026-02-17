@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Ann Lee</title>
+  <runtime>4</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>6e3ed724-c5a3-4bcd-8ebc-89da0c33b6b8</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Ann Lee/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Ann Lee/backdrop.jpg</fanart>
+  </art>
+</artist>

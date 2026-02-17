@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Kubb</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>9827118f-6484-414f-8f26-7a55b6c428ff</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Kubb/folder.jpg</poster>
+  </art>
+</artist>

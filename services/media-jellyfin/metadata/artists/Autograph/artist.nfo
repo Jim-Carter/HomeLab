@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Autograph</title>
+  <runtime>5</runtime>
+  <genre>Metal</genre>
+  <musicbrainzartistid>272a7f09-ed20-468d-aaa7-abcb97437d8d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Autograph/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Autograph/backdrop.jpg</fanart>
+  </art>
+</artist>

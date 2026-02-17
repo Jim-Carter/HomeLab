@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Ordinary Boys</title>
+  <runtime>2</runtime>
+  <musicbrainzartistid>69b50aed-f122-4c45-aba9-863043f5b513</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Ordinary Boys/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Ordinary Boys/backdrop.jpg</fanart>
+  </art>
+</artist>

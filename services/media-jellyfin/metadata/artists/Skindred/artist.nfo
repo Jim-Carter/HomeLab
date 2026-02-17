@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Skindred</title>
+  <runtime>7</runtime>
+  <genre>Punk</genre>
+  <musicbrainzartistid>36e371e9-e76b-4b66-b813-e1d1af6d7128</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Skindred/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Skindred/backdrop.jpg</fanart>
+  </art>
+</artist>

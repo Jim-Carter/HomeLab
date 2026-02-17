@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Artist</title>
+  <runtime>116</runtime>
+  <genre>genre</genre>
+  <musicbrainzartistid>eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Artist/folder.jpg</poster>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Relient K</title>
+  <runtime>6</runtime>
+  <genre>Pop</genre>
+  <genre>Punk</genre>
+  <musicbrainzartistid>a49b5d41-7399-49ef-bcb8-a5779a30d2e9</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Relient K/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Relient K/backdrop.jpg</fanart>
+  </art>
+</artist>

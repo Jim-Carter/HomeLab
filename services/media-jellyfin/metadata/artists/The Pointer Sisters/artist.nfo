@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Pointer Sisters</title>
+  <runtime>4</runtime>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>81bac815-97c5-4723-8f0b-4d8edfad1010</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Pointer Sisters/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Pointer Sisters/backdrop.jpg</fanart>
+  </art>
+</artist>

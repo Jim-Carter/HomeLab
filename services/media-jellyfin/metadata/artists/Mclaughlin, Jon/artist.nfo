@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Mclaughlin, Jon</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>3c2c34c6-11de-48b2-947d-6b8f96d59844</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Mclaughlin, Jon/folder.jpg</poster>
+  </art>
+</artist>

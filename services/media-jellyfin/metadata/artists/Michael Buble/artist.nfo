@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Michael Buble</title>
+  <runtime>7</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>611700cf-27f0-4dc9-ae80-c513a767853e</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Michael Buble/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Michael Buble/backdrop.jpg</fanart>
+  </art>
+</artist>

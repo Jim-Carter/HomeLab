@@ -1,0 +1,241 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/High Potential/Season 2/High Potential - S02E05 - Content Warning WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2025-10-15T23:43:37.000000Z
+  Duration: 00:43:05.54, start: 0.000000, bitrate: 5820 kb/s
+  Chapters:
+    Chapter #0:0: start 39.414000, end 45.045000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 45.045000, end 2550.965000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 2550.965000, end 2585.536000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5559239
+        DURATION        : 00:43:05.500000000
+        NUMBER_OF_FRAMES: 61990
+        NUMBER_OF_BYTES : 1796676624
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:43:05.536000000
+        NUMBER_OF_FRAMES: 80798
+        NUMBER_OF_BYTES : 82737152
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(cze): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 86
+        DURATION        : 00:42:43.603000000
+        NUMBER_OF_FRAMES: 679
+        NUMBER_OF_BYTES : 27696
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(dan): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 91
+        DURATION        : 00:42:43.603000000
+        NUMBER_OF_FRAMES: 707
+        NUMBER_OF_BYTES : 29336
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(ger): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 99
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 746
+        NUMBER_OF_BYTES : 31870
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 114
+        DURATION        : 00:42:21.622000000
+        NUMBER_OF_FRAMES: 846
+        NUMBER_OF_BYTES : 36356
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Latin American
+        BPS             : 85
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 696
+        NUMBER_OF_BYTES : 27584
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 86
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 725
+        NUMBER_OF_BYTES : 27725
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(fin): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 90
+        DURATION        : 00:42:43.603000000
+        NUMBER_OF_FRAMES: 735
+        NUMBER_OF_BYTES : 28938
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 92
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 736
+        NUMBER_OF_BYTES : 29671
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(hun): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 92
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 641
+        NUMBER_OF_BYTES : 29695
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(ita): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 91
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 692
+        NUMBER_OF_BYTES : 29322
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(jpn): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 73
+        DURATION        : 00:42:40.057000000
+        NUMBER_OF_FRAMES: 758
+        NUMBER_OF_BYTES : 23362
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(kor): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 108
+        DURATION        : 00:42:43.603000000
+        NUMBER_OF_FRAMES: 798
+        NUMBER_OF_BYTES : 34867
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(dut): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 78
+        DURATION        : 00:42:43.603000000
+        NUMBER_OF_FRAMES: 595
+        NUMBER_OF_BYTES : 25173
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(nor): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 90
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 730
+        NUMBER_OF_BYTES : 28976
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(pol): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 85
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 736
+        NUMBER_OF_BYTES : 27367
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Brazilian
+        BPS             : 87
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 732
+        NUMBER_OF_BYTES : 28107
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(rum): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 90
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 667
+        NUMBER_OF_BYTES : 29145
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(slo): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 82
+        DURATION        : 00:42:43.603000000
+        NUMBER_OF_FRAMES: 772
+        NUMBER_OF_BYTES : 26530
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(swe): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 96
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 793
+        NUMBER_OF_BYTES : 31128
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional
+        BPS             : 93
+        DURATION        : 00:42:48.900000000
+        NUMBER_OF_FRAMES: 801
+        NUMBER_OF_BYTES : 29920
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Scene 1
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 5559239
+        DURATION        : 00:43:05.500000000
+        NUMBER_OF_FRAMES: 61990
+        NUMBER_OF_BYTES : 1796676624
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 23:43:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   24 fps=0.0 q=-0.0 size=N/A time=00:00:01.00 bitrate=N/A speed=   2x    [out#0/null @ 0x787afd0ff240] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.08x    

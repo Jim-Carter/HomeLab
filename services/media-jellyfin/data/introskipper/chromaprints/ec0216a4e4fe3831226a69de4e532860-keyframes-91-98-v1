@@ -1,0 +1,99 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E03 - No Man Can Hide Forever WEBDL-1080p.mkv':
+  Metadata:
+    title           : Robin Hood S01E03 No Man Can Hide Forever
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:51:33.18, start: 0.000000, bitrate: 9635 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 18.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 18.000000, end 96.000000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 96.000000, end 97.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 97.000000, end 147.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:4: start 147.000000, end 3034.000000
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 3034.000000, end 3093.184000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 8993485
+        DURATION        : 00:51:33.174000000
+        NUMBER_OF_FRAMES: 74162
+        NUMBER_OF_BYTES : 3477301854
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:51:33.184000000
+        NUMBER_OF_FRAMES: 96662
+        NUMBER_OF_BYTES : 247454720
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 44
+        DURATION        : 00:50:01.707000000
+        NUMBER_OF_FRAMES: 632
+        NUMBER_OF_BYTES : 16864
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 51
+        DURATION        : 00:50:17.306000000
+        NUMBER_OF_FRAMES: 772
+        NUMBER_OF_BYTES : 19398
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] n:   0 pts:   1092 pts_time:1.092   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:D8B2228A plane_checksum:[80379470 BEC82313 8B136AF8] mean:[50 124 127] stdev:[23.7 2.8 5.2]
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Robin Hood S01E03 No Man Can Hide Forever
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Recap
+    Chapter #0:1: start 5.000000, end 6.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:2: start 6.000000, end 7.000000
+      Metadata:
+        title           : Intro
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        BPS             : 8993485
+        DURATION        : 00:51:33.174000000
+        NUMBER_OF_FRAMES: 74162
+        NUMBER_OF_BYTES : 3477301854
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] n:   1 pts:   3094 pts_time:3.094   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EB53D44D plane_checksum:[2F205DA6 DDC5BB4C DDC5BB4C] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] n:   2 pts:   5096 pts_time:5.096   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5CB7B921 plane_checksum:[E93B816B 5501FBC0 E44A3BE7] mean:[80 123 130] stdev:[51.0 3.0 3.6]
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] n:   3 pts:   7098 pts_time:7.098   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:3797B4D0 plane_checksum:[28C73146 E3F265C3 67451DC7] mean:[86 123 131] stdev:[50.8 3.3 3.9]
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] n:   4 pts:   9100 pts_time:9.1     duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F0035613 plane_checksum:[9E030A00 4215BA52 C7E291B2] mean:[86 119 135] stdev:[45.4 4.8 6.0]
+[Parsed_showinfo_0 @ 0x7220c9c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7220cee805c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.13 bitrate=N/A speed=40.2x    

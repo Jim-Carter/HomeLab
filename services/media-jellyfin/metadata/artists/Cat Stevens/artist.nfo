@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Cat Stevens                   </title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>e2345fdf-2be7-47c5-a6dd-be64353ad134</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Cat Stevens/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Cat Stevens/backdrop.jpg</fanart>
+  </art>
+</artist>

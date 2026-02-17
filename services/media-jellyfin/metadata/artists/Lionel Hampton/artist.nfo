@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Lionel Hampton</title>
+  <runtime>3</runtime>
+  <genre>Christmas Jazz</genre>
+  <musicbrainzartistid>17cf2413-99c1-441d-ba92-700e811daf56</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Lionel Hampton/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Lionel Hampton/backdrop.jpg</fanart>
+  </art>
+</artist>

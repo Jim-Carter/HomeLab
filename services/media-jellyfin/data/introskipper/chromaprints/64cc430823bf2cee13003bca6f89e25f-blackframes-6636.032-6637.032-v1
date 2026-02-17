@@ -1,0 +1,136 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7eeac4ebe000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/Movies/Relay 2024 2160p AMZN WEB-DL HDR10  DDP5 1 H265 MP4-BEN THE MEN/Relay 2024 2160p AMZN WEB-DL HDR10  DDP5 1 H265 MP4-BEN THE MEN.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    creation_time   : 2025-09-18T12:01:02.000000Z
+    title           : Relay.2024.2160p.AMZN.WEB-DL.HDR10+[Ben The Men]
+    encoder         : Lavf62.1.100
+  Duration: 01:51:52.03, start: 0.000000, bitrate: 15746 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 6401.000000
+      Metadata:
+        title           : Scene 01
+    Chapter #0:1: start 6401.000000, end 6712.032000
+      Metadata:
+        title           : End Credits
+  Stream #0:0[0x2](eng): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1600 [SAR 1:1 DAR 12:5], 14777 kb/s, 23.98 fps, 23.98 tbr, 16k tbn (default)
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x3](eng): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, 5.1(side), fltp, 960 kb/s (default)
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x4](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x5](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:4[0x6](spa): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:5[0x7](por): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:6[0x8](por): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:7[0x9](fra): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:8[0xa](deu): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:9[0xb](ita): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:10[0xc](hrv): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:11[0xd](pol): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:12[0xe](ron): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:13[0xf](slk): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:14[0x10](rus): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:15[0x11](eng): Data: bin_data (text / 0x74786574)
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : SubtitleHandler
+  Stream #0:16[0x0]: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 600x900 [SAR 300:300 DAR 2:3], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:0 pblack:90 pts:224 t:0.014000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    title           : Relay.2024.2160p.AMZN.WEB-DL.HDR10+[Ben The Men]
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1.000000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1600 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        creation_time   : 2025-09-18T12:01:02.000000Z
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+      Side data:
+        Mastering Display Metadata, has_primaries:1 has_luminance:1 r(0.6800,0.3200) g(0.2650,0.6900) b(0.1500 0.0600) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+        Content Light Level Metadata, MaxCLL=316, MaxFALL=129
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:1 pblack:90 pts:896 t:0.056000 type:B last_keyframe:0
+frame=    2 fps=1.3 q=-0.0 size=N/A time=00:00:00.08 bitrate=N/A speed=0.0552x    [Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:2 pblack:90 pts:1552 t:0.097000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:3 pblack:90 pts:2224 t:0.139000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:4 pblack:90 pts:2896 t:0.181000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:5 pblack:90 pts:3568 t:0.223000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:6 pblack:90 pts:4224 t:0.264000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:7 pblack:90 pts:4896 t:0.306000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:8 pblack:90 pts:5568 t:0.348000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:9 pblack:90 pts:6224 t:0.389000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:10 pblack:90 pts:6896 t:0.431000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:11 pblack:90 pts:7568 t:0.473000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:12 pblack:90 pts:8240 t:0.515000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:13 pblack:90 pts:8896 t:0.556000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:14 pblack:90 pts:9568 t:0.598000 type:I last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:15 pblack:90 pts:10240 t:0.640000 type:B last_keyframe:14
+frame=   16 fps=8.0 q=-0.0 size=N/A time=00:00:00.66 bitrate=N/A speed=0.332x    [Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:16 pblack:90 pts:10896 t:0.681000 type:B last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:17 pblack:90 pts:11568 t:0.723000 type:B last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:18 pblack:90 pts:12240 t:0.765000 type:B last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:19 pblack:90 pts:12912 t:0.807000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:20 pblack:90 pts:13568 t:0.848000 type:B last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:21 pblack:90 pts:14240 t:0.890000 type:B last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:22 pblack:90 pts:14912 t:0.932000 type:B last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:23 pblack:90 pts:15568 t:0.973000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7eeabd20c0c0] frame:24 pblack:90 pts:16240 t:1.015000 type:B last_keyframe:14
+[out#0/null @ 0x7eeac4e51280] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps= 10 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.431x    

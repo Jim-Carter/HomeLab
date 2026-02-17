@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Ramsey Lewis</title>
+  <runtime>3</runtime>
+  <genre>Jazz</genre>
+  <musicbrainzartistid>fe19b809-e86c-4736-882a-53b72e23171b</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Ramsey Lewis/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Ramsey Lewis/backdrop.jpg</fanart>
+  </art>
+</artist>

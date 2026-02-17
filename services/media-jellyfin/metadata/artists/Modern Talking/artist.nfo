@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Modern Talking</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>98913495-8867-43b3-aa8d-db88ee4d4cdc</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Modern Talking/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Modern Talking/backdrop.jpg</fanart>
+  </art>
+</artist>

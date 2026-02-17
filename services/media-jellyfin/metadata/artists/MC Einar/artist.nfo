@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>MC Einar</title>
+  <runtime>6</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>fb634193-2592-46f6-9b9f-df8df316d99e</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/MC Einar/folder.jpg</poster>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Hannah Montana</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>e25744d3-ec9f-4bbf-8760-7bd3370906ea</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Hannah Montana/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Hannah Montana/backdrop.jpg</fanart>
+  </art>
+</artist>

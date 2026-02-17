@@ -1,0 +1,56 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/The Last Anniversary/Season 1/The Last Anniversary - S01E03 - Episode 3 WEBRip-1080p.mkv':
+  Metadata:
+    title           : KONTRAST.top | The.Last.Anniversary.S01E03.1080p.WEBRip.x265-KONTRAST
+    creation_time   : 2025-05-11T20:19:52.000000Z
+    ENCODER         : Lavf58.76.100
+    MOVIE/ENCODER   : Lavf58.76.100
+  Duration: 00:46:44.12, start: 0.000000, bitrate: 2984 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x872 [SAR 872:873 DAR 640:291], SAR 959:960 DAR 959:436, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        title           : KONTRAST
+        BPS             : 2758942
+        DURATION        : 00:46:44.094000000
+        NUMBER_OF_FRAMES: 67231
+        NUMBER_OF_BYTES : 967041677
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:19:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 223637
+        DURATION        : 00:46:44.117000000
+        NUMBER_OF_FRAMES: 131443
+        NUMBER_OF_BYTES : 78388187
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:19:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : English [SDH]
+        BPS             : 63
+        DURATION        : 00:45:45.351000000
+        NUMBER_OF_FRAMES: 687
+        NUMBER_OF_BYTES : 21835
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:19:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : KONTRAST.top | The.Last.Anniversary.S01E03.1080p.WEBRip.x265-KONTRAST
+    MOVIE/ENCODER   : Lavf58.76.100
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1, s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 223637
+        DURATION        : 00:46:44.117000000
+        NUMBER_OF_FRAMES: 131443
+        NUMBER_OF_BYTES : 78388187
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:19:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[out#0/null @ 0x7254a0a805c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 127x    

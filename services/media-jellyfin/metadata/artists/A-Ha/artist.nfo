@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>A-Ha</title>
+  <runtime>8</runtime>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>7364dea6-ca9a-48e3-be01-b44ad0d19897</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/A-Ha/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/A-Ha/backdrop.jpg</fanart>
+  </art>
+</artist>

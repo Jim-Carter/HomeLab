@@ -1,0 +1,96 @@
+Input #0, matroska,webm, from '/mnt/nas/Movies/Altered (2025)/Altered (2025) {tmdb- 1309012}.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:25:00.54, start: 0.000000, bitrate: 7547 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5100.542000
+      Metadata:
+        title           : Main
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 24 fps, 24 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 6904913
+        DURATION        : 01:25:00.542000000
+        NUMBER_OF_FRAMES: 122413
+        NUMBER_OF_BYTES : 4402350015
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 01:25:00.512000000
+        NUMBER_OF_FRAMES: 159391
+        NUMBER_OF_BYTES : 408040960
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 71
+        DURATION        : 01:23:26.000000000
+        NUMBER_OF_FRAMES: 1442
+        NUMBER_OF_BYTES : 44867
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 81
+        DURATION        : 01:23:34.166000000
+        NUMBER_OF_FRAMES: 1664
+        NUMBER_OF_BYTES : 51215
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Canadian
+        BPS             : 66
+        DURATION        : 01:17:35.375000000
+        NUMBER_OF_FRAMES: 1145
+        NUMBER_OF_BYTES : 38738
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:0 pblack:99 pts:0 t:0.000000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1.000000
+      Metadata:
+        title           : Main
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 24 fps, 24 tbn (default) (original)
+      Metadata:
+        BPS             : 6904913
+        DURATION        : 01:25:00.542000000
+        NUMBER_OF_FRAMES: 122413
+        NUMBER_OF_BYTES : 4402350015
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:1 pblack:99 pts:41 t:0.041000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:2 pblack:99 pts:83 t:0.083000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:3 pblack:99 pts:125 t:0.125000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:4 pblack:99 pts:166 t:0.166000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:5 pblack:99 pts:208 t:0.208000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:6 pblack:99 pts:250 t:0.250000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:7 pblack:99 pts:291 t:0.291000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:8 pblack:99 pts:333 t:0.333000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:9 pblack:99 pts:375 t:0.375000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:10 pblack:99 pts:416 t:0.416000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:11 pblack:99 pts:458 t:0.458000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:12 pblack:99 pts:500 t:0.500000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:13 pblack:99 pts:541 t:0.541000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:14 pblack:99 pts:583 t:0.583000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:15 pblack:99 pts:625 t:0.625000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:16 pblack:99 pts:666 t:0.666000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:17 pblack:99 pts:708 t:0.708000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:18 pblack:99 pts:750 t:0.750000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:19 pblack:99 pts:791 t:0.791000 type:P last_keyframe:0
+frame=   20 fps=0.0 q=-0.0 size=N/A time=00:00:00.83 bitrate=N/A speed=1.67x    [Parsed_blackframe_0 @ 0x7421c520c0c0] frame:20 pblack:99 pts:833 t:0.833000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:21 pblack:99 pts:875 t:0.875000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:22 pblack:99 pts:916 t:0.916000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:23 pblack:99 pts:958 t:0.958000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7421c520c0c0] frame:24 pblack:99 pts:1000 t:1.000000 type:B last_keyframe:0
+[out#0/null @ 0x7421ca480800] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.71x    

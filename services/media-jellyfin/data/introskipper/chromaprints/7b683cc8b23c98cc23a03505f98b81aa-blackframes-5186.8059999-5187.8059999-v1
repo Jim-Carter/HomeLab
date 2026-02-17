@@ -1,0 +1,60 @@
+Input #0, matroska,webm, from '/mnt/nas/Movies/Barber (2023)/Barber (2023) {tmdb- 1089765}.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+    creation_time   : 2023-10-01T18:07:23.000000Z
+  Duration: 01:29:12.81, start: 0.000000, bitrate: 14286 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709/reserved/reserved, progressive), 1920x816 [SAR 1:1 DAR 40:17], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 13643787
+        DURATION        : 01:29:12.806000000
+        NUMBER_OF_FRAMES: 128338
+        NUMBER_OF_BYTES : 9129068750
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 01:29:12.800000000
+        NUMBER_OF_FRAMES: 167275
+        NUMBER_OF_BYTES : 428224000
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 56
+        DURATION        : 01:24:11.960000000
+        NUMBER_OF_FRAMES: 1109
+        NUMBER_OF_BYTES : 35623
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 58
+        DURATION        : 01:26:06.596000000
+        NUMBER_OF_FRAMES: 1205
+        NUMBER_OF_BYTES : 37844
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709/reserved/reserved, progressive), 1920x816 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 13643787
+        DURATION        : 01:29:12.806000000
+        NUMBER_OF_FRAMES: 128338
+        NUMBER_OF_BYTES : 9129068750
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x732b1b880680] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=5.54x    

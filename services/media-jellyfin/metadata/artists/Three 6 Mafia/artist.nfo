@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Three 6 Mafia</title>
+  <runtime>3</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>a8754ac4-a85e-4f48-a81f-eecd482570ef</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Three 6 Mafia/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Three 6 Mafia/backdrop.jpg</fanart>
+  </art>
+</artist>

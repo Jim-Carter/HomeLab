@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Aaron Fresh</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>86bcc9da-a68f-4922-9cfa-eb9f8e6a3579</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Aaron Fresh/folder.jpg</poster>
+  </art>
+</artist>

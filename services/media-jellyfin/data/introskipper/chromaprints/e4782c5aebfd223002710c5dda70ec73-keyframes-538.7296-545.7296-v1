@@ -1,0 +1,66 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Star Trek - Strange New Worlds/Season 3/Star Trek - Strange New Worlds - S03E10 - New Life and New Civilizations WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:55:32.74, start: 0.000000, bitrate: 5631 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4988851
+        DURATION        : 00:55:32.705000000
+        NUMBER_OF_FRAMES: 79905
+        NUMBER_OF_BYTES : 2078296120
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:55:32.736000000
+        NUMBER_OF_FRAMES: 104148
+        NUMBER_OF_BYTES : 266618880
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 72
+        DURATION        : 00:54:02.839000000
+        NUMBER_OF_FRAMES: 952
+        NUMBER_OF_BYTES : 29314
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 77
+        DURATION        : 00:54:20.157000000
+        NUMBER_OF_FRAMES: 1035
+        NUMBER_OF_BYTES : 31595
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] n:   0 pts:   1810 pts_time:1.81    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:348C35AF plane_checksum:[A272F853 4E65013B EEB43C12] mean:[40 134 124] stdev:[28.9 4.5 3.7]
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 4988851
+        DURATION        : 00:55:32.705000000
+        NUMBER_OF_FRAMES: 79905
+        NUMBER_OF_BYTES : 2078296120
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] n:   1 pts:   3812 pts_time:3.812   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:91A4A262 plane_checksum:[8693F833 F75D2037 A0D389E9] mean:[23 130 127] stdev:[14.6 2.5 1.7]
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] n:   2 pts:   5814 pts_time:5.814   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:65070C4A plane_checksum:[E9940B37 7B048BF2 BDD37512] mean:[16 128 128] stdev:[1.1 0.4 0.4]
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] n:   3 pts:   7816 pts_time:7.816   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:F3F36DDD plane_checksum:[9A3815F9 9D932BF2 9D932BF2] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] n:   4 pts:   9818 pts_time:9.818   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:F3F36DDD plane_checksum:[9A3815F9 9D932BF2 9D932BF2] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7455dde0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7455e2c805c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.83 bitrate=N/A speed= 111x    

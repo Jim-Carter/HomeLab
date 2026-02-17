@@ -1,0 +1,109 @@
+Input #0, matroska,webm, from '/mnt/nas/Movies/Barber (2023)/Barber (2023) {tmdb- 1089765}.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+    creation_time   : 2023-10-01T18:07:23.000000Z
+  Duration: 01:29:12.81, start: 0.000000, bitrate: 14286 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709/reserved/reserved, progressive), 1920x816 [SAR 1:1 DAR 40:17], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 13643787
+        DURATION        : 01:29:12.806000000
+        NUMBER_OF_FRAMES: 128338
+        NUMBER_OF_BYTES : 9129068750
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 01:29:12.800000000
+        NUMBER_OF_FRAMES: 167275
+        NUMBER_OF_BYTES : 428224000
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 56
+        DURATION        : 01:24:11.960000000
+        NUMBER_OF_FRAMES: 1109
+        NUMBER_OF_BYTES : 35623
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 58
+        DURATION        : 01:26:06.596000000
+        NUMBER_OF_FRAMES: 1205
+        NUMBER_OF_BYTES : 37844
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:0 pblack:99 pts:9 t:0.009000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709/reserved/reserved, progressive), 1920x816 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 13643787
+        DURATION        : 01:29:12.806000000
+        NUMBER_OF_FRAMES: 128338
+        NUMBER_OF_BYTES : 9129068750
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-01 18:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:1 pblack:99 pts:51 t:0.051000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:2 pblack:99 pts:93 t:0.093000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:3 pblack:99 pts:134 t:0.134000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:4 pblack:99 pts:176 t:0.176000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:5 pblack:99 pts:218 t:0.218000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:6 pblack:99 pts:259 t:0.259000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:7 pblack:99 pts:301 t:0.301000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:8 pblack:99 pts:343 t:0.343000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:9 pblack:99 pts:385 t:0.385000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:10 pblack:99 pts:426 t:0.426000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:11 pblack:99 pts:468 t:0.468000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:12 pblack:99 pts:510 t:0.510000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:13 pblack:99 pts:551 t:0.551000 type:I last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:14 pblack:99 pts:593 t:0.593000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:15 pblack:99 pts:635 t:0.635000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:16 pblack:99 pts:676 t:0.676000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:17 pblack:99 pts:718 t:0.718000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:18 pblack:99 pts:760 t:0.760000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:19 pblack:99 pts:802 t:0.802000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:20 pblack:99 pts:843 t:0.843000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:21 pblack:99 pts:885 t:0.885000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:22 pblack:99 pts:927 t:0.927000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:23 pblack:99 pts:968 t:0.968000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:24 pblack:99 pts:1010 t:1.010000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:25 pblack:99 pts:1052 t:1.052000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:26 pblack:99 pts:1094 t:1.094000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:27 pblack:99 pts:1135 t:1.135000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:28 pblack:99 pts:1177 t:1.177000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:29 pblack:99 pts:1219 t:1.219000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:30 pblack:99 pts:1260 t:1.260000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:31 pblack:99 pts:1302 t:1.302000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:32 pblack:99 pts:1344 t:1.344000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:33 pblack:99 pts:1386 t:1.386000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:34 pblack:99 pts:1427 t:1.427000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:35 pblack:99 pts:1469 t:1.469000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:36 pblack:99 pts:1511 t:1.511000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:37 pblack:99 pts:1552 t:1.552000 type:P last_keyframe:13
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:38 pblack:99 pts:1594 t:1.594000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:39 pblack:99 pts:1636 t:1.636000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:40 pblack:99 pts:1677 t:1.677000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:41 pblack:99 pts:1719 t:1.719000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:42 pblack:99 pts:1761 t:1.761000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:43 pblack:99 pts:1803 t:1.803000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:44 pblack:99 pts:1844 t:1.844000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:45 pblack:99 pts:1886 t:1.886000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:46 pblack:99 pts:1928 t:1.928000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:47 pblack:99 pts:1969 t:1.969000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x78a36760c0c0] frame:48 pblack:99 pts:2011 t:2.011000 type:P last_keyframe:38
+[out#0/null @ 0x78a36dc80680] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=34.6x    

@@ -1,0 +1,390 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/A Knight of the Seven Kingdoms/Season 1/A Knight of the Seven Kingdoms - S01E02 - Hard Salt Beef WEBDL-720p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:33:14.49, start: 0.000000, bitrate: 3314 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 512.220000
+      Metadata:
+        title           : Chapter 1
+    Chapter #0:1: start 512.220000, end 1368.075000
+      Metadata:
+        title           : Chapter 2
+    Chapter #0:2: start 1368.075000, end 1871.369000
+      Metadata:
+        title           : Chapter 3
+    Chapter #0:3: start 1871.369000, end 1987.443000
+      Metadata:
+        title           : Credits
+    Chapter #0:4: start 1987.443000, end 1994.493000
+      Metadata:
+        title           : Chapter 4
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x640 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2668000
+        DURATION        : 00:33:14.493000000
+        NUMBER_OF_FRAMES: 47820
+        NUMBER_OF_BYTES : 665163663
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:33:14.464000000
+        NUMBER_OF_FRAMES: 62327
+        NUMBER_OF_BYTES : 159557120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English #1
+        BPS             : 59
+        DURATION        : 00:30:48.138000000
+        NUMBER_OF_FRAMES: 438
+        NUMBER_OF_BYTES : 13754
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English #2
+        BPS             : 61
+        DURATION        : 00:30:48.138000000
+        NUMBER_OF_FRAMES: 472
+        NUMBER_OF_BYTES : 14223
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(eng): Subtitle: subrip (srt) (hearing impaired)
+      Metadata:
+        title           : English #2 (SDH)
+        BPS             : 75
+        DURATION        : 00:31:06.531000000
+        NUMBER_OF_FRAMES: 579
+        NUMBER_OF_BYTES : 17555
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(bul): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 94
+        DURATION        : 00:31:00.985000000
+        NUMBER_OF_FRAMES: 401
+        NUMBER_OF_BYTES : 22048
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(cat): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 58
+        DURATION        : 00:31:14.665000000
+        NUMBER_OF_FRAMES: 460
+        NUMBER_OF_BYTES : 13782
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(cze): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 55
+        DURATION        : 00:31:01.068000000
+        NUMBER_OF_FRAMES: 409
+        NUMBER_OF_BYTES : 12917
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(dan): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 56
+        DURATION        : 00:31:57.541000000
+        NUMBER_OF_FRAMES: 395
+        NUMBER_OF_BYTES : 13461
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(ger): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 57
+        DURATION        : 00:32:53.096000000
+        NUMBER_OF_FRAMES: 373
+        NUMBER_OF_BYTES : 14304
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(gre): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 98
+        DURATION        : 00:31:05.573000000
+        NUMBER_OF_FRAMES: 402
+        NUMBER_OF_BYTES : 22942
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (Latin America)
+        BPS             : 58
+        DURATION        : 00:32:54.055000000
+        NUMBER_OF_FRAMES: 475
+        NUMBER_OF_BYTES : 14318
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (Spain)
+        BPS             : 58
+        DURATION        : 00:31:14.665000000
+        NUMBER_OF_FRAMES: 462
+        NUMBER_OF_BYTES : 13756
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(est): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 56
+        DURATION        : 00:31:02.695000000
+        NUMBER_OF_FRAMES: 408
+        NUMBER_OF_BYTES : 13184
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(fin): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 59
+        DURATION        : 00:31:02.069000000
+        NUMBER_OF_FRAMES: 367
+        NUMBER_OF_BYTES : 13742
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(fre): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 53
+        DURATION        : 00:31:30.680000000
+        NUMBER_OF_FRAMES: 449
+        NUMBER_OF_BYTES : 12622
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(heb): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 82
+        DURATION        : 00:33:01.105000000
+        NUMBER_OF_FRAMES: 409
+        NUMBER_OF_BYTES : 20344
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(hrv): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 53
+        DURATION        : 00:31:01.151000000
+        NUMBER_OF_FRAMES: 405
+        NUMBER_OF_BYTES : 12459
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(hun): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 56
+        DURATION        : 00:31:12.580000000
+        NUMBER_OF_FRAMES: 406
+        NUMBER_OF_BYTES : 13233
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(ind): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 59
+        DURATION        : 00:30:48.305000000
+        NUMBER_OF_FRAMES: 419
+        NUMBER_OF_BYTES : 13770
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(ice): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 50
+        DURATION        : 00:32:53.055000000
+        NUMBER_OF_FRAMES: 389
+        NUMBER_OF_BYTES : 12436
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(ita): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 63
+        DURATION        : 00:30:48.555000000
+        NUMBER_OF_FRAMES: 402
+        NUMBER_OF_BYTES : 14735
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22: Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 101
+        DURATION        : 00:33:01.105000000
+        NUMBER_OF_FRAMES: 419
+        NUMBER_OF_BYTES : 25235
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(lit): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 55
+        DURATION        : 00:31:00.818000000
+        NUMBER_OF_FRAMES: 403
+        NUMBER_OF_BYTES : 12980
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(lav): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 58
+        DURATION        : 00:31:03.737000000
+        NUMBER_OF_FRAMES: 406
+        NUMBER_OF_BYTES : 13716
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(mac): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 91
+        DURATION        : 00:31:04.780000000
+        NUMBER_OF_FRAMES: 408
+        NUMBER_OF_BYTES : 21407
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:26(may): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 59
+        DURATION        : 00:30:48.305000000
+        NUMBER_OF_FRAMES: 416
+        NUMBER_OF_BYTES : 13852
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:27(nob): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 54
+        DURATION        : 00:33:01.188000000
+        NUMBER_OF_FRAMES: 327
+        NUMBER_OF_BYTES : 13427
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:28(dut): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 57
+        DURATION        : 00:31:02.069000000
+        NUMBER_OF_FRAMES: 329
+        NUMBER_OF_BYTES : 13496
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:29(pol): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 51
+        DURATION        : 00:32:09.720000000
+        NUMBER_OF_FRAMES: 373
+        NUMBER_OF_BYTES : 12467
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:30(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (Brazil)
+        BPS             : 62
+        DURATION        : 00:30:59.524000000
+        NUMBER_OF_FRAMES: 439
+        NUMBER_OF_BYTES : 14577
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:31(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (Portugal)
+        BPS             : 60
+        DURATION        : 00:31:07.408000000
+        NUMBER_OF_FRAMES: 408
+        NUMBER_OF_BYTES : 14104
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:32(rum): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 60
+        DURATION        : 00:33:01.105000000
+        NUMBER_OF_FRAMES: 410
+        NUMBER_OF_BYTES : 15105
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:33(slo): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 58
+        DURATION        : 00:30:48.138000000
+        NUMBER_OF_FRAMES: 439
+        NUMBER_OF_BYTES : 13430
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:34(slv): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 51
+        DURATION        : 00:33:01.105000000
+        NUMBER_OF_FRAMES: 386
+        NUMBER_OF_BYTES : 12684
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:35(srp): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 56
+        DURATION        : 00:31:04.989000000
+        NUMBER_OF_FRAMES: 408
+        NUMBER_OF_BYTES : 13273
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:36(swe): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 59
+        DURATION        : 00:30:59.983000000
+        NUMBER_OF_FRAMES: 322
+        NUMBER_OF_BYTES : 13807
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:37(tha): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 136
+        DURATION        : 00:30:48.305000000
+        NUMBER_OF_FRAMES: 444
+        NUMBER_OF_BYTES : 31548
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:38(tur): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 58
+        DURATION        : 00:30:51.016000000
+        NUMBER_OF_FRAMES: 408
+        NUMBER_OF_BYTES : 13506
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:39(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (Simplified, Singapore)
+        BPS             : 54
+        DURATION        : 00:30:53.936000000
+        NUMBER_OF_FRAMES: 409
+        NUMBER_OF_BYTES : 12612
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:40(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (Traditional, Hong Kong SAR China)
+        BPS             : 52
+        DURATION        : 00:30:59.817000000
+        NUMBER_OF_FRAMES: 412
+        NUMBER_OF_BYTES : 12264
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:41(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (Traditional, Taiwan)
+        BPS             : 52
+        DURATION        : 00:31:12.496000000
+        NUMBER_OF_FRAMES: 435
+        NUMBER_OF_BYTES : 12281
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Credits
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 4
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default) (original)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:33:14.464000000
+        NUMBER_OF_FRAMES: 62327
+        NUMBER_OF_BYTES : 159557120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[out#0/null @ 0x7c74b1ee3ec0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 150x    

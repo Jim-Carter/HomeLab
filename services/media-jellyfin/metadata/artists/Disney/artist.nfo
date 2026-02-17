@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Disney</title>
+  <runtime>84</runtime>
+  <genre>Blues</genre>
+  <genre>Children's</genre>
+  <genre>Ethnic</genre>
+  <genre>Jazz</genre>
+  <genre>Metal</genre>
+  <genre>Pop-Folk</genre>
+  <genre>Soul</genre>
+  <genre>Sound Clip</genre>
+  <musicbrainzartistid>66ea0139-149f-4a0c-8fbf-5ea9ec4a6e49</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Disney/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Disney/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The All</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>25d4b79f-0359-4ec5-81d4-b600dd34adda</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The All/folder.jpg</poster>
+  </art>
+</artist>

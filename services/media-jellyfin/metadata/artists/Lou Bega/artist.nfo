@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Lou Bega</title>
+  <runtime>3</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>64f9c914-74a0-4f6b-8589-6261851b0ab9</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Lou Bega/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Lou Bega/backdrop.jpg</fanart>
+  </art>
+</artist>

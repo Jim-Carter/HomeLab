@@ -1,0 +1,71 @@
+Input #0, matroska,webm, from '/mnt/nas/media/Movies/Altered (2025)/Altered (2025) {tmdb- 1309012}.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:25:00.54, start: 0.000000, bitrate: 7547 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5100.542000
+      Metadata:
+        title           : Main
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 24 fps, 24 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 6904913
+        DURATION        : 01:25:00.542000000
+        NUMBER_OF_FRAMES: 122413
+        NUMBER_OF_BYTES : 4402350015
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 01:25:00.512000000
+        NUMBER_OF_FRAMES: 159391
+        NUMBER_OF_BYTES : 408040960
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 71
+        DURATION        : 01:23:26.000000000
+        NUMBER_OF_FRAMES: 1442
+        NUMBER_OF_BYTES : 44867
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 81
+        DURATION        : 01:23:34.166000000
+        NUMBER_OF_FRAMES: 1664
+        NUMBER_OF_BYTES : 51215
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Canadian
+        BPS             : 66
+        DURATION        : 01:17:35.375000000
+        NUMBER_OF_FRAMES: 1145
+        NUMBER_OF_BYTES : 38738
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Main
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 24 fps, 24 tbn (default) (original)
+      Metadata:
+        BPS             : 6904913
+        DURATION        : 01:25:00.542000000
+        NUMBER_OF_FRAMES: 122413
+        NUMBER_OF_BYTES : 4402350015
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   26 fps= 26 q=-0.0 size=N/A time=00:00:01.08 bitrate=N/A speed=1.08x    [out#0/null @ 0x750e45280800] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps= 36 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.52x    

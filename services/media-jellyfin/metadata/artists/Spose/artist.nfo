@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Spose</title>
+  <runtime>3</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>c27fb8a7-396f-4727-8101-3e8c91df8982</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Spose/folder.jpg</poster>
+  </art>
+</artist>

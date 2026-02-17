@@ -1,0 +1,52 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Alien Earth/Alien.Earth.S01E06.The.Fly.1080p.DSNP.WEB-DL.DDP5.1.H.264-STC.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2025-09-10T04:26:39.000000Z
+  Duration: 00:57:25.79, start: 0.000000, bitrate: 5030 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4772878
+        DURATION        : 00:57:25.750000000
+        NUMBER_OF_FRAMES: 82698
+        NUMBER_OF_BYTES : 2055768210
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-10 04:26:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:57:25.792000000
+        NUMBER_OF_FRAMES: 107681
+        NUMBER_OF_BYTES : 110265344
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-10 04:26:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 53
+        DURATION        : 00:56:59.850000000
+        NUMBER_OF_FRAMES: 897
+        NUMBER_OF_BYTES : 22860
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-10 04:26:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:57:25.792000000
+        NUMBER_OF_FRAMES: 107681
+        NUMBER_OF_BYTES : 110265344
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-10 04:26:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x7a6b8ba09080] silence_start: 0
+[silencedetect @ 0x7a6b8ba09080] silence_end: 2.193917 | silence_duration: 2.193917
+[out#0/null @ 0x7a6b8f280440] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=17.7x    

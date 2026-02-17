@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>byron lee and the dragonaires</title>
+  <runtime>15</runtime>
+  <genre>Reggae</genre>
+  <musicbrainzartistid>58497b1c-e42b-48d3-8704-3eec017921c4</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/byron lee and the dragonaires/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/byron lee and the dragonaires/backdrop.jpg</fanart>
+  </art>
+</artist>

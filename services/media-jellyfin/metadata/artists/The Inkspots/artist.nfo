@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Inkspots</title>
+  <runtime>6</runtime>
+  <genre>Game Soundtrack</genre>
+  <musicbrainzartistid>75f47650-8a52-494a-8334-c5279bc6db09</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Inkspots/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Inkspots/backdrop.jpg</fanart>
+  </art>
+</artist>

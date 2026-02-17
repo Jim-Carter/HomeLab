@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Charlie Byrd</title>
+  <runtime>3</runtime>
+  <genre>Kerst</genre>
+  <musicbrainzartistid>9d99c378-247c-47a3-94ea-753efa330023</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Charlie Byrd/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Charlie Byrd/backdrop.jpg</fanart>
+  </art>
+</artist>

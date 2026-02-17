@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Simple Plan</title>
+  <runtime>10</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>b345af35-205e-4eca-8006-029e5c20127e</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Simple Plan/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Simple Plan/backdrop.jpg</fanart>
+  </art>
+</artist>

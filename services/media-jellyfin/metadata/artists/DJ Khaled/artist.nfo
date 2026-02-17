@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>DJ Khaled</title>
+  <runtime>47</runtime>
+  <genre>Rap</genre>
+  <musicbrainzartistid>081a2d60-9791-4e05-a075-f1890355eeee</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/DJ Khaled/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/DJ Khaled/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,149 @@
+[matroska,webm @ 0x790b46cbe000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x790b46cbe000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x790b46cbe000] Could not find codec parameters for stream 4 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/Movies/Riders of Justice (2020)/Riders.of.Justice.2020.BluRay.REMUX.1080p.AVC.DTS-HD.MA5.1-HDS.mkv':
+  Metadata:
+    encoder         : libebml v1.3.9 + libmatroska v1.5.2
+    creation_time   : 2021-08-28T21:49:51.000000Z
+  Duration: 01:56:10.05, start: 0.000000, bitrate: 21763 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 585.585000
+      Metadata:
+        title           : 绗?01 绔?
+    Chapter #0:1: start 585.585000, end 1115.114000
+      Metadata:
+        title           : 绗?02 绔?
+    Chapter #0:2: start 1115.114000, end 1600.599000
+      Metadata:
+        title           : 绗?03 绔?
+    Chapter #0:3: start 1600.599000, end 2063.061000
+      Metadata:
+        title           : 绗?04 绔?
+    Chapter #0:4: start 2063.061000, end 2535.533000
+      Metadata:
+        title           : 绗?05 绔?
+    Chapter #0:5: start 2535.533000, end 2999.997000
+      Metadata:
+        title           : 绗?06 绔?
+    Chapter #0:6: start 2999.997000, end 3623.620000
+      Metadata:
+        title           : 绗?07 绔?
+    Chapter #0:7: start 3623.620000, end 4119.115000
+      Metadata:
+        title           : 绗?08 绔?
+    Chapter #0:8: start 4119.115000, end 4676.672000
+      Metadata:
+        title           : 绗?09 绔?
+    Chapter #0:9: start 4676.672000, end 5236.231000
+      Metadata:
+        title           : 绗?10 绔?
+    Chapter #0:10: start 5236.231000, end 5701.696000
+      Metadata:
+        title           : 绗?11 绔?
+    Chapter #0:11: start 5701.696000, end 5990.985000
+      Metadata:
+        title           : 绗?12 绔?
+    Chapter #0:12: start 5990.985000, end 6481.767000
+      Metadata:
+        title           : 绗?13 绔?
+    Chapter #0:13: start 6481.767000, end 6710.704000
+      Metadata:
+        title           : 绗?14 绔?
+    Chapter #0:14: start 6710.704000, end 6970.048000
+      Metadata:
+        title           : 绗?15 绔?
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS-eng         : 19937271
+        DURATION-eng    : 01:56:10.047000000
+        NUMBER_OF_FRAMES-eng: 167114
+        NUMBER_OF_BYTES-eng: 17370464716
+        _STATISTICS_WRITING_APP-eng: mkvmerge v38.0.0 ('The Silent Type') 64-bit
+        _STATISTICS_WRITING_DATE_UTC-eng: 2021-08-28 21:49:51
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 5.1(side), s16p (default)
+      Metadata:
+        BPS-eng         : 1761018
+        DURATION-eng    : 01:56:10.048000000
+        NUMBER_OF_FRAMES-eng: 653442
+        NUMBER_OF_BYTES-eng: 1534297800
+        _STATISTICS_WRITING_APP-eng: mkvmerge v38.0.0 ('The Silent Type') 64-bit
+        _STATISTICS_WRITING_DATE_UTC-eng: 2021-08-28 21:49:51
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS-eng         : 61519
+        DURATION-eng    : 01:55:13.198000000
+        NUMBER_OF_FRAMES-eng: 2440
+        NUMBER_OF_BYTES-eng: 53161762
+        _STATISTICS_WRITING_APP-eng: mkvmerge v38.0.0 ('The Silent Type') 64-bit
+        _STATISTICS_WRITING_DATE_UTC-eng: 2021-08-28 21:49:51
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS-eng         : 32139
+        DURATION-eng    : 01:48:55.487000000
+        NUMBER_OF_FRAMES-eng: 2176
+        NUMBER_OF_BYTES-eng: 26255580
+        _STATISTICS_WRITING_APP-eng: mkvmerge v38.0.0 ('The Silent Type') 64-bit
+        _STATISTICS_WRITING_DATE_UTC-eng: 2021-08-28 21:49:51
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS-eng         : 33632
+        DURATION-eng    : 01:48:55.487000000
+        NUMBER_OF_FRAMES-eng: 2176
+        NUMBER_OF_BYTES-eng: 27475839
+        _STATISTICS_WRITING_APP-eng: mkvmerge v38.0.0 ('The Silent Type') 64-bit
+        _STATISTICS_WRITING_DATE_UTC-eng: 2021-08-28 21:49:51
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:0 pblack:96 pts:36 t:0.036000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1.000000
+      Metadata:
+        title           : 绗?15 绔?
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS-eng         : 19937271
+        DURATION-eng    : 01:56:10.047000000
+        NUMBER_OF_FRAMES-eng: 167114
+        NUMBER_OF_BYTES-eng: 17370464716
+        _STATISTICS_WRITING_APP-eng: mkvmerge v38.0.0 ('The Silent Type') 64-bit
+        _STATISTICS_WRITING_DATE_UTC-eng: 2021-08-28 21:49:51
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:1 pblack:96 pts:78 t:0.078000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:2 pblack:96 pts:119 t:0.119000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:3 pblack:96 pts:161 t:0.161000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:4 pblack:96 pts:203 t:0.203000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:5 pblack:96 pts:244 t:0.244000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:6 pblack:96 pts:286 t:0.286000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:7 pblack:96 pts:328 t:0.328000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:8 pblack:96 pts:370 t:0.370000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:9 pblack:96 pts:411 t:0.411000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:10 pblack:96 pts:453 t:0.453000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:11 pblack:96 pts:495 t:0.495000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:12 pblack:96 pts:536 t:0.536000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:13 pblack:96 pts:578 t:0.578000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:14 pblack:96 pts:620 t:0.620000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:15 pblack:96 pts:661 t:0.661000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:16 pblack:96 pts:703 t:0.703000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:17 pblack:96 pts:745 t:0.745000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:18 pblack:96 pts:787 t:0.787000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:19 pblack:96 pts:828 t:0.828000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:20 pblack:96 pts:870 t:0.870000 type:I last_keyframe:20
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:21 pblack:96 pts:912 t:0.912000 type:B last_keyframe:20
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:22 pblack:96 pts:953 t:0.953000 type:B last_keyframe:20
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:23 pblack:96 pts:995 t:0.995000 type:P last_keyframe:20
+[Parsed_blackframe_0 @ 0x790b4180c0c0] frame:24 pblack:96 pts:1037 t:1.037000 type:B last_keyframe:20
+[out#0/null @ 0x790b46c808c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=2.11x    

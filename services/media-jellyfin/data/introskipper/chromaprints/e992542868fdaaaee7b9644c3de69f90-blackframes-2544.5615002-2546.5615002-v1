@@ -1,0 +1,69 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 5/You - S05E07 - #JoeGoldberg WEBRip-1080p.mkv':
+  Metadata:
+    encoder         : Lavf61.1.100
+    creation_time   : 2025-04-24T21:25:05.000000Z
+  Duration: 00:45:17.42, start: 0.000000, bitrate: 1547 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 4.505000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 4.505000, end 80.581000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 80.581000, end 2552.508000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 2552.508000, end 2717.382000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(ara): Subtitle: ass (ssa)
+  Stream #0:3(chi): Subtitle: ass (ssa)
+  Stream #0:4(chi): Subtitle: ass (ssa)
+  Stream #0:5(hrv): Subtitle: ass (ssa)
+  Stream #0:6(cze): Subtitle: ass (ssa)
+  Stream #0:7(dan): Subtitle: ass (ssa)
+  Stream #0:8(dut): Subtitle: ass (ssa)
+  Stream #0:9(eng): Subtitle: ass (ssa)
+  Stream #0:10(eng): Subtitle: ass (ssa)
+  Stream #0:11(fin): Subtitle: ass (ssa)
+  Stream #0:12(fre): Subtitle: ass (ssa)
+  Stream #0:13(fil): Subtitle: ass (ssa)
+  Stream #0:14(ger): Subtitle: ass (ssa)
+  Stream #0:15(gre): Subtitle: ass (ssa)
+  Stream #0:16(heb): Subtitle: ass (ssa)
+  Stream #0:17(hun): Subtitle: ass (ssa)
+  Stream #0:18(ind): Subtitle: ass (ssa)
+  Stream #0:19(ita): Subtitle: ass (ssa)
+  Stream #0:20(jpn): Subtitle: ass (ssa)
+  Stream #0:21(kor): Subtitle: ass (ssa)
+  Stream #0:22(may): Subtitle: ass (ssa)
+  Stream #0:23(nob): Subtitle: ass (ssa)
+  Stream #0:24(pol): Subtitle: ass (ssa)
+  Stream #0:25(por): Subtitle: ass (ssa)
+  Stream #0:26(por): Subtitle: ass (ssa)
+  Stream #0:27(rum): Subtitle: ass (ssa)
+  Stream #0:28(rus): Subtitle: ass (ssa)
+  Stream #0:29(spa): Subtitle: ass (ssa)
+  Stream #0:30(spa): Subtitle: ass (ssa)
+  Stream #0:31(swe): Subtitle: ass (ssa)
+  Stream #0:32(tha): Subtitle: ass (ssa)
+  Stream #0:33(tur): Subtitle: ass (ssa)
+  Stream #0:34(ukr): Subtitle: ass (ssa)
+  Stream #0:35(vie): Subtitle: ass (ssa)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Part 02
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   35 fps= 35 q=-0.0 size=N/A time=00:00:01.50 bitrate=N/A speed= 1.5x    [out#0/null @ 0x71a508ccd680] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 43 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.84x    

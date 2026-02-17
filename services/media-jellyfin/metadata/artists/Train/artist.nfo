@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Train</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>bfd5aec5-62a2-4560-a316-7c46c17babda</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Train/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Train/backdrop.jpg</fanart>
+  </art>
+</artist>

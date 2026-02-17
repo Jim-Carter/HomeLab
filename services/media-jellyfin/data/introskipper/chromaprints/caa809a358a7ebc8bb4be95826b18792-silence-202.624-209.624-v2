@@ -1,0 +1,250 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/A Thousand Blows/Season 2/A Thousand Blows - S02E06 - Episode 6 WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-12T02:27:23.000000Z
+  Duration: 00:40:44.74, start: 0.000000, bitrate: 4918 kb/s
+  Chapters:
+    Chapter #0:0: start 1.001000, end 70.279000
+      Metadata:
+        title           : Recap
+    Chapter #0:1: start 70.279000, end 173.215000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 173.215000, end 207.624000
+      Metadata:
+        title           : Intro
+    Chapter #0:3: start 207.624000, end 2388.680000
+      Metadata:
+        title           : Scene 2
+    Chapter #0:4: start 2388.680000, end 2444.736000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4146715
+        DURATION        : 00:40:44.734000000
+        NUMBER_OF_FRAMES: 58615
+        NUMBER_OF_BYTES : 1267202090
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        BPS             : 768000
+        DURATION        : 00:40:44.736000000
+        NUMBER_OF_FRAMES: 76398
+        NUMBER_OF_BYTES : 234694656
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(cze): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 46
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 458
+        NUMBER_OF_BYTES : 14293
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(dan): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 45
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 348
+        NUMBER_OF_BYTES : 13883
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(ger): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 50
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 477
+        NUMBER_OF_BYTES : 15486
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(gre): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 75
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 468
+        NUMBER_OF_BYTES : 23057
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : British (SDH)
+        BPS             : 62
+        DURATION        : 00:39:26.698000000
+        NUMBER_OF_FRAMES: 589
+        NUMBER_OF_BYTES : 18487
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Latin American
+        BPS             : 47
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 455
+        NUMBER_OF_BYTES : 14333
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 45
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 471
+        NUMBER_OF_BYTES : 13982
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(fin): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 44
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 450
+        NUMBER_OF_BYTES : 13476
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 46
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 476
+        NUMBER_OF_BYTES : 14252
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(hun): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 46
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 468
+        NUMBER_OF_BYTES : 14318
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(ita): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 46
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 479
+        NUMBER_OF_BYTES : 14084
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(dut): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 40
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 337
+        NUMBER_OF_BYTES : 12409
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(nor): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 44
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 414
+        NUMBER_OF_BYTES : 13678
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(pol): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 43
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 482
+        NUMBER_OF_BYTES : 13164
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Brazilian
+        BPS             : 44
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 489
+        NUMBER_OF_BYTES : 13416
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 48
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 487
+        NUMBER_OF_BYTES : 14768
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(rum): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 44
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 433
+        NUMBER_OF_BYTES : 13533
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(slo): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 45
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 484
+        NUMBER_OF_BYTES : 13926
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(swe): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 46
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 435
+        NUMBER_OF_BYTES : 14135
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(tur): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 49
+        DURATION        : 00:40:37.435000000
+        NUMBER_OF_FRAMES: 475
+        NUMBER_OF_BYTES : 15069
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Scene 2
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 768000
+        DURATION        : 00:40:44.736000000
+        NUMBER_OF_FRAMES: 76398
+        NUMBER_OF_BYTES : 234694656
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-12 02:27:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[out#0/null @ 0x70530b97f180] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=21.1x    

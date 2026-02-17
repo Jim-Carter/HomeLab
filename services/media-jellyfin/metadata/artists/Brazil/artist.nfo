@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Brazil</title>
+  <runtime>5</runtime>
+  <genre>Punk</genre>
+  <musicbrainzartistid>4187cc9e-339d-442a-8db1-f6cd481ace4d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Brazil/folder.jpg</poster>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Johnny Clarke</title>
+  <runtime>3</runtime>
+  <genre>Reggae</genre>
+  <musicbrainzartistid>3c79e3ff-f41b-45d8-af26-40151798056b</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Johnny Clarke/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Johnny Clarke/backdrop.jpg</fanart>
+  </art>
+</artist>

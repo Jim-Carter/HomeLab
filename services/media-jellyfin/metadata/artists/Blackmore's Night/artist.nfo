@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Blackmore's Night</title>
+  <runtime>5</runtime>
+  <genre>Celtic</genre>
+  <musicbrainzartistid>aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Blackmore's Night/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Blackmore's Night/backdrop.jpg</fanart>
+  </art>
+</artist>

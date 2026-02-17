@@ -1,0 +1,114 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Star Trek - Strange New Worlds/Season 3/Star Trek - Strange New Worlds - S03E01 - Hegemony (2) WEBDL-1080p Proper.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-17T07:46:43.000000Z
+  Duration: 00:49:03.04, start: 0.000000, bitrate: 6512 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6061701
+        DURATION        : 00:49:03.024000000
+        NUMBER_OF_FRAMES: 70562
+        NUMBER_OF_BYTES : 2229966566
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(fre): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (default)
+      Metadata:
+        title           : French (France)
+        BPS             : 224000
+        DURATION        : 00:49:03.040000000
+        NUMBER_OF_FRAMES: 91970
+        NUMBER_OF_BYTES : 82405120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (original)
+      Metadata:
+        title           : English
+        BPS             : 224000
+        DURATION        : 00:49:03.040000000
+        NUMBER_OF_FRAMES: 91970
+        NUMBER_OF_BYTES : 82405120
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(fre): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : French (France) Forced
+        BPS             : 0
+        DURATION        : 00:43:10.880000000
+        NUMBER_OF_FRAMES: 9
+        NUMBER_OF_BYTES : 275
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (France) Full
+        BPS             : 68
+        DURATION        : 00:46:31.498000000
+        NUMBER_OF_FRAMES: 649
+        NUMBER_OF_BYTES : 23944
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : English SDH
+        BPS             : 79
+        DURATION        : 00:46:32.310000000
+        NUMBER_OF_FRAMES: 823
+        NUMBER_OF_BYTES : 27791
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:0 pblack:96 pts:21 t:0.021000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 6061701
+        DURATION        : 00:49:03.024000000
+        NUMBER_OF_FRAMES: 70562
+        NUMBER_OF_BYTES : 2229966566
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:46:43
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:1 pblack:96 pts:63 t:0.063000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:2 pblack:96 pts:104 t:0.104000 type:B last_keyframe:0
+[null @ 0x781b5a6bfb80] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 2 >= 2
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:3 pblack:96 pts:146 t:0.146000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:4 pblack:96 pts:188 t:0.188000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:5 pblack:96 pts:229 t:0.229000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:6 pblack:96 pts:271 t:0.271000 type:B last_keyframe:0
+[null @ 0x781b5a6bfb80] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 5 >= 5
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:7 pblack:96 pts:313 t:0.313000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:8 pblack:96 pts:354 t:0.354000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:9 pblack:96 pts:396 t:0.396000 type:B last_keyframe:0
+[null @ 0x781b5a6bfb80] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 8 >= 8
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:10 pblack:96 pts:438 t:0.438000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:11 pblack:96 pts:480 t:0.480000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:12 pblack:96 pts:521 t:0.521000 type:P last_keyframe:0
+[null @ 0x781b5a6bfb80] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 12 >= 12
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:13 pblack:96 pts:563 t:0.563000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:14 pblack:96 pts:605 t:0.605000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:15 pblack:96 pts:646 t:0.646000 type:P last_keyframe:0
+[null @ 0x781b5a6bfb80] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 15 >= 15
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:16 pblack:96 pts:688 t:0.688000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:17 pblack:96 pts:730 t:0.730000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:18 pblack:96 pts:772 t:0.772000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:19 pblack:96 pts:813 t:0.813000 type:P last_keyframe:0
+[null @ 0x781b5a6bfb80] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 19 >= 19
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:20 pblack:96 pts:855 t:0.855000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:21 pblack:96 pts:897 t:0.897000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:22 pblack:97 pts:938 t:0.938000 type:B last_keyframe:0
+[null @ 0x781b5a6bfb80] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 22 >= 22
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:23 pblack:97 pts:980 t:0.980000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x781b5580c0c0] frame:24 pblack:97 pts:1022 t:1.022000 type:B last_keyframe:0
+[out#0/null @ 0x781b5a6808c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=5.35x    

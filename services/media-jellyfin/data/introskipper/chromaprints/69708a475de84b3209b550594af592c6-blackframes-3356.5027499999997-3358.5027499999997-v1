@@ -1,0 +1,79 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Spartacus - House of Ashur/Season 1/Spartacus - House of Ashur - S01E05 - Goddess of Death WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+  Duration: 00:56:32.74, start: 0.000000, bitrate: 10184 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9542221
+        DURATION        : 00:56:32.681000000
+        NUMBER_OF_FRAMES: 81343
+        NUMBER_OF_BYTES : 4046714151
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:56:32.736000000
+        NUMBER_OF_FRAMES: 106023
+        NUMBER_OF_BYTES : 271418880
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 68
+        DURATION        : 00:55:37.292000000
+        NUMBER_OF_FRAMES: 963
+        NUMBER_OF_BYTES : 28544
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Español (Latinoamérica) (SDH)
+        BPS             : 73
+        DURATION        : 00:55:36.541000000
+        NUMBER_OF_FRAMES: 1056
+        NUMBER_OF_BYTES : 30783
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9542221
+        DURATION        : 00:56:32.681000000
+        NUMBER_OF_FRAMES: 81343
+        NUMBER_OF_BYTES : 4046714151
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:3 pblack:50 pts:142 t:0.142000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:4 pblack:52 pts:184 t:0.184000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:5 pblack:53 pts:225 t:0.225000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:6 pblack:55 pts:267 t:0.267000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:7 pblack:57 pts:309 t:0.309000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:8 pblack:58 pts:350 t:0.350000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:9 pblack:60 pts:392 t:0.392000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:10 pblack:61 pts:434 t:0.434000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:11 pblack:63 pts:476 t:0.476000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:12 pblack:64 pts:517 t:0.517000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:13 pblack:66 pts:559 t:0.559000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:14 pblack:67 pts:601 t:0.601000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:15 pblack:68 pts:642 t:0.642000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:16 pblack:69 pts:684 t:0.684000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:17 pblack:70 pts:726 t:0.726000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:18 pblack:70 pts:768 t:0.768000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:19 pblack:71 pts:809 t:0.809000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:20 pblack:71 pts:851 t:0.851000 type:I last_keyframe:20
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:21 pblack:72 pts:893 t:0.893000 type:B last_keyframe:20
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:22 pblack:72 pts:934 t:0.934000 type:B last_keyframe:20
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:23 pblack:73 pts:976 t:0.976000 type:P last_keyframe:20
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:24 pblack:73 pts:1018 t:1.018000 type:B last_keyframe:20
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:25 pblack:73 pts:1060 t:1.060000 type:B last_keyframe:20
+[Parsed_blackframe_0 @ 0x75d3c2c0c0c0] frame:26 pblack:74 pts:1101 t:1.101000 type:P last_keyframe:20
+frame=   46 fps=0.0 q=-0.0 size=N/A time=00:00:01.91 bitrate=N/A speed=3.81x    [out#0/null @ 0x75d3c7c805c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.73x    

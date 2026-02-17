@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Jonathan Edwards              </title>
+  <runtime>2</runtime>
+  <musicbrainzartistid>83a81b17-e725-4e5d-a607-375d66306e09</musicbrainzartistid>
+  <art>
+    <fanart>/var/lib/jellyfin/metadata/artists/Jonathan Edwards/backdrop.jpg</fanart>
+  </art>
+</artist>

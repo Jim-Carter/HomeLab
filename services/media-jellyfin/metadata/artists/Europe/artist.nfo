@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Europe</title>
+  <runtime>5</runtime>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>ccfe7a3c-1a45-4984-a8d0-644549cefe61</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Europe/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Europe/backdrop.jpg</fanart>
+  </art>
+</artist>

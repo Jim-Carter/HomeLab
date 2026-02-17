@@ -1,0 +1,408 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Alien Earth/Alien.Earth.S01E04.Observation.1080p.DSNP.WEB-DL.DDP5.1.H.264-STC.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2025-08-27T00:19:37.000000Z
+  Duration: 00:58:54.91, start: 0.000000, bitrate: 5093 kb/s
+  Chapters:
+    Chapter #0:0: start 1.000000, end 55.667000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 55.667000, end 3355.958000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:2: start 3355.958000, end 3534.912000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4833092
+        DURATION        : 00:58:54.875000000
+        NUMBER_OF_FRAMES: 84837
+        NUMBER_OF_BYTES : 2135547310
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:58:54.912000000
+        NUMBER_OF_FRAMES: 110466
+        NUMBER_OF_BYTES : 113117184
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(cze): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+        BPS             : 0
+        DURATION        : 00:39:36.250000000
+        NUMBER_OF_FRAMES: 2
+        NUMBER_OF_BYTES : 43
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(spa): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Latin American (Forced)
+        BPS             : 48
+        DURATION        : 00:00:03.500000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 21
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(spa): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : European (Forced)
+        BPS             : 0
+        DURATION        : 00:39:36.250000000
+        NUMBER_OF_FRAMES: 2
+        NUMBER_OF_BYTES : 63
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(fre): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : European (Forced)
+        BPS             : 38
+        DURATION        : 00:00:03.500000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 17
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(hun): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+        BPS             : 0
+        DURATION        : 00:39:36.250000000
+        NUMBER_OF_FRAMES: 2
+        NUMBER_OF_BYTES : 56
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(ita): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+        BPS             : 31
+        DURATION        : 00:00:05.084000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 20
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(pol): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+        BPS             : 18
+        DURATION        : 00:00:05.084000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 12
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(por): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Brazilian (Forced)
+        BPS             : 45
+        DURATION        : 00:00:03.500000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 20
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(tur): Subtitle: subrip (srt) (forced)
+      Metadata:
+        title           : Forced
+        BPS             : 0
+        DURATION        : 00:26:25.166000000
+        NUMBER_OF_FRAMES: 3
+        NUMBER_OF_BYTES : 65
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(cze): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 43
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 598
+        NUMBER_OF_BYTES : 19005
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(dan): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 625
+        NUMBER_OF_BYTES : 20434
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(ger): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 52
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 636
+        NUMBER_OF_BYTES : 22684
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(gre): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 80
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 607
+        NUMBER_OF_BYTES : 34797
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 62
+        DURATION        : 00:54:33.792000000
+        NUMBER_OF_FRAMES: 724
+        NUMBER_OF_BYTES : 25511
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Latin American
+        BPS             : 46
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 622
+        NUMBER_OF_BYTES : 20179
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 46
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 629
+        NUMBER_OF_BYTES : 20347
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(fin): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 45
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 619
+        NUMBER_OF_BYTES : 19522
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 48
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 632
+        NUMBER_OF_BYTES : 21001
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(hun): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 48
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 589
+        NUMBER_OF_BYTES : 21008
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(ita): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 52
+        DURATION        : 00:50:49.209000000
+        NUMBER_OF_FRAMES: 632
+        NUMBER_OF_BYTES : 20069
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(jpn): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 41
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 662
+        NUMBER_OF_BYTES : 18176
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(kor): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 55
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 639
+        NUMBER_OF_BYTES : 24094
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(dut): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 42
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 451
+        NUMBER_OF_BYTES : 18495
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(nor): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 623
+        NUMBER_OF_BYTES : 20403
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:26(pol): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 46
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 630
+        NUMBER_OF_BYTES : 20109
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:27(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Brazilian
+        BPS             : 48
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 599
+        NUMBER_OF_BYTES : 20816
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:28(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : European
+        BPS             : 47
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 619
+        NUMBER_OF_BYTES : 20647
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:29(rum): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 551
+        NUMBER_OF_BYTES : 20611
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:30(slo): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 47
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 636
+        NUMBER_OF_BYTES : 20792
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:31(swe): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 48
+        DURATION        : 00:57:30.875000000
+        NUMBER_OF_FRAMES: 606
+        NUMBER_OF_BYTES : 20934
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:32(tur): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 50
+        DURATION        : 00:57:32.375000000
+        NUMBER_OF_FRAMES: 624
+        NUMBER_OF_BYTES : 21966
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:33(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional
+        BPS             : 44
+        DURATION        : 00:57:49.459000000
+        NUMBER_OF_FRAMES: 638
+        NUMBER_OF_BYTES : 19374
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:0 pblack:68 pts:15 t:0.015000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Scene 1
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 4833092
+        DURATION        : 00:58:54.875000000
+        NUMBER_OF_FRAMES: 84837
+        NUMBER_OF_BYTES : 2135547310
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-27 00:19:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:1 pblack:68 pts:56 t:0.056000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:2 pblack:69 pts:98 t:0.098000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:3 pblack:68 pts:140 t:0.140000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:4 pblack:68 pts:181 t:0.181000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:5 pblack:68 pts:223 t:0.223000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:6 pblack:68 pts:265 t:0.265000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:7 pblack:68 pts:306 t:0.306000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:8 pblack:68 pts:348 t:0.348000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:9 pblack:68 pts:390 t:0.390000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:10 pblack:68 pts:431 t:0.431000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:11 pblack:68 pts:473 t:0.473000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:12 pblack:68 pts:515 t:0.515000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:13 pblack:68 pts:556 t:0.556000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:14 pblack:69 pts:598 t:0.598000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:15 pblack:68 pts:640 t:0.640000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:16 pblack:69 pts:681 t:0.681000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:17 pblack:100 pts:723 t:0.723000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:18 pblack:100 pts:765 t:0.765000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:19 pblack:100 pts:806 t:0.806000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:20 pblack:100 pts:848 t:0.848000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:21 pblack:100 pts:890 t:0.890000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:22 pblack:100 pts:931 t:0.931000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:23 pblack:100 pts:973 t:0.973000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:24 pblack:100 pts:1015 t:1.015000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:25 pblack:100 pts:1056 t:1.056000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:26 pblack:100 pts:1098 t:1.098000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:27 pblack:100 pts:1140 t:1.140000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:28 pblack:100 pts:1181 t:1.181000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:29 pblack:100 pts:1223 t:1.223000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:30 pblack:100 pts:1265 t:1.265000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:31 pblack:100 pts:1306 t:1.306000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:32 pblack:100 pts:1348 t:1.348000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:33 pblack:100 pts:1390 t:1.390000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:34 pblack:100 pts:1431 t:1.431000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:35 pblack:100 pts:1473 t:1.473000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:36 pblack:100 pts:1515 t:1.515000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:37 pblack:100 pts:1556 t:1.556000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:38 pblack:100 pts:1598 t:1.598000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:39 pblack:100 pts:1640 t:1.640000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:40 pblack:100 pts:1681 t:1.681000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:41 pblack:100 pts:1723 t:1.723000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:42 pblack:100 pts:1765 t:1.765000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:43 pblack:100 pts:1806 t:1.806000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:44 pblack:100 pts:1848 t:1.848000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:45 pblack:100 pts:1890 t:1.890000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:46 pblack:100 pts:1931 t:1.931000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:47 pblack:100 pts:1973 t:1.973000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b9c5d80c0c0] frame:48 pblack:100 pts:2015 t:2.015000 type:B last_keyframe:0
+[out#0/null @ 0x7b9c62654380] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=6.59x    

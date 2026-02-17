@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Benny Goodman</title>
+  <runtime>77</runtime>
+  <genre>Big Band Swing</genre>
+  <musicbrainzartistid>b09ae88f-4156-4caa-b129-1cacb5e1632e</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Benny Goodman/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Benny Goodman/backdrop.jpg</fanart>
+  </art>
+</artist>

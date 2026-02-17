@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Smashing Pumpkins</title>
+  <runtime>7</runtime>
+  <genre>Other</genre>
+  <musicbrainzartistid>ba0d6274-db14-4ef5-b28d-657ebde1a396</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Smashing Pumpkins/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Smashing Pumpkins/backdrop.jpg</fanart>
+  </art>
+</artist>

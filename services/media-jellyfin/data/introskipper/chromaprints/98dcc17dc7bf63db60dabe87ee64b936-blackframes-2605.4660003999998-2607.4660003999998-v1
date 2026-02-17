@@ -1,0 +1,118 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 5/You - S05E09 - Trial of the Furies WEBRip-1080p.mkv':
+  Metadata:
+    encoder         : Lavf61.1.100
+    creation_time   : 2025-04-24T21:55:40.000000Z
+  Duration: 00:46:01.84, start: 0.000000, bitrate: 1445 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 4.505000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 4.505000, end 82.583000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 82.583000, end 2608.481000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 2608.481000, end 2761.759000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(ara): Subtitle: ass (ssa)
+  Stream #0:3(chi): Subtitle: ass (ssa)
+  Stream #0:4(chi): Subtitle: ass (ssa)
+  Stream #0:5(hrv): Subtitle: ass (ssa)
+  Stream #0:6(cze): Subtitle: ass (ssa)
+  Stream #0:7(dan): Subtitle: ass (ssa)
+  Stream #0:8(dut): Subtitle: ass (ssa)
+  Stream #0:9(eng): Subtitle: ass (ssa)
+  Stream #0:10(eng): Subtitle: ass (ssa)
+  Stream #0:11(fin): Subtitle: ass (ssa)
+  Stream #0:12(fre): Subtitle: ass (ssa)
+  Stream #0:13(fil): Subtitle: ass (ssa)
+  Stream #0:14(ger): Subtitle: ass (ssa)
+  Stream #0:15(gre): Subtitle: ass (ssa)
+  Stream #0:16(heb): Subtitle: ass (ssa)
+  Stream #0:17(hun): Subtitle: ass (ssa)
+  Stream #0:18(ind): Subtitle: ass (ssa)
+  Stream #0:19(ita): Subtitle: ass (ssa)
+  Stream #0:20(jpn): Subtitle: ass (ssa)
+  Stream #0:21(kor): Subtitle: ass (ssa)
+  Stream #0:22(may): Subtitle: ass (ssa)
+  Stream #0:23(nob): Subtitle: ass (ssa)
+  Stream #0:24(pol): Subtitle: ass (ssa)
+  Stream #0:25(por): Subtitle: ass (ssa)
+  Stream #0:26(por): Subtitle: ass (ssa)
+  Stream #0:27(rum): Subtitle: ass (ssa)
+  Stream #0:28(rus): Subtitle: ass (ssa)
+  Stream #0:29(spa): Subtitle: ass (ssa)
+  Stream #0:30(spa): Subtitle: ass (ssa)
+  Stream #0:31(swe): Subtitle: ass (ssa)
+  Stream #0:32(tha): Subtitle: ass (ssa)
+  Stream #0:33(tur): Subtitle: ass (ssa)
+  Stream #0:34(ukr): Subtitle: ass (ssa)
+  Stream #0:35(vie): Subtitle: ass (ssa)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:0 pblack:100 pts:12 t:0.012000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Part 02
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:1 pblack:100 pts:54 t:0.054000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:2 pblack:100 pts:95 t:0.095000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:3 pblack:100 pts:137 t:0.137000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:4 pblack:100 pts:179 t:0.179000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:5 pblack:100 pts:220 t:0.220000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:6 pblack:100 pts:262 t:0.262000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:7 pblack:100 pts:304 t:0.304000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:8 pblack:100 pts:346 t:0.346000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:9 pblack:100 pts:387 t:0.387000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:10 pblack:100 pts:429 t:0.429000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:11 pblack:100 pts:471 t:0.471000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:12 pblack:100 pts:512 t:0.512000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:13 pblack:100 pts:554 t:0.554000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:14 pblack:100 pts:596 t:0.596000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:15 pblack:100 pts:638 t:0.638000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:16 pblack:100 pts:679 t:0.679000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:17 pblack:100 pts:721 t:0.721000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:18 pblack:100 pts:763 t:0.763000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:19 pblack:100 pts:804 t:0.804000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:20 pblack:100 pts:846 t:0.846000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:21 pblack:100 pts:888 t:0.888000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:22 pblack:100 pts:929 t:0.929000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:23 pblack:100 pts:971 t:0.971000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:24 pblack:100 pts:1013 t:1.013000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:25 pblack:100 pts:1055 t:1.055000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:26 pblack:100 pts:1096 t:1.096000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:27 pblack:100 pts:1138 t:1.138000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:28 pblack:100 pts:1180 t:1.180000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:29 pblack:100 pts:1221 t:1.221000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:30 pblack:100 pts:1263 t:1.263000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:31 pblack:100 pts:1305 t:1.305000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:32 pblack:100 pts:1347 t:1.347000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:33 pblack:100 pts:1388 t:1.388000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:34 pblack:100 pts:1430 t:1.430000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:35 pblack:100 pts:1472 t:1.472000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:36 pblack:100 pts:1513 t:1.513000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:37 pblack:100 pts:1555 t:1.555000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:38 pblack:100 pts:1597 t:1.597000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:39 pblack:100 pts:1639 t:1.639000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:40 pblack:100 pts:1680 t:1.680000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:41 pblack:100 pts:1722 t:1.722000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:42 pblack:100 pts:1764 t:1.764000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:43 pblack:100 pts:1805 t:1.805000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:44 pblack:100 pts:1847 t:1.847000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:45 pblack:100 pts:1889 t:1.889000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:46 pblack:100 pts:1930 t:1.930000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:47 pblack:100 pts:1972 t:1.972000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7b2bb300c0c0] frame:48 pblack:100 pts:2014 t:2.014000 type:P last_keyframe:0
+[out#0/null @ 0x7b2bb82ec680] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=6.76x    

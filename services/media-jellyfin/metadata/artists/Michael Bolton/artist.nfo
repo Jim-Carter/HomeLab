@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Michael Bolton</title>
+  <runtime>7</runtime>
+  <musicbrainzartistid>e8bee5d1-a3a5-4c1a-ada4-f1ca22101e84</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Michael Bolton/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Michael Bolton/backdrop.jpg</fanart>
+  </art>
+</artist>

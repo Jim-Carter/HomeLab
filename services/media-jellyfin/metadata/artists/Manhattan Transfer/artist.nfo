@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Manhattan Transfer</title>
+  <runtime>72</runtime>
+  <genre>Chorus</genre>
+  <musicbrainzartistid>02390d49-c321-479b-b6f4-cd76f32fb887</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Manhattan Transfer/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Manhattan Transfer/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Tony Curtis</title>
+  <runtime>1</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>f69acecf-e531-4869-9a39-463e1373a9cc</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Tony Curtis/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Tony Curtis/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,168 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Wild Cards/Season 1/Wild Cards - S01E05 - The Accountant of Monte Cristo WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-07T03:10:20.000000Z
+  Duration: 00:42:17.02, start: 0.000000, bitrate: 7560 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 68.000000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:1: start 68.000000, end 413.000000
+      Metadata:
+        title           : Scene 2
+    Chapter #0:2: start 413.000000, end 447.000000
+      Metadata:
+        title           : Scene 3
+    Chapter #0:3: start 447.000000, end 497.000000
+      Metadata:
+        title           : Scene 4
+    Chapter #0:4: start 497.000000, end 553.000000
+      Metadata:
+        title           : Scene 5
+    Chapter #0:5: start 553.000000, end 615.000000
+      Metadata:
+        title           : Scene 6
+    Chapter #0:6: start 615.000000, end 705.000000
+      Metadata:
+        title           : Scene 7
+    Chapter #0:7: start 705.000000, end 842.000000
+      Metadata:
+        title           : Scene 8
+    Chapter #0:8: start 842.000000, end 962.000000
+      Metadata:
+        title           : Scene 9
+    Chapter #0:9: start 962.000000, end 1062.000000
+      Metadata:
+        title           : Scene 10
+    Chapter #0:10: start 1062.000000, end 1093.000000
+      Metadata:
+        title           : Scene 11
+    Chapter #0:11: start 1093.000000, end 1146.000000
+      Metadata:
+        title           : Scene 12
+    Chapter #0:12: start 1146.000000, end 1258.000000
+      Metadata:
+        title           : Scene 13
+    Chapter #0:13: start 1258.000000, end 1386.000000
+      Metadata:
+        title           : Scene 14
+    Chapter #0:14: start 1386.000000, end 1420.000000
+      Metadata:
+        title           : Scene 15
+    Chapter #0:15: start 1420.000000, end 1450.000000
+      Metadata:
+        title           : Scene 16
+    Chapter #0:16: start 1450.000000, end 1513.000000
+      Metadata:
+        title           : Scene 17
+    Chapter #0:17: start 1513.000000, end 1626.000000
+      Metadata:
+        title           : Scene 18
+    Chapter #0:18: start 1626.000000, end 1703.000000
+      Metadata:
+        title           : Scene 19
+    Chapter #0:19: start 1703.000000, end 1798.000000
+      Metadata:
+        title           : Scene 20
+    Chapter #0:20: start 1798.000000, end 1911.000000
+      Metadata:
+        title           : Scene 21
+    Chapter #0:21: start 1911.000000, end 2057.000000
+      Metadata:
+        title           : Scene 22
+    Chapter #0:22: start 2057.000000, end 2113.000000
+      Metadata:
+        title           : Scene 23
+    Chapter #0:23: start 2113.000000, end 2148.000000
+      Metadata:
+        title           : Scene 24
+    Chapter #0:24: start 2148.000000, end 2183.000000
+      Metadata:
+        title           : Scene 25
+    Chapter #0:25: start 2183.000000, end 2255.000000
+      Metadata:
+        title           : Scene 26
+    Chapter #0:26: start 2255.000000, end 2284.000000
+      Metadata:
+        title           : Scene 27
+    Chapter #0:27: start 2284.000000, end 2503.000000
+      Metadata:
+        title           : Scene 28
+    Chapter #0:28: start 2503.000000, end 2537.024000
+      Metadata:
+        title           : Scene 29
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6918149
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2193911949
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:10:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:42:17.024000000
+        NUMBER_OF_FRAMES: 79282
+        NUMBER_OF_BYTES : 202961920
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:10:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 90
+        DURATION        : 00:41:53.989000000
+        NUMBER_OF_FRAMES: 847
+        NUMBER_OF_BYTES : 28470
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:10:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:0 pblack:65 pts:37 t:0.037000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1.000000
+      Metadata:
+        title           : Scene 28
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 6918149
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2193911949
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:10:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:1 pblack:65 pts:79 t:0.079000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:2 pblack:64 pts:121 t:0.121000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:3 pblack:65 pts:162 t:0.162000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:4 pblack:65 pts:204 t:0.204000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:5 pblack:65 pts:246 t:0.246000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:6 pblack:66 pts:287 t:0.287000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:7 pblack:66 pts:329 t:0.329000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:8 pblack:66 pts:371 t:0.371000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:9 pblack:67 pts:413 t:0.413000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:10 pblack:67 pts:454 t:0.454000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:11 pblack:67 pts:496 t:0.496000 type:I last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:12 pblack:67 pts:538 t:0.538000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:13 pblack:67 pts:579 t:0.579000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:14 pblack:67 pts:621 t:0.621000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:15 pblack:67 pts:663 t:0.663000 type:P last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:16 pblack:67 pts:705 t:0.705000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:17 pblack:67 pts:746 t:0.746000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:18 pblack:67 pts:788 t:0.788000 type:P last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:19 pblack:67 pts:830 t:0.830000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:20 pblack:67 pts:871 t:0.871000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:21 pblack:66 pts:913 t:0.913000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:22 pblack:66 pts:955 t:0.955000 type:P last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:23 pblack:66 pts:996 t:0.996000 type:B last_keyframe:11
+[Parsed_blackframe_0 @ 0x720a6f80c0c0] frame:24 pblack:66 pts:1038 t:1.038000 type:B last_keyframe:11
+[out#0/null @ 0x720a73280440] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=2.44x    

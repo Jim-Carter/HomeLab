@@ -1,0 +1,102 @@
+[matroska,webm @ 0x7011ac6be000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x7011ac6be000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/mnt/nas/TV/You/Season 3/You - S03E04 - Hands Across Madre Linda WEBRip-1080p.mkv':
+  Metadata:
+    title           : You.S03E04.Hands.Across.Madre.Linda.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : libebml v1.3.4 + libmatroska v1.4.5
+    creation_time   : 2025-11-24T08:51:56.000000Z
+  Duration: 00:47:03.58, start: 0.000000, bitrate: 2857 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2531820
+        BPS-eng         : 2531820
+        DURATION        : 00:47:01.819000000
+        DURATION-eng    : 00:47:01.819000000
+        NUMBER_OF_FRAMES: 67656
+        NUMBER_OF_FRAMES-eng: 67656
+        NUMBER_OF_BYTES : 893042242
+        NUMBER_OF_BYTES-eng: 893042242
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:51:56
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:51:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:47:03.584000000
+        DURATION-eng    : 00:47:03.584000000
+        NUMBER_OF_FRAMES: 88237
+        NUMBER_OF_FRAMES-eng: 88237
+        NUMBER_OF_BYTES : 90354688
+        NUMBER_OF_BYTES-eng: 90354688
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:51:56
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:51:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 35832
+        BPS-eng         : 35832
+        DURATION        : 00:43:59.093000000
+        DURATION-eng    : 00:43:59.093000000
+        NUMBER_OF_FRAMES: 1378
+        NUMBER_OF_FRAMES-eng: 1378
+        NUMBER_OF_BYTES : 11820757
+        NUMBER_OF_BYTES-eng: 11820757
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:51:56
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:51:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 37373
+        BPS-eng         : 37373
+        DURATION        : 00:44:05.475000000
+        DURATION-eng    : 00:44:05.475000000
+        NUMBER_OF_FRAMES: 1434
+        NUMBER_OF_FRAMES-eng: 1434
+        NUMBER_OF_BYTES : 12358863
+        NUMBER_OF_BYTES-eng: 12358863
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:51:56
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:51:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : You.S03E04.Hands.Across.Madre.Linda.1080p.WEBRip.10Bit.DDP5.1.HEVC-d3g
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        BPS-eng         : 256000
+        DURATION        : 00:47:03.584000000
+        DURATION-eng    : 00:47:03.584000000
+        NUMBER_OF_FRAMES: 88237
+        NUMBER_OF_FRAMES-eng: 88237
+        NUMBER_OF_BYTES : 90354688
+        NUMBER_OF_BYTES-eng: 90354688
+        _STATISTICS_WRITING_APP: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_APP-eng: DVDFab 12.0.3.4
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 08:51:56
+        _STATISTICS_WRITING_DATE_UTC-eng: 2025-11-24 08:51:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x7011a9809080] silence_start: 0
+[silencedetect @ 0x7011a9809080] silence_end: 5.322938 | silence_duration: 5.322938
+[out#0/null @ 0x7011ac680800] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 176x    

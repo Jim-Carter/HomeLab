@@ -1,0 +1,65 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/The Last Anniversary/Season 1/The Last Anniversary - S01E04 - Episode 4 WEBRip-1080p.mkv':
+  Metadata:
+    title           : KONTRAST.top | The.Last.Anniversary.S01E04.1080p.WEBRip.x265-KONTRAST
+    creation_time   : 2025-05-11T20:20:01.000000Z
+    ENCODER         : Lavf58.76.100
+    MOVIE/ENCODER   : Lavf58.76.100
+  Duration: 00:47:52.28, start: 0.000000, bitrate: 2964 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x872 [SAR 872:873 DAR 640:291], SAR 959:960 DAR 959:436, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        title           : KONTRAST
+        BPS             : 2739106
+        DURATION        : 00:47:52.245000000
+        NUMBER_OF_FRAMES: 68865
+        NUMBER_OF_BYTES : 983422983
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:20:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 223536
+        DURATION        : 00:47:52.277000000
+        NUMBER_OF_FRAMES: 134638
+        NUMBER_OF_BYTES : 80257483
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:20:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : English [SDH]
+        BPS             : 68
+        DURATION        : 00:46:22.476000000
+        NUMBER_OF_FRAMES: 711
+        NUMBER_OF_BYTES : 23669
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:20:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x77423e80a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x77423e80a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x77423e80a0c0] n:   0 pts:    588 pts_time:0.588   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:959/960 s:1920x872 i:P iskey:1 type:I checksum:8810FE5F plane_checksum:[584F7DD9 769BE3F3 09739C84] mean:[262 505 509] stdev:[104.0 26.7 33.0]
+[Parsed_showinfo_0 @ 0x77423e80a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : KONTRAST.top | The.Last.Anniversary.S01E04.1080p.WEBRip.x265-KONTRAST
+    MOVIE/ENCODER   : Lavf58.76.100
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x872 [SAR 959:960 DAR 959:436], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        title           : KONTRAST
+        BPS             : 2739106
+        DURATION        : 00:47:52.245000000
+        NUMBER_OF_FRAMES: 68865
+        NUMBER_OF_BYTES : 983422983
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-11 20:20:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x77423e80a0c0] n:   1 pts:   3591 pts_time:3.591   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:959/960 s:1920x872 i:P iskey:1 type:I checksum:87C5DB1B plane_checksum:[42C67607 F35BE613 D8147EF2] mean:[463 472 549] stdev:[73.9 21.0 20.4]
+[Parsed_showinfo_0 @ 0x77423e80a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x77423e80a0c0] n:   2 pts:  13768 pts_time:13.768  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:959/960 s:1920x872 i:P iskey:1 type:I checksum:132A3CA1 plane_checksum:[86FCCB56 8B37B6F0 F4E9BA3D] mean:[252 474 545] stdev:[164.8 34.0 25.8]
+[Parsed_showinfo_0 @ 0x77423e80a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7742438805c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.62 bitrate=N/A speed=11.1x    

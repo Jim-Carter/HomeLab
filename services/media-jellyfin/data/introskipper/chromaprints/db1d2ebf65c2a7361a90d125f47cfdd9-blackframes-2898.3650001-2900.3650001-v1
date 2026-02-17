@@ -1,0 +1,82 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Star Trek - Strange New Worlds/Season 3/Star Trek - Strange New Worlds - S03E02 - Wedding Bell Blues WEBDL-1080p Proper.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-17T07:39:12.000000Z
+  Duration: 00:50:47.07, start: 0.000000, bitrate: 5925 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4643490
+        DURATION        : 00:50:47.044000000
+        NUMBER_OF_FRAMES: 73056
+        NUMBER_OF_BYTES : 1768614857
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:39:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(fre): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : French (France)
+        BPS             : 640000
+        DURATION        : 00:50:47.072000000
+        NUMBER_OF_FRAMES: 95221
+        NUMBER_OF_BYTES : 243765760
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:39:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (original)
+      Metadata:
+        title           : English
+        BPS             : 640000
+        DURATION        : 00:50:47.072000000
+        NUMBER_OF_FRAMES: 95221
+        NUMBER_OF_BYTES : 243765760
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:39:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(fre): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : French (France) Forced
+        BPS             : 1
+        DURATION        : 00:40:56.371000000
+        NUMBER_OF_FRAMES: 11
+        NUMBER_OF_BYTES : 347
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:39:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (France) Full
+        BPS             : 74
+        DURATION        : 00:48:58.728000000
+        NUMBER_OF_FRAMES: 737
+        NUMBER_OF_BYTES : 27280
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:39:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : English SDH
+        BPS             : 83
+        DURATION        : 00:48:29.724000000
+        NUMBER_OF_FRAMES: 974
+        NUMBER_OF_BYTES : 30493
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:39:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 4643490
+        DURATION        : 00:50:47.044000000
+        NUMBER_OF_FRAMES: 73056
+        NUMBER_OF_BYTES : 1768614857
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 07:39:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   38 fps=0.0 q=-0.0 size=N/A time=00:00:01.62 bitrate=N/A speed=3.25x    [out#0/null @ 0x779f2e8808c0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed= 3.5x    

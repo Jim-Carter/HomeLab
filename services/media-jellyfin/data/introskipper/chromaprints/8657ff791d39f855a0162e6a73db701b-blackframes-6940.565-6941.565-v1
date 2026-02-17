@@ -1,0 +1,197 @@
+Input #0, matroska,webm, from '/mnt/nas/Movies/Ballerina 2025 NORDiC REPACK 2160p SDR WEB-DL DTS-HD MA TrueHD 7 1 Atmos x265-NorTekst/Ballerina 2025 NORDiC REPACK 2160p SDR WEB-DL DTS-HD MA TrueHD 7 1 Atmos x265-NorTekst.mkv':
+  Metadata:
+    title           : Ballerina.2025.NORDiC.2160p.SDR.WEB-DL.DTS-HD.MA.TrueHD.7.1.Atmos.x265-NorTekst
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-09-08T07:52:15.000000Z
+  Duration: 02:04:47.36, start: 0.000000, bitrate: 34650 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 701.117000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 701.117000, end 1465.215000
+      Metadata:
+        title           : Chapter 02
+    Chapter #0:2: start 1465.215000, end 2212.170000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 2212.170000, end 2895.145000
+      Metadata:
+        title           : Chapter 04
+    Chapter #0:4: start 2895.145000, end 3518.226000
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 3518.226000, end 4075.492000
+      Metadata:
+        title           : Chapter 06
+    Chapter #0:6: start 4075.492000, end 4710.835000
+      Metadata:
+        title           : Chapter 07
+    Chapter #0:7: start 4710.835000, end 5368.159000
+      Metadata:
+        title           : Chapter 08
+    Chapter #0:8: start 5368.159000, end 6006.006000
+      Metadata:
+        title           : Chapter 09
+    Chapter #0:9: start 6006.006000, end 6568.735000
+      Metadata:
+        title           : Chapter 10
+    Chapter #0:10: start 6568.735000, end 6940.565000
+      Metadata:
+        title           : Chapter 11
+    Chapter #0:11: start 6940.565000, end 7487.360000
+      Metadata:
+        title           : Chapter 12
+  Stream #0:0(zxx): Video: hevc (Main), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 24768075
+        DURATION        : 02:04:37.929000000
+        NUMBER_OF_FRAMES: 179291
+        NUMBER_OF_BYTES : 23151739129
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: truehd (Dolby TrueHD + Dolby Atmos), 48000 Hz, 7.1, s32 (24 bit) (default)
+      Metadata:
+        title           : Engelsk TrueHD 7.1 med Atmos
+        BPS             : 4197627
+        DURATION        : 02:04:38.515000000
+        NUMBER_OF_FRAMES: 8974218
+        NUMBER_OF_BYTES : 3924002306
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit)
+      Metadata:
+        title           : Engelsk DTS-HD MA 7.1
+        BPS             : 4247129
+        DURATION        : 02:04:38.539000000
+        NUMBER_OF_FRAMES: 701113
+        NUMBER_OF_BYTES : 3970290180
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (original)
+      Metadata:
+        title           : Engelsk DDP 5.1 med Atmos
+        BPS             : 768000
+        DURATION        : 02:04:47.360000000
+        NUMBER_OF_FRAMES: 233980
+        NUMBER_OF_BYTES : 718786560
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+      Metadata:
+        title           : Engelsk DD 5.1
+        BPS             : 640000
+        DURATION        : 02:04:38.496000000
+        NUMBER_OF_FRAMES: 233703
+        NUMBER_OF_BYTES : 598279680
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : Engelsk
+        BPS             : 22
+        DURATION        : 01:53:52.242000000
+        NUMBER_OF_FRAMES: 773
+        NUMBER_OF_BYTES : 19569
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(dan): Subtitle: subrip (srt)
+      Metadata:
+        title           : Dansk
+        BPS             : 20
+        DURATION        : 02:03:09.090000000
+        NUMBER_OF_FRAMES: 610
+        NUMBER_OF_BYTES : 19218
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(fin): Subtitle: subrip (srt)
+      Metadata:
+        title           : Finsk
+        BPS             : 18
+        DURATION        : 02:03:09.090000000
+        NUMBER_OF_FRAMES: 610
+        NUMBER_OF_BYTES : 17395
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(nor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Norsk
+        BPS             : 19
+        DURATION        : 02:03:09.090000000
+        NUMBER_OF_FRAMES: 609
+        NUMBER_OF_BYTES : 17996
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(swe): Subtitle: subrip (srt)
+      Metadata:
+        title           : Svensk
+        BPS             : 21
+        DURATION        : 02:03:09.090000000
+        NUMBER_OF_FRAMES: 610
+        NUMBER_OF_BYTES : 19644
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 640x360 [SAR 96:96 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.jpg
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:0 pblack:100 pts:35 t:0.035000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Ballerina.2025.NORDiC.2160p.SDR.WEB-DL.DTS-HD.MA.TrueHD.7.1.Atmos.x265-NorTekst
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 0.000000
+      Metadata:
+        title           : Chapter 11
+    Chapter #0:1: start 0.000000, end 1.000000
+      Metadata:
+        title           : Chapter 12
+  Stream #0:0(zxx): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 24768075
+        DURATION        : 02:04:37.929000000
+        NUMBER_OF_FRAMES: 179291
+        NUMBER_OF_BYTES : 23151739129
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-08 07:52:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:1 pblack:100 pts:77 t:0.077000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:2 pblack:100 pts:119 t:0.119000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:3 pblack:100 pts:160 t:0.160000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:4 pblack:100 pts:202 t:0.202000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:5 pblack:100 pts:244 t:0.244000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:6 pblack:100 pts:286 t:0.286000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:7 pblack:100 pts:327 t:0.327000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:8 pblack:100 pts:369 t:0.369000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:9 pblack:100 pts:411 t:0.411000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:10 pblack:100 pts:452 t:0.452000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:11 pblack:100 pts:494 t:0.494000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:12 pblack:100 pts:536 t:0.536000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:13 pblack:100 pts:578 t:0.578000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:14 pblack:100 pts:619 t:0.619000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:15 pblack:100 pts:661 t:0.661000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:16 pblack:100 pts:703 t:0.703000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:17 pblack:100 pts:744 t:0.744000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:18 pblack:100 pts:786 t:0.786000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:19 pblack:100 pts:828 t:0.828000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:20 pblack:100 pts:870 t:0.870000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:21 pblack:100 pts:911 t:0.911000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:22 pblack:100 pts:953 t:0.953000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:23 pblack:100 pts:995 t:0.995000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x77d425c0c0c0] frame:24 pblack:100 pts:1036 t:1.036000 type:P last_keyframe:0
+[out#0/null @ 0x77d42aa80a40] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=5.2 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.226x    

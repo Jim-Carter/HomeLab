@@ -1,0 +1,96 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E09 - I Choose You WEBDL-1080p.mkv':
+  Metadata:
+    title           : Robin Hood S01E09 I Choose You
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:55:44.10, start: 0.000000, bitrate: 9642 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 18.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 18.000000, end 73.000000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 73.000000, end 77.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 77.000000, end 129.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:4: start 129.000000, end 3283.000000
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 3283.000000, end 3344.096000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 9000350
+        DURATION        : 00:55:44.091000000
+        NUMBER_OF_FRAMES: 80178
+        NUMBER_OF_BYTES : 3762248876
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:55:44.096000000
+        NUMBER_OF_FRAMES: 104503
+        NUMBER_OF_BYTES : 267527680
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 53
+        DURATION        : 00:54:03.323000000
+        NUMBER_OF_FRAMES: 767
+        NUMBER_OF_BYTES : 21700
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 57
+        DURATION        : 00:54:26.596000000
+        NUMBER_OF_FRAMES: 854
+        NUMBER_OF_BYTES : 23397
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] n:   0 pts:     68 pts_time:0.068   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EC91DF32 plane_checksum:[3C9A5DFF BF6FF364 C22F8DC0] mean:[41 122 134] stdev:[25.7 7.1 7.0]
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Robin Hood S01E09 I Choose You
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Recap
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 03
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        BPS             : 9000350
+        DURATION        : 00:55:44.091000000
+        NUMBER_OF_FRAMES: 80178
+        NUMBER_OF_BYTES : 3762248876
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] n:   1 pts:   2070 pts_time:2.07    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:1D5680B5 plane_checksum:[186014C8 6566E00A 540F8BD4] mean:[29 126 130] stdev:[26.8 7.0 5.7]
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] n:   2 pts:   4072 pts_time:4.072   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:0DD8516E plane_checksum:[73592847 BA86C440 0EDC64D8] mean:[24 128 129] stdev:[7.8 2.7 4.2]
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] n:   3 pts:   6074 pts_time:6.074   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EB53D44D plane_checksum:[2F205DA6 DDC5BB4C DDC5BB4C] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] n:   4 pts:   8076 pts_time:8.076   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:5809AAD3 plane_checksum:[6F96B1CA BE408FC8 EE5F6932] mean:[80 123 130] stdev:[50.9 2.9 3.3]
+[Parsed_showinfo_0 @ 0x7a7a25e0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7a7a2ac805c0] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.13 bitrate=N/A speed=38.6x    

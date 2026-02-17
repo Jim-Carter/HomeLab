@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Dj Sammy</title>
+  <runtime>4</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>c43e35b8-8234-408b-9a25-07f2fcbeb317</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Dj Sammy/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Dj Sammy/backdrop.jpg</fanart>
+  </art>
+</artist>

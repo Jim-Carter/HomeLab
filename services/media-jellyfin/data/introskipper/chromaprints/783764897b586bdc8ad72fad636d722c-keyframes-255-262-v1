@@ -1,0 +1,96 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E07 - Thieves with Purpose WEBDL-1080p.mkv':
+  Metadata:
+    title           : Robin Hood S01E07 Thieves with a Purpose
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:59:51.62, start: 0.000000, bitrate: 9509 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 19.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 19.000000, end 71.000000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 71.000000, end 203.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 203.000000, end 260.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:4: start 260.000000, end 3531.000000
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 3531.000000, end 3591.616000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 8866798
+        DURATION        : 00:59:51.588000000
+        NUMBER_OF_FRAMES: 86112
+        NUMBER_OF_BYTES : 3980735944
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 00:59:51.616000000
+        NUMBER_OF_FRAMES: 112238
+        NUMBER_OF_BYTES : 287329280
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 51
+        DURATION        : 00:58:20.163000000
+        NUMBER_OF_FRAMES: 809
+        NUMBER_OF_BYTES : 22735
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 55
+        DURATION        : 00:58:25.669000000
+        NUMBER_OF_FRAMES: 899
+        NUMBER_OF_BYTES : 24340
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] n:   0 pts:   1256 pts_time:1.256   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F3DBE3D5 plane_checksum:[A5A54321 03558306 C7671DAE] mean:[120 120 124] stdev:[54.9 4.2 6.0]
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Robin Hood S01E07 Thieves with a Purpose
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 05
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        BPS             : 8866798
+        DURATION        : 00:59:51.588000000
+        NUMBER_OF_FRAMES: 86112
+        NUMBER_OF_BYTES : 3980735944
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] n:   1 pts:   3258 pts_time:3.258   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:21357855 plane_checksum:[946D81DA 28CE6198 941794D4] mean:[124 119 126] stdev:[55.7 5.1 6.4]
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] n:   2 pts:   5260 pts_time:5.26    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:53B4FDAE plane_checksum:[97E2527F 33D93881 41E272AE] mean:[52 125 129] stdev:[29.3 2.9 2.9]
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] n:   3 pts:   7262 pts_time:7.262   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:C942F719 plane_checksum:[D075A016 2914940C C7B2C2E8] mean:[47 125 129] stdev:[25.0 2.7 2.8]
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] n:   4 pts:   9264 pts_time:9.264   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EC0D002C plane_checksum:[AB30CBA7 23D929CE 6CEB0AA8] mean:[55 125 130] stdev:[28.0 2.9 2.7]
+[Parsed_showinfo_0 @ 0x702c3ea0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x702c440805c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.29 bitrate=N/A speed=25.8x    

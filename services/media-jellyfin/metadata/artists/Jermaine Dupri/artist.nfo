@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Jermaine Dupri</title>
+  <runtime>2</runtime>
+  <genre>Hip Hop</genre>
+  <musicbrainzartistid>fb75bc76-a50b-4d3a-b060-63092a4c6bbf</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Jermaine Dupri/folder.jpg</poster>
+  </art>
+</artist>

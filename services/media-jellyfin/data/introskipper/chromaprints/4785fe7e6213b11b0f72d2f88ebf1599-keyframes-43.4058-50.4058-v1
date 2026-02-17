@@ -1,0 +1,62 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7b277cabe000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/TV/Mr.Inbetween.2018.S01.03.1080p.WebRip.X264.Will1869/S01/Mr Inbetween - S01E01 - The Pee Pee Guy.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S01E01 - The Pee Pee Guy
+    date            : 2023
+    encoder         : DVDFab
+  Duration: 00:28:41.79, start: 0.000000, bitrate: 3384 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 3114 kb/s, 23.81 fps, 23.81 tbr, 23809 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x0]: Video: bmp, bgra, 640x360, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7b277700a0c0] config in time_base: 1/23809, frame_rate: 23809/1000
+[Parsed_showinfo_0 @ 0x7b277700a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   0 pts:  13551 pts_time:0.569155 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:68A5DF17 plane_checksum:[30D89F95 5D24F2F6 21ED4C7D] mean:[36 131 141] stdev:[30.7 8.2 20.5]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S01E01 - The Pee Pee Guy
+    date            : 2023
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.81 fps, 23.81 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   1 pts:  35551 pts_time:1.493175 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FCA6537C plane_checksum:[845D2D2F 59E06E49 1A17B7F5] mean:[36 131 140] stdev:[31.6 8.0 19.7]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   2 pts:  59551 pts_time:2.501197 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:3B74F013 plane_checksum:[CE1A3173 8DDA67D0 3FC956D0] mean:[27 130 135] stdev:[21.0 5.7 14.1]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   3 pts:  83551 pts_time:3.509219 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:B50937EF plane_checksum:[8FE595E0 C5826BBA 6E743646] mean:[38 131 142] stdev:[34.1 8.5 21.7]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   4 pts: 106551 pts_time:4.47524 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2A6AEE57 plane_checksum:[CBBF45D4 E4B0AF7D B3A7F8F7] mean:[37 131 141] stdev:[33.3 8.4 21.1]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   5 pts: 120551 pts_time:5.063253 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:EB24F35A plane_checksum:[42FC3651 1C537291 A7A74A78] mean:[25 129 130] stdev:[18.2 2.5 4.2]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   6 pts: 144551 pts_time:6.071276 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:D935D5B8 plane_checksum:[77A19BF3 D6338DA8 09B4AC0E] mean:[50 120 130] stdev:[30.0 7.3 3.9]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   7 pts: 168551 pts_time:7.079298 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:31833D11 plane_checksum:[A6C5D301 8CB98004 8B6BE9EE] mean:[51 120 130] stdev:[30.6 7.4 3.9]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7b277700a0c0] n:   8 pts: 192551 pts_time:8.08732 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:AF67514C plane_checksum:[6E596179 6CC87D07 DD0472BD] mean:[50 120 130] stdev:[30.2 7.3 3.9]
+[Parsed_showinfo_0 @ 0x7b277700a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x7b277ca80680] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    7 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.13 bitrate=N/A speed=19.6x    

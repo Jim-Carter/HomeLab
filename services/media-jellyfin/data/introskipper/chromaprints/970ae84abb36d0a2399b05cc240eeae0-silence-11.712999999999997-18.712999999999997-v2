@@ -1,0 +1,71 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/You/Season 5/You - S05E10 - Finale WEBRip-1080p.mkv':
+  Metadata:
+    encoder         : Lavf61.1.100
+    creation_time   : 2025-04-24T22:10:22.000000Z
+  Duration: 00:54:54.33, start: 0.000000, bitrate: 1677 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 4.505000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 4.505000, end 134.593000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 134.593000, end 3141.513000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 3141.513000, end 3294.250000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(ara): Subtitle: ass (ssa)
+  Stream #0:3(chi): Subtitle: ass (ssa)
+  Stream #0:4(chi): Subtitle: ass (ssa)
+  Stream #0:5(hrv): Subtitle: ass (ssa)
+  Stream #0:6(cze): Subtitle: ass (ssa)
+  Stream #0:7(dan): Subtitle: ass (ssa)
+  Stream #0:8(dut): Subtitle: ass (ssa)
+  Stream #0:9(eng): Subtitle: ass (ssa)
+  Stream #0:10(eng): Subtitle: ass (ssa)
+  Stream #0:11(fin): Subtitle: ass (ssa)
+  Stream #0:12(fre): Subtitle: ass (ssa)
+  Stream #0:13(fil): Subtitle: ass (ssa)
+  Stream #0:14(ger): Subtitle: ass (ssa)
+  Stream #0:15(gre): Subtitle: ass (ssa)
+  Stream #0:16(heb): Subtitle: ass (ssa)
+  Stream #0:17(hun): Subtitle: ass (ssa)
+  Stream #0:18(ind): Subtitle: ass (ssa)
+  Stream #0:19(ita): Subtitle: ass (ssa)
+  Stream #0:20(jpn): Subtitle: ass (ssa)
+  Stream #0:21(kor): Subtitle: ass (ssa)
+  Stream #0:22(may): Subtitle: ass (ssa)
+  Stream #0:23(nob): Subtitle: ass (ssa)
+  Stream #0:24(pol): Subtitle: ass (ssa)
+  Stream #0:25(por): Subtitle: ass (ssa)
+  Stream #0:26(por): Subtitle: ass (ssa)
+  Stream #0:27(rum): Subtitle: ass (ssa)
+  Stream #0:28(rus): Subtitle: ass (ssa)
+  Stream #0:29(spa): Subtitle: ass (ssa)
+  Stream #0:30(spa): Subtitle: ass (ssa)
+  Stream #0:31(swe): Subtitle: ass (ssa)
+  Stream #0:32(tha): Subtitle: ass (ssa)
+  Stream #0:33(tur): Subtitle: ass (ssa)
+  Stream #0:34(ukr): Subtitle: ass (ssa)
+  Stream #0:35(vie): Subtitle: ass (ssa)
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : Recap
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x75ab22e09080] silence_start: 0
+[silencedetect @ 0x75ab22e09080] silence_end: 6.305417 | silence_duration: 6.305417
+[out#0/null @ 0x75ab26042680] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=  60x    

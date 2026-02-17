@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Starsplash</title>
+  <runtime>4</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>b3f986c2-5439-4a99-8f4f-1f39797c6d5c</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Starsplash/folder.jpg</poster>
+  </art>
+</artist>

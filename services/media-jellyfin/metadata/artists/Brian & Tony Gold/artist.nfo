@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Brian &amp; Tony Gold</title>
+  <runtime>1</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>92f3b3d1-978e-46ce-b142-d99717a2be02</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Brian &amp; Tony Gold/folder.jpg</poster>
+  </art>
+</artist>

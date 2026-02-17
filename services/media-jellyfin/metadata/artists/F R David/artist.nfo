@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>F R David</title>
+  <runtime>3</runtime>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>2f9a4b9e-e36d-42a5-be45-0ba00a2c2409</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/F R David/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/F R David/backdrop.jpg</fanart>
+  </art>
+</artist>

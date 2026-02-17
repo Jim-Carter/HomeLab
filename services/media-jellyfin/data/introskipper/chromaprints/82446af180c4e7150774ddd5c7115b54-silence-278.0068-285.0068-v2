@@ -1,0 +1,52 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Mayor of Kingstown/Season 4/Mayor of Kingstown - S04E03 - People Who Died WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+  Duration: 00:52:43.23, start: 0.000000, bitrate: 10000 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9358639
+        DURATION        : 00:52:43.202000000
+        NUMBER_OF_FRAMES: 75841
+        NUMBER_OF_BYTES : 3700408454
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:52:43.232000000
+        NUMBER_OF_FRAMES: 98851
+        NUMBER_OF_BYTES : 253058560
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 72
+        DURATION        : 00:51:38.028000000
+        NUMBER_OF_FRAMES: 960
+        NUMBER_OF_BYTES : 27918
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:52:43.232000000
+        NUMBER_OF_FRAMES: 98851
+        NUMBER_OF_BYTES : 253058560
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x76e231209080] silence_start: 4.590438
+[silencedetect @ 0x76e231209080] silence_end: 4.890604 | silence_duration: 0.300167
+[silencedetect @ 0x76e231209080] silence_start: 4.914958
+[silencedetect @ 0x76e231209080] silence_end: 5.097625 | silence_duration: 0.182667
+[silencedetect @ 0x76e231209080] silence_start: 5.1195
+[silencedetect @ 0x76e231209080] silence_end: 6.015042 | silence_duration: 0.895542
+[out#0/null @ 0x76e234880440] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=35.8x    

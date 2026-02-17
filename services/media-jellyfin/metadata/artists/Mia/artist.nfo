@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Mia</title>
+  <runtime>4</runtime>
+  <genre>Booty Bass</genre>
+  <musicbrainzartistid>7cf0ea9d-86b9-4dad-ba9e-2355a64899ea</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Mia/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Mia/backdrop.jpg</fanart>
+  </art>
+</artist>

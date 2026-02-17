@@ -1,0 +1,226 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Will Trent/Season 4/Will Trent - S04E02 - Love Takes Time WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+  Duration: 00:43:03.68, start: 0.000000, bitrate: 4271 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4010562
+        DURATION        : 00:43:03.623000000
+        NUMBER_OF_FRAMES: 61945
+        NUMBER_OF_BYTES : 1295222682
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:43:03.680000000
+        NUMBER_OF_FRAMES: 80740
+        NUMBER_OF_BYTES : 82677760
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 73
+        DURATION        : 00:42:22.999000000
+        NUMBER_OF_FRAMES: 713
+        NUMBER_OF_BYTES : 23364
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(cze): Subtitle: subrip (srt)
+      Metadata:
+        title           : Čeština
+        BPS             : 55
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 592
+        NUMBER_OF_BYTES : 17789
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(dan): Subtitle: subrip (srt)
+      Metadata:
+        title           : Dansk
+        BPS             : 59
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 451
+        NUMBER_OF_BYTES : 19080
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : Deutsch
+        BPS             : 65
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 619
+        NUMBER_OF_BYTES : 20953
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Español (Latinoamericano)
+        BPS             : 57
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 584
+        NUMBER_OF_BYTES : 18472
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(fin): Subtitle: subrip (srt)
+      Metadata:
+        title           : Suomi
+        BPS             : 58
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 549
+        NUMBER_OF_BYTES : 18863
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Français
+        BPS             : 59
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 616
+        NUMBER_OF_BYTES : 19219
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(hun): Subtitle: subrip (srt)
+      Metadata:
+        title           : Magyar
+        BPS             : 61
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 589
+        NUMBER_OF_BYTES : 19660
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italiano
+        BPS             : 58
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 600
+        NUMBER_OF_BYTES : 18759
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(jpn): Subtitle: subrip (srt)
+      Metadata:
+        title           : Japanese
+        BPS             : 50
+        DURATION        : 00:42:50.985000000
+        NUMBER_OF_FRAMES: 609
+        NUMBER_OF_BYTES : 16247
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(kor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Korean
+        BPS             : 70
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 634
+        NUMBER_OF_BYTES : 22725
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(dut): Subtitle: subrip (srt)
+      Metadata:
+        title           : Nederlands
+        BPS             : 57
+        DURATION        : 00:42:09.485000000
+        NUMBER_OF_FRAMES: 497
+        NUMBER_OF_BYTES : 18189
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(nor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Norsk
+        BPS             : 58
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 629
+        NUMBER_OF_BYTES : 18699
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polski
+        BPS             : 52
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 621
+        NUMBER_OF_BYTES : 16808
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Português
+        BPS             : 60
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 620
+        NUMBER_OF_BYTES : 19465
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Português (Brasil)
+        BPS             : 57
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 618
+        NUMBER_OF_BYTES : 18435
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(rum): Subtitle: subrip (srt)
+      Metadata:
+        title           : Română
+        BPS             : 57
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 520
+        NUMBER_OF_BYTES : 18628
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(slo): Subtitle: subrip (srt)
+      Metadata:
+        title           : Slovenčina
+        BPS             : 58
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 621
+        NUMBER_OF_BYTES : 18735
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(swe): Subtitle: subrip (srt)
+      Metadata:
+        title           : Svenska
+        BPS             : 61
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 582
+        NUMBER_OF_BYTES : 19880
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(tur): Subtitle: subrip (srt)
+      Metadata:
+        title           : Türkçe
+        BPS             : 59
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 631
+        NUMBER_OF_BYTES : 19201
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (Traditional)
+        BPS             : 56
+        DURATION        : 00:42:53.029000000
+        NUMBER_OF_FRAMES: 633
+        NUMBER_OF_BYTES : 18323
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 4010562
+        DURATION        : 00:43:03.623000000
+        NUMBER_OF_FRAMES: 61945
+        NUMBER_OF_BYTES : 1295222682
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x70a972fdf300] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.96x    

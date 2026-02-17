@@ -1,0 +1,85 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Robin Hood (2025)/Season 1/Robin Hood (2025) - S01E06 - Bound by Love, Divided by Lies WEBDL-720p.mkv':
+  Metadata:
+    title           : Robin Hood S01E06 Bound by Love, Divided by Lies
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:05:14.50, start: 0.000000, bitrate: 3850 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 18.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 18.000000, end 93.000000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 93.000000, end 98.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 98.000000, end 148.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:4: start 148.000000, end 3849.000000
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 3849.000000, end 3914.496000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 3208265
+        DURATION        : 01:05:14.494000000
+        NUMBER_OF_FRAMES: 93854
+        NUMBER_OF_BYTES : 1569841775
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 01:05:14.496000000
+        NUMBER_OF_FRAMES: 122328
+        NUMBER_OF_BYTES : 313159680
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 55
+        DURATION        : 01:03:24.758000000
+        NUMBER_OF_FRAMES: 899
+        NUMBER_OF_BYTES : 26513
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 58
+        DURATION        : 01:03:58.334000000
+        NUMBER_OF_FRAMES: 983
+        NUMBER_OF_BYTES : 28189
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Robin Hood S01E06 Bound by Love, Divided by Lies
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Recap
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 03
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default) (original)
+      Metadata:
+        title           : Original | English (United Kingdom)
+        BPS             : 640000
+        DURATION        : 01:05:14.496000000
+        NUMBER_OF_FRAMES: 122328
+        NUMBER_OF_BYTES : 313159680
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:05.98 bitrate=N/A speed=  12x    [out#0/null @ 0x78ec2e0805c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=13.9x    

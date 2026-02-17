@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Jonathan Groff</title>
+  <runtime>1</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>f2e11566-b21e-4387-b7f6-e1c24d46fbde</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Jonathan Groff/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Jonathan Groff/backdrop.jpg</fanart>
+  </art>
+</artist>

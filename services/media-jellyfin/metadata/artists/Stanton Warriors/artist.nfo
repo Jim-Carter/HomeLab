@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Stanton Warriors</title>
+  <runtime>31</runtime>
+  <genre>DJ Mix</genre>
+  <musicbrainzartistid>ba07d1f0-9839-43f5-b88e-f4b93b6b05f1</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Stanton Warriors/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Stanton Warriors/backdrop.jpg</fanart>
+  </art>
+</artist>

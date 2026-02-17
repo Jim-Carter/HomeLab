@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Aidonia</title>
+  <runtime>2</runtime>
+  <musicbrainzartistid>f2280d79-264d-4b27-b11a-9a77097869ee</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Aidonia/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Aidonia/backdrop.jpg</fanart>
+  </art>
+</artist>

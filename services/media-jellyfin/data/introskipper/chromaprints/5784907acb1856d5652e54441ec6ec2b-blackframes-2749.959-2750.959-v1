@@ -1,0 +1,283 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Andor/Season 2/Andor - S02E01 - One Year Later WEBRip-1080p.mkv':
+  Metadata:
+    title           : PSArips.com | Andor.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-04-23T01:31:08.000000Z
+  Duration: 00:50:35.96, start: 0.000000, bitrate: 1716 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x808, SAR 1:1 DAR 240:101, 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1504222
+        DURATION        : 00:50:35.959000000
+        NUMBER_OF_FRAMES: 72863
+        NUMBER_OF_BYTES : 570844620
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: aac (HE-AAC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 208058
+        DURATION        : 00:50:35.819000000
+        NUMBER_OF_FRAMES: 71152
+        NUMBER_OF_BYTES : 78953434
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (default) (hearing impaired)
+      Metadata:
+        title           : English [SDH]
+        BPS             : 62
+        DURATION        : 00:50:19.250000000
+        NUMBER_OF_FRAMES: 696
+        NUMBER_OF_BYTES : 23683
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (Hong Kong SAR China)
+        BPS             : 42
+        DURATION        : 00:50:09.542000000
+        NUMBER_OF_FRAMES: 616
+        NUMBER_OF_BYTES : 16072
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese Traditional
+        BPS             : 42
+        DURATION        : 00:50:09.542000000
+        NUMBER_OF_FRAMES: 614
+        NUMBER_OF_BYTES : 15825
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(cze): Subtitle: subrip (srt)
+      Metadata:
+        title           : Czech
+        BPS             : 49
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 612
+        NUMBER_OF_BYTES : 18210
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(dan): Subtitle: subrip (srt)
+      Metadata:
+        title           : Danish
+        BPS             : 47
+        DURATION        : 00:46:57.416000000
+        NUMBER_OF_FRAMES: 372
+        NUMBER_OF_BYTES : 16847
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(dut): Subtitle: subrip (srt)
+      Metadata:
+        title           : Dutch
+        BPS             : 54
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 561
+        NUMBER_OF_BYTES : 20135
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : European Spanish
+        BPS             : 54
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 612
+        NUMBER_OF_BYTES : 20361
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(fin): Subtitle: subrip (srt)
+      Metadata:
+        title           : Finnish
+        BPS             : 53
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 612
+        NUMBER_OF_BYTES : 19834
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French
+        BPS             : 48
+        DURATION        : 00:47:07.750000000
+        NUMBER_OF_FRAMES: 586
+        NUMBER_OF_BYTES : 17125
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : German
+        BPS             : 54
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 637
+        NUMBER_OF_BYTES : 20088
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(gre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Greek
+        BPS             : 95
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 614
+        NUMBER_OF_BYTES : 35390
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(hun): Subtitle: subrip (srt)
+      Metadata:
+        title           : Hungarian
+        BPS             : 54
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 612
+        NUMBER_OF_BYTES : 20102
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italian
+        BPS             : 54
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 611
+        NUMBER_OF_BYTES : 20054
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(jpn): Subtitle: subrip (srt)
+      Metadata:
+        title           : Japanese
+        BPS             : 43
+        DURATION        : 00:50:09.542000000
+        NUMBER_OF_FRAMES: 627
+        NUMBER_OF_BYTES : 16470
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(kor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Korean
+        BPS             : 57
+        DURATION        : 00:50:09.542000000
+        NUMBER_OF_FRAMES: 616
+        NUMBER_OF_BYTES : 21730
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Latin America Spanish
+        BPS             : 51
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 611
+        NUMBER_OF_BYTES : 19068
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(nor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Norwegian
+        BPS             : 51
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 612
+        NUMBER_OF_BYTES : 18905
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polish
+        BPS             : 54
+        DURATION        : 00:45:57.667000000
+        NUMBER_OF_FRAMES: 612
+        NUMBER_OF_BYTES : 18772
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese
+        BPS             : 53
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 610
+        NUMBER_OF_BYTES : 19672
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese Brazilian
+        BPS             : 56
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 611
+        NUMBER_OF_BYTES : 20947
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(rum): Subtitle: subrip (srt)
+      Metadata:
+        title           : Romanian
+        BPS             : 53
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 593
+        NUMBER_OF_BYTES : 19825
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(slo): Subtitle: subrip (srt)
+      Metadata:
+        title           : Slovak
+        BPS             : 50
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 586
+        NUMBER_OF_BYTES : 18702
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(swe): Subtitle: subrip (srt)
+      Metadata:
+        title           : Swedish
+        BPS             : 46
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 414
+        NUMBER_OF_BYTES : 17291
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(tur): Subtitle: subrip (srt)
+      Metadata:
+        title           : Turkish
+        BPS             : 50
+        DURATION        : 00:49:23.875000000
+        NUMBER_OF_FRAMES: 610
+        NUMBER_OF_BYTES : 18881
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : PSArips.com | Andor.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x808 [SAR 1:1 DAR 240:101], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 1504222
+        DURATION        : 00:50:35.959000000
+        NUMBER_OF_FRAMES: 72863
+        NUMBER_OF_BYTES : 570844620
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-23 01:31:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:00.08 bitrate=N/A speed=0.166x    [out#0/null @ 0x71e13b7d69c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed= 1.2x    

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Abba</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>d87e52c5-bb8d-4da8-b941-9f4928627dc8</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Abba/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Abba/backdrop.jpg</fanart>
+  </art>
+</artist>

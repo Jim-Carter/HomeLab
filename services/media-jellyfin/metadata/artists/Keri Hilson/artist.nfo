@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Keri Hilson</title>
+  <runtime>4</runtime>
+  <genre>R&amp;B</genre>
+  <musicbrainzartistid>b76c616a-ec0d-4f0c-b986-f249c4a04d77</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Keri Hilson/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Keri Hilson/backdrop.jpg</fanart>
+  </art>
+</artist>

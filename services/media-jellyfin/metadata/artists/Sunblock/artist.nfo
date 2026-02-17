@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Sunblock</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>858ffa44-9d5d-4a12-947f-692aa8e0fc69</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Sunblock/folder.jpg</poster>
+  </art>
+</artist>

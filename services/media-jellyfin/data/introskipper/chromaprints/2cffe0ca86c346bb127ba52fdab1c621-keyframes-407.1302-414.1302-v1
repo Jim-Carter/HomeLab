@@ -1,0 +1,30 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Memory of a Killer/Season 1/Memory of a Killer - S01E01 - Pilot HDTV-720p.mkv':
+  Metadata:
+    encoder         : libx264 + libebml + libmatroska + libfastrar
+    creation_time   : 2026-01-26T03:32:26.000000Z
+  Duration: 00:43:16.30, start: 0.000000, bitrate: 2629 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709/unknown/unknown, progressive), 1280x640, SAR 1:1 DAR 2:1, 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x77616940a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x77616940a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x77616940a0c0] n:   0 pts:   1904 pts_time:1.904   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:50C48900 plane_checksum:[0E360F8F 7C17AA11 0DCFCF51] mean:[43 121 138] stdev:[20.8 4.7 8.8]
+[Parsed_showinfo_0 @ 0x77616940a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709/unknown/unknown, progressive), 1280x640 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x77616940a0c0] n:   1 pts:   3614 pts_time:3.614   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:78936B27 plane_checksum:[861C9E91 D239B306 41871981] mean:[49 124 129] stdev:[25.4 6.0 9.1]
+[Parsed_showinfo_0 @ 0x77616940a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x77616940a0c0] n:   2 pts:   5491 pts_time:5.491   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:66B5B844 plane_checksum:[99CEC937 9A8CEF6F 0414FF80] mean:[54 123 134] stdev:[33.1 5.2 10.7]
+[Parsed_showinfo_0 @ 0x77616940a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x77616940a0c0] n:   3 pts:   7242 pts_time:7.242   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:C47BAF64 plane_checksum:[A36AAB7C 7CDD07EE A004FBEB] mean:[42 121 142] stdev:[22.6 4.6 9.6]
+[Parsed_showinfo_0 @ 0x77616940a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x77616940a0c0] n:   4 pts:   9328 pts_time:9.328   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:97E3EA94 plane_checksum:[C9EBF3B6 B8BDB623 946640AC] mean:[91 129 109] stdev:[28.5 4.5 15.1]
+[Parsed_showinfo_0 @ 0x77616940a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x77616e4802c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.54 bitrate=N/A speed=52.5x    

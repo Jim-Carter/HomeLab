@@ -1,0 +1,58 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Mayor of Kingstown/Season 4/Mayor of Kingstown - S04E07 - My Way WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+  Duration: 00:51:21.12, start: 0.000000, bitrate: 9999 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9357499
+        DURATION        : 00:51:21.120000000
+        NUMBER_OF_FRAMES: 73873
+        NUMBER_OF_BYTES : 3603947472
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:51:21.120000000
+        NUMBER_OF_FRAMES: 96285
+        NUMBER_OF_BYTES : 246489600
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English (SDH)
+        BPS             : 72
+        DURATION        : 00:50:07.604000000
+        NUMBER_OF_FRAMES: 928
+        NUMBER_OF_BYTES : 27120
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] n:   0 pts:     82 pts_time:0.082   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:B2795218 plane_checksum:[E83D6A1B 7C5D932E 14AB54C0] mean:[73 129 125] stdev:[44.7 3.9 3.8]
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9357499
+        DURATION        : 00:51:21.120000000
+        NUMBER_OF_FRAMES: 73873
+        NUMBER_OF_BYTES : 3603947472
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] n:   1 pts:   2084 pts_time:2.084   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:6165FDF9 plane_checksum:[7367C104 EA2F1CB4 3C352041] mean:[81 127 126] stdev:[24.4 2.6 2.6]
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] n:   2 pts:   4086 pts_time:4.086   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:A1E1050D plane_checksum:[17321A59 64F03594 2AA7B511] mean:[77 129 125] stdev:[23.8 1.8 1.7]
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] n:   3 pts:   6088 pts_time:6.088   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:E58BB5AA plane_checksum:[C0E56410 99D6A6A3 5003AAE8] mean:[49 125 128] stdev:[11.9 1.9 1.1]
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] n:   4 pts:   8090 pts_time:8.09    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:F2538E41 plane_checksum:[B48E2865 9C515DE4 35F407F8] mean:[65 130 120] stdev:[45.8 5.1 6.5]
+[Parsed_showinfo_0 @ 0x7d8e8fa0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7d8e94880500] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.13 bitrate=N/A speed=16.3x    

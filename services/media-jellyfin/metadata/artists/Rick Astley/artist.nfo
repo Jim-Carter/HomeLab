@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Rick Astley</title>
+  <runtime>3</runtime>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>db92a151-1ac2-438b-bc43-b82e149ddd50</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Rick Astley/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Rick Astley/backdrop.jpg</fanart>
+  </art>
+</artist>

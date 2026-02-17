@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Beatles, The                  </title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Beatles, The/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Beatles, The/backdrop.jpg</fanart>
+  </art>
+</artist>

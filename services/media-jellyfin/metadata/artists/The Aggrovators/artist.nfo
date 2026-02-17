@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>The Aggrovators</title>
+  <runtime>10</runtime>
+  <genre>Reggae</genre>
+  <musicbrainzartistid>d2eba907-21a2-4240-8667-1da3a1fe63d0</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/The Aggrovators/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/The Aggrovators/backdrop.jpg</fanart>
+  </art>
+</artist>

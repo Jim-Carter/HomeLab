@@ -1,0 +1,26 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Memory of a Killer/Season 1/Memory of a Killer - S01E02 - Ferryman HDTV-720p.mkv':
+  Metadata:
+    encoder         : libx264 + libebml + libmatroska + libfastrar
+    creation_time   : 2026-01-27T02:55:21.000000Z
+  Duration: 00:41:27.49, start: 0.000000, bitrate: 2429 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709/unknown/unknown, progressive), 1280x640, SAR 1:1 DAR 2:1, 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] n:   0 pts:   1493 pts_time:1.493   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:3D1F41E1 plane_checksum:[EB111A26 013BF9AF A22C2DFD] mean:[42 131 122] stdev:[19.5 6.0 7.2]
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709/unknown/unknown, progressive), 1280x640 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] n:   1 pts:   6831 pts_time:6.831   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:D496F6F9 plane_checksum:[16192B03 8E27C2DC 7EEC091A] mean:[42 128 125] stdev:[22.5 1.9 2.9]
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] n:   2 pts:  10251 pts_time:10.251  duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x640 i:P iskey:1 type:I checksum:FA3D2A94 plane_checksum:[6CB8B313 7FA336E5 0810408D] mean:[35 128 125] stdev:[13.1 2.0 3.3]
+[Parsed_showinfo_0 @ 0x78e484a0a0c0] color_range:tv color_space:bt709 color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x78e4896802c0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.88 bitrate=N/A speed=75.9x    

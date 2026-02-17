@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Capleton</title>
+  <runtime>1</runtime>
+  <genre>Dancehall</genre>
+  <musicbrainzartistid>93dda03d-c1d3-42c2-80b0-fa71bc20262b</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Capleton/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Capleton/backdrop.jpg</fanart>
+  </art>
+</artist>

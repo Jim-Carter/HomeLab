@@ -1,0 +1,33 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Industry/Season 1/Industry - S01E05 - Learned Behaviour WEBRip-1080p.mkv':
+  Metadata:
+    creation_time   : 2024-08-26T14:41:44.000000Z
+    ENCODER         : Lavf61.1.100
+  Duration: 00:51:20.80, start: 0.000000, bitrate: 3534 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x962 [SAR 1:1 DAR 960:481], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:51:20.745000000
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        DURATION        : 00:51:20.800000000
+  Stream #0:2(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : SDH
+        DURATION        : 00:51:13.834000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x788277c0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x788277c0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x788277c0a0c0] n:   0 pts:   3929 pts_time:3.929   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x962 i:P iskey:1 type:I checksum:AD93A110 plane_checksum:[2F1914F3 540A22B3 DC36696A] mean:[144 514 510] stdev:[135.4 7.7 9.7]
+[Parsed_showinfo_0 @ 0x788277c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x962 [SAR 1:1 DAR 960:481], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:51:20.745000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:03.96 bitrate=N/A speed=7.92x    [Parsed_showinfo_0 @ 0x788277c0a0c0] n:   1 pts:  13939 pts_time:13.939  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x962 i:P iskey:1 type:I checksum:357239A9 plane_checksum:[2F36A2A1 1DF2C89A EA3BCE50] mean:[275 503 524] stdev:[127.0 19.2 21.3]
+[Parsed_showinfo_0 @ 0x788277c0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x78827d0805c0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.96 bitrate=N/A speed=6.31x    

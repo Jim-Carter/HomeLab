@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Darkness</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>677c67fa-e77a-47b9-899d-3e3afe2d6b31</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Darkness/folder.jpg</poster>
+  </art>
+</artist>

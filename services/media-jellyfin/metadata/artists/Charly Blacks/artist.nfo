@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Charly Blacks</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>10c0c61f-b089-452e-8163-246f6fb71293</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Charly Blacks/folder.jpg</poster>
+  </art>
+</artist>

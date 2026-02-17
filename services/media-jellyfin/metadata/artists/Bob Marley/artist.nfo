@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Bob Marley</title>
+  <runtime>14</runtime>
+  <genre>Reggae</genre>
+  <musicbrainzartistid>ed2ac1e9-d51d-4eff-a2c2-85e81abd6360</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Bob Marley/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Bob Marley/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,134 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Wild Cards/Season 1/Wild Cards - S01E03 - Howl to Get Away with Murder WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-07T03:03:51.000000Z
+  Duration: 00:42:17.02, start: 0.000000, bitrate: 7666 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 60.000000
+      Metadata:
+        title           : Scene 1
+    Chapter #0:1: start 60.000000, end 293.000000
+      Metadata:
+        title           : Scene 2
+    Chapter #0:2: start 293.000000, end 346.000000
+      Metadata:
+        title           : Scene 3
+    Chapter #0:3: start 346.000000, end 440.000000
+      Metadata:
+        title           : Scene 4
+    Chapter #0:4: start 440.000000, end 498.000000
+      Metadata:
+        title           : Scene 5
+    Chapter #0:5: start 498.000000, end 568.000000
+      Metadata:
+        title           : Scene 6
+    Chapter #0:6: start 568.000000, end 600.000000
+      Metadata:
+        title           : Scene 7
+    Chapter #0:7: start 600.000000, end 734.000000
+      Metadata:
+        title           : Scene 8
+    Chapter #0:8: start 734.000000, end 803.000000
+      Metadata:
+        title           : Scene 9
+    Chapter #0:9: start 803.000000, end 1003.000000
+      Metadata:
+        title           : Scene 10
+    Chapter #0:10: start 1003.000000, end 1109.000000
+      Metadata:
+        title           : Scene 11
+    Chapter #0:11: start 1109.000000, end 1322.000000
+      Metadata:
+        title           : Scene 12
+    Chapter #0:12: start 1322.000000, end 1363.000000
+      Metadata:
+        title           : Scene 13
+    Chapter #0:13: start 1363.000000, end 1428.000000
+      Metadata:
+        title           : Scene 14
+    Chapter #0:14: start 1428.000000, end 1471.000000
+      Metadata:
+        title           : Scene 15
+    Chapter #0:15: start 1471.000000, end 1521.000000
+      Metadata:
+        title           : Scene 16
+    Chapter #0:16: start 1521.000000, end 1558.000000
+      Metadata:
+        title           : Scene 17
+    Chapter #0:17: start 1558.000000, end 1626.000000
+      Metadata:
+        title           : Scene 18
+    Chapter #0:18: start 1626.000000, end 1670.000000
+      Metadata:
+        title           : Scene 19
+    Chapter #0:19: start 1670.000000, end 1899.000000
+      Metadata:
+        title           : Scene 20
+    Chapter #0:20: start 1899.000000, end 2087.000000
+      Metadata:
+        title           : Scene 21
+    Chapter #0:21: start 2087.000000, end 2124.000000
+      Metadata:
+        title           : Scene 22
+    Chapter #0:22: start 2124.000000, end 2350.000000
+      Metadata:
+        title           : Scene 23
+    Chapter #0:23: start 2350.000000, end 2381.000000
+      Metadata:
+        title           : Scene 24
+    Chapter #0:24: start 2381.000000, end 2500.000000
+      Metadata:
+        title           : Scene 25
+    Chapter #0:25: start 2500.000000, end 2537.024000
+      Metadata:
+        title           : Scene 26
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 7024367
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2227596241
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:03:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:42:17.024000000
+        NUMBER_OF_FRAMES: 79282
+        NUMBER_OF_BYTES : 202961920
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:03:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 106
+        DURATION        : 00:41:48.549000000
+        NUMBER_OF_FRAMES: 890
+        NUMBER_OF_BYTES : 33258
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:03:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Scene 26
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 7024367
+        DURATION        : 00:42:16.993000000
+        NUMBER_OF_FRAMES: 60827
+        NUMBER_OF_BYTES : 2227596241
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 03:03:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=   41 fps=0.0 q=-0.0 size=N/A time=00:00:01.71 bitrate=N/A speed=3.41x    [out#0/null @ 0x787370480440] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.48x    

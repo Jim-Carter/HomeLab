@@ -1,0 +1,81 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Landman/Season 2/Landman.S02E08.Handsome.Touched.Me.1080p.PMTP.WEB-DL.DDP5.1.H.264-STC.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2026-01-04T09:48:00.000000Z
+  Duration: 00:50:51.80, start: 0.000000, bitrate: 5082 kb/s
+  Chapters:
+    Chapter #0:0: start 11.000000, end 63.000000
+      Metadata:
+        title           : Preview Start
+    Chapter #0:1: start 63.000000, end 385.000000
+      Metadata:
+        title           : Preview End
+    Chapter #0:2: start 385.000000, end 433.000000
+      Metadata:
+        title           : openCreditStart
+    Chapter #0:3: start 433.000000, end 2980.000000
+      Metadata:
+        title           : openCreditEnd
+    Chapter #0:4: start 2980.000000, end 3051.803000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4888580
+        DURATION        : 00:50:51.757000000
+        NUMBER_OF_FRAMES: 73169
+        NUMBER_OF_BYTES : 1864844798
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 192 kb/s (default)
+      Metadata:
+        BPS             : 192000
+        DURATION        : 00:50:51.803000000
+        NUMBER_OF_FRAMES: 95369
+        NUMBER_OF_BYTES : 73243392
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 87
+        DURATION        : 00:49:58.996000000
+        NUMBER_OF_FRAMES: 1080
+        NUMBER_OF_BYTES : 32809
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Mexico
+        BPS             : 72
+        DURATION        : 00:49:29.383000000
+        NUMBER_OF_FRAMES: 812
+        NUMBER_OF_BYTES : 26933
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : openCreditEnd
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 192000
+        DURATION        : 00:50:51.803000000
+        NUMBER_OF_FRAMES: 95369
+        NUMBER_OF_BYTES : 73243392
+        _STATISTICS_WRITING_APP: mkvmerge v63.0.0 ('Everything') 32-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 09:48:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[out#0/null @ 0x7536c3080500] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 119x    

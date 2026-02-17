@@ -1,0 +1,62 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Industry/Season 2/Industry - S02E08 - Jerusalem WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2022-09-20T14:51:33.000000Z
+  Duration: 00:58:22.66, start: 0.000000, bitrate: 10688 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9406238
+        DURATION        : 00:58:22.600000000
+        NUMBER_OF_FRAMES: 87565
+        NUMBER_OF_BYTES : 4118286420
+        _STATISTICS_WRITING_APP: mkvmerge v70.0.0 ('Caught A Lite Sneeze') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-09-20 14:51:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(fre): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : French
+        BPS             : 640000
+        DURATION        : 00:58:22.656000000
+        NUMBER_OF_FRAMES: 109458
+        NUMBER_OF_BYTES : 280212480
+        _STATISTICS_WRITING_APP: mkvmerge v70.0.0 ('Caught A Lite Sneeze') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-09-20 14:51:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+      Metadata:
+        title           : English
+        BPS             : 640000
+        DURATION        : 00:58:22.624000000
+        NUMBER_OF_FRAMES: 109457
+        NUMBER_OF_BYTES : 280209920
+        _STATISTICS_WRITING_APP: mkvmerge v70.0.0 ('Caught A Lite Sneeze') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-09-20 14:51:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French
+        BPS             : 58
+        DURATION        : 00:57:13.880000000
+        NUMBER_OF_FRAMES: 838
+        NUMBER_OF_BYTES : 25112
+        _STATISTICS_WRITING_APP: mkvmerge v70.0.0 ('Caught A Lite Sneeze') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-09-20 14:51:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 9406238
+        DURATION        : 00:58:22.600000000
+        NUMBER_OF_FRAMES: 87565
+        NUMBER_OF_BYTES : 4118286420
+        _STATISTICS_WRITING_APP: mkvmerge v70.0.0 ('Caught A Lite Sneeze') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-09-20 14:51:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x7b99cfa80680] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=3.17x    

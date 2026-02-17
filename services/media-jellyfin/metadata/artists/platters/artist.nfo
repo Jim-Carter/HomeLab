@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>platters</title>
+  <runtime>6</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>3fb55c03-3ad9-4341-8d0b-7c4c49aefca0</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/platters/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/platters/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Keith Urban</title>
+  <runtime>4</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>f45da029-7b00-4bf3-962c-0eeb20309cc4</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Keith Urban/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Keith Urban/backdrop.jpg</fanart>
+  </art>
+</artist>

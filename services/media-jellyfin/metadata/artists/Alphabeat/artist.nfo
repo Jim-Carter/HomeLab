@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Alphabeat</title>
+  <runtime>6</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>ce6d5579-1f03-4992-8189-a40f8f0489b0</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Alphabeat/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Alphabeat/backdrop.jpg</fanart>
+  </art>
+</artist>

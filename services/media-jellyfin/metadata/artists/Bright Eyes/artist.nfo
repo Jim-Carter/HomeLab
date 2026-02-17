@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Bright Eyes</title>
+  <runtime>6</runtime>
+  <musicbrainzartistid>78f797e3-4913-4026-aad0-1cd858bd735b</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Bright Eyes/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Bright Eyes/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,79 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/You/Season 5/You - S05E02 - Blood Will Have Blood WEBRip-1080p.mkv':
+  Metadata:
+    encoder         : Lavf61.1.100
+    creation_time   : 2025-04-24T20:12:14.000000Z
+  Duration: 00:52:29.65, start: 0.000000, bitrate: 1269 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 4.505000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 4.505000, end 67.568000
+      Metadata:
+        title           : Recap
+    Chapter #0:2: start 67.568000, end 2992.490000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 2992.490000, end 3149.605000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+  Stream #0:2(ara): Subtitle: ass (ssa)
+  Stream #0:3(chi): Subtitle: ass (ssa)
+  Stream #0:4(chi): Subtitle: ass (ssa)
+  Stream #0:5(hrv): Subtitle: ass (ssa)
+  Stream #0:6(cze): Subtitle: ass (ssa)
+  Stream #0:7(dan): Subtitle: ass (ssa)
+  Stream #0:8(dut): Subtitle: ass (ssa)
+  Stream #0:9(eng): Subtitle: ass (ssa)
+  Stream #0:10(eng): Subtitle: ass (ssa)
+  Stream #0:11(fin): Subtitle: ass (ssa)
+  Stream #0:12(fre): Subtitle: ass (ssa)
+  Stream #0:13(fil): Subtitle: ass (ssa)
+  Stream #0:14(ger): Subtitle: ass (ssa)
+  Stream #0:15(gre): Subtitle: ass (ssa)
+  Stream #0:16(heb): Subtitle: ass (ssa)
+  Stream #0:17(hun): Subtitle: ass (ssa)
+  Stream #0:18(ind): Subtitle: ass (ssa)
+  Stream #0:19(ita): Subtitle: ass (ssa)
+  Stream #0:20(jpn): Subtitle: ass (ssa)
+  Stream #0:21(kor): Subtitle: ass (ssa)
+  Stream #0:22(may): Subtitle: ass (ssa)
+  Stream #0:23(nob): Subtitle: ass (ssa)
+  Stream #0:24(pol): Subtitle: ass (ssa)
+  Stream #0:25(por): Subtitle: ass (ssa)
+  Stream #0:26(por): Subtitle: ass (ssa)
+  Stream #0:27(rum): Subtitle: ass (ssa)
+  Stream #0:28(rus): Subtitle: ass (ssa)
+  Stream #0:29(spa): Subtitle: ass (ssa)
+  Stream #0:30(spa): Subtitle: ass (ssa)
+  Stream #0:31(swe): Subtitle: ass (ssa)
+  Stream #0:32(tha): Subtitle: ass (ssa)
+  Stream #0:33(tur): Subtitle: ass (ssa)
+  Stream #0:34(ukr): Subtitle: ass (ssa)
+  Stream #0:35(vie): Subtitle: ass (ssa)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] n:   0 pts:   5191 pts_time:5.191   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:9FC1C0AA plane_checksum:[13966A33 2292141D 98EB425A] mean:[411 499 503] stdev:[205.9 16.4 23.1]
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : Recap
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] n:   1 pts:   6693 pts_time:6.693   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:74A2B2B6 plane_checksum:[F301B866 3CF2B3BD 9F7B4684] mean:[350 480 507] stdev:[108.5 23.6 21.0]
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] n:   2 pts:   7985 pts_time:7.985   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:885CE0FD plane_checksum:[C42B2E73 C2AFC2E9 DDE0EF92] mean:[264 509 505] stdev:[128.8 11.7 19.5]
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] n:   3 pts:  10154 pts_time:10.154  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:A8A7F9FC plane_checksum:[50110516 6C3C8432 B6DA70B4] mean:[281 499 515] stdev:[246.3 16.6 16.5]
+[Parsed_showinfo_0 @ 0x7e29b2a0a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7e29b790e680] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.71 bitrate=N/A speed=18.4x    

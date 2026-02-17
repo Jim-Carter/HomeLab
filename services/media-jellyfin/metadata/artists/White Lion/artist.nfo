@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>White Lion</title>
+  <runtime>8</runtime>
+  <genre>Metal</genre>
+  <musicbrainzartistid>4fe426de-9c86-46d5-bbab-239f5e7344bf</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/White Lion/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/White Lion/backdrop.jpg</fanart>
+  </art>
+</artist>

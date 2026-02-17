@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Vybz Kartel</title>
+  <runtime>16</runtime>
+  <musicbrainzartistid>7cc385f3-333c-48de-b341-3d728de74973</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Vybz Kartel/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Vybz Kartel/backdrop.jpg</fanart>
+  </art>
+</artist>

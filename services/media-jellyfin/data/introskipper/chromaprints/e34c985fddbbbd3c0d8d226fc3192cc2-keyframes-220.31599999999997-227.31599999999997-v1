@@ -1,0 +1,66 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/Landman/Season 2/Landman - S02E03 - Almost a Home WEBDL-2160p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:51:29.05, start: 0.000000, bitrate: 15427 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1920 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 14784640
+        DURATION        : 00:51:29.045000000
+        NUMBER_OF_FRAMES: 74063
+        NUMBER_OF_BYTES : 5708802415
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:51:29.024000000
+        NUMBER_OF_FRAMES: 96532
+        NUMBER_OF_BYTES : 247121920
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 89
+        DURATION        : 00:50:38.269000000
+        NUMBER_OF_FRAMES: 1061
+        NUMBER_OF_BYTES : 33842
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 96
+        DURATION        : 00:50:38.269000000
+        NUMBER_OF_FRAMES: 1124
+        NUMBER_OF_BYTES : 36688
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] n:   0 pts:   1906 pts_time:1.906   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:ED5A0EA5 plane_checksum:[2E37338B 712C5D98 5CB97D73] mean:[137 120 126] stdev:[63.4 4.1 5.5]
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 14784640
+        DURATION        : 00:51:29.045000000
+        NUMBER_OF_FRAMES: 74063
+        NUMBER_OF_BYTES : 5708802415
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:01.96 bitrate=N/A speed=3.92x    [Parsed_showinfo_0 @ 0x7e62c720a0c0] n:   1 pts:   3908 pts_time:3.908   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:EEB7BA1B plane_checksum:[CD4C2420 1183FE7D DD97976F] mean:[105 117 125] stdev:[54.1 15.8 6.5]
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] n:   2 pts:   5910 pts_time:5.91    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:37672442 plane_checksum:[C3659592 99AF3C20 2A5D5281] mean:[92 126 121] stdev:[63.9 4.8 9.3]
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] n:   3 pts:   7912 pts_time:7.912   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:E11D7C50 plane_checksum:[4682A77E 0D500FE9 89C6C4DA] mean:[103 126 120] stdev:[68.5 5.0 9.3]
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] n:   4 pts:   9914 pts_time:9.914   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:7B4B584C plane_checksum:[859723FA 2996119D 09A022B5] mean:[93 129 122] stdev:[48.4 4.8 6.5]
+[Parsed_showinfo_0 @ 0x7e62c720a0c0] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x7e62cc080500] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.96 bitrate=N/A speed=8.04x    

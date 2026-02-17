@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Scooter</title>
+  <runtime>5</runtime>
+  <genre>Dance</genre>
+  <musicbrainzartistid>83e59f23-3b0b-4304-834d-5bcafd5df6d2</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Scooter/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Scooter/backdrop.jpg</fanart>
+  </art>
+</artist>

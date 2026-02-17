@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Liberty X</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>02db9e84-a750-4d22-b5b1-c769e698dc6c</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Liberty X/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Liberty X/backdrop.jpg</fanart>
+  </art>
+</artist>

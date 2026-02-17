@@ -1,0 +1,265 @@
+Input #0, matroska,webm, from '/mnt/nas/media/TV Shows/High Potential/Season 2/High Potential - S02E08 - The One That Got Away (2) WEBDL-1080p.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:41:06.17, start: 0.000000, bitrate: 9495 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 8850207
+        DURATION        : 00:41:06.172000000
+        NUMBER_OF_FRAMES: 59129
+        NUMBER_OF_BYTES : 2728266633
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:41:06.144000000
+        NUMBER_OF_FRAMES: 77067
+        NUMBER_OF_BYTES : 197291520
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 99
+        DURATION        : 00:40:16.706000000
+        NUMBER_OF_FRAMES: 678
+        NUMBER_OF_BYTES : 29932
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (hearing impaired)
+      Metadata:
+        title           : SDH
+        BPS             : 103
+        DURATION        : 00:40:25.131000000
+        NUMBER_OF_FRAMES: 717
+        NUMBER_OF_BYTES : 31516
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(cze): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 75
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 587
+        NUMBER_OF_BYTES : 23141
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(dan): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 77
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 590
+        NUMBER_OF_BYTES : 23799
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(ger): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 83
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 614
+        NUMBER_OF_BYTES : 25573
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (Latin America)
+        BPS             : 73
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 595
+        NUMBER_OF_BYTES : 22529
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (Spain)
+        BPS             : 80
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 654
+        NUMBER_OF_BYTES : 24629
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(fin): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 79
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 614
+        NUMBER_OF_BYTES : 24250
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(fre): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 79
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 616
+        NUMBER_OF_BYTES : 24498
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(hun): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 81
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 576
+        NUMBER_OF_BYTES : 24956
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(ita): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 80
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 597
+        NUMBER_OF_BYTES : 24662
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(jpn): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 65
+        DURATION        : 00:40:51.532000000
+        NUMBER_OF_FRAMES: 673
+        NUMBER_OF_BYTES : 20204
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(kor): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 94
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 663
+        NUMBER_OF_BYTES : 29034
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(dut): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 69
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 514
+        NUMBER_OF_BYTES : 21293
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(nor): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 77
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 624
+        NUMBER_OF_BYTES : 23719
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(pol): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 72
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 623
+        NUMBER_OF_BYTES : 22363
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(por): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 75
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 628
+        NUMBER_OF_BYTES : 23161
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(rum): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 79
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 575
+        NUMBER_OF_BYTES : 24302
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(slo): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 73
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 640
+        NUMBER_OF_BYTES : 22645
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(swe): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 82
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 664
+        NUMBER_OF_BYTES : 25433
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(tur): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 75
+        DURATION        : 00:40:30.804000000
+        NUMBER_OF_FRAMES: 622
+        NUMBER_OF_BYTES : 22810
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(chi): Subtitle: subrip (srt)
+      Metadata:
+        BPS             : 86
+        DURATION        : 00:40:51.574000000
+        NUMBER_OF_FRAMES: 674
+        NUMBER_OF_BYTES : 26522
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:0 pblack:86 pts:36 t:0.036000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 8850207
+        DURATION        : 00:41:06.172000000
+        NUMBER_OF_FRAMES: 59129
+        NUMBER_OF_BYTES : 2728266633
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:1 pblack:87 pts:78 t:0.078000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:2 pblack:87 pts:120 t:0.120000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:3 pblack:87 pts:161 t:0.161000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:4 pblack:87 pts:203 t:0.203000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:5 pblack:88 pts:245 t:0.245000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:6 pblack:88 pts:286 t:0.286000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:7 pblack:88 pts:328 t:0.328000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:8 pblack:88 pts:370 t:0.370000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:9 pblack:88 pts:412 t:0.412000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:10 pblack:89 pts:453 t:0.453000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:11 pblack:89 pts:495 t:0.495000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:12 pblack:89 pts:537 t:0.537000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:13 pblack:89 pts:578 t:0.578000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:14 pblack:89 pts:620 t:0.620000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:15 pblack:89 pts:662 t:0.662000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:16 pblack:89 pts:704 t:0.704000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:17 pblack:89 pts:745 t:0.745000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:18 pblack:89 pts:787 t:0.787000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:19 pblack:89 pts:829 t:0.829000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:20 pblack:89 pts:870 t:0.870000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:21 pblack:89 pts:912 t:0.912000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:22 pblack:89 pts:954 t:0.954000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:23 pblack:89 pts:995 t:0.995000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:24 pblack:89 pts:1037 t:1.037000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:25 pblack:89 pts:1079 t:1.079000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:26 pblack:89 pts:1121 t:1.121000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:27 pblack:89 pts:1162 t:1.162000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:28 pblack:89 pts:1204 t:1.204000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:29 pblack:89 pts:1246 t:1.246000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:30 pblack:89 pts:1287 t:1.287000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:31 pblack:89 pts:1329 t:1.329000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:32 pblack:89 pts:1371 t:1.371000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:33 pblack:89 pts:1413 t:1.413000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:34 pblack:89 pts:1454 t:1.454000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:35 pblack:89 pts:1496 t:1.496000 type:I last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:36 pblack:89 pts:1538 t:1.538000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:37 pblack:89 pts:1579 t:1.579000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:38 pblack:89 pts:1621 t:1.621000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:39 pblack:89 pts:1663 t:1.663000 type:P last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:40 pblack:89 pts:1705 t:1.705000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:41 pblack:89 pts:1746 t:1.746000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:42 pblack:89 pts:1788 t:1.788000 type:P last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:43 pblack:89 pts:1830 t:1.830000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:44 pblack:89 pts:1871 t:1.871000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:45 pblack:89 pts:1913 t:1.913000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:46 pblack:89 pts:1955 t:1.955000 type:P last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:47 pblack:89 pts:1996 t:1.996000 type:B last_keyframe:35
+[Parsed_blackframe_0 @ 0x792a1f40c0c0] frame:48 pblack:89 pts:2038 t:2.038000 type:B last_keyframe:35
+[out#0/null @ 0x792a24116480] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=6.73x    

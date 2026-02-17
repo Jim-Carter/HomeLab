@@ -1,0 +1,77 @@
+Input #0, matroska,webm, from '/mnt/nas/TV/Maigret (2025)/Season 1/Maigret (2025) - S01E03 - Maigret's Failure (1) WEBDL-1080p.mkv':
+  Metadata:
+    title           : Maigret S01E03 Maigret's Failure, Part One
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:52:18.72, start: 0.000000, bitrate: 9816 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 214.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 214.000000, end 251.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 251.000000, end 3108.000000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 3108.000000, end 3138.720000
+      Metadata:
+        title           : End Credits
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default) (original)
+      Metadata:
+        BPS             : 9173642
+        DURATION        : 00:52:18.720000000
+        NUMBER_OF_FRAMES: 78468
+        NUMBER_OF_BYTES : 3599186959
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (original)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:52:18.720000000
+        NUMBER_OF_FRAMES: 98085
+        NUMBER_OF_BYTES : 251097600
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+      Metadata:
+        title           : Original | English
+        BPS             : 62
+        DURATION        : 00:51:37.646000000
+        NUMBER_OF_FRAMES: 741
+        NUMBER_OF_BYTES : 24236
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : Original | English (SDH)
+        BPS             : 66
+        DURATION        : 00:51:48.898000000
+        NUMBER_OF_FRAMES: 806
+        NUMBER_OF_BYTES : 25879
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Maigret S01E03 Maigret's Failure, Part One
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 03
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default) (original)
+      Metadata:
+        BPS             : 640000
+        DURATION        : 00:52:18.720000000
+        NUMBER_OF_FRAMES: 98085
+        NUMBER_OF_BYTES : 251097600
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[out#0/null @ 0x7174b2e805c0] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=7.94x    

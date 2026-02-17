@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Martin Denny</title>
+  <runtime>5</runtime>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>186edc09-db32-4d4f-ba71-eed418630c83</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Martin Denny/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Martin Denny/backdrop.jpg</fanart>
+  </art>
+</artist>

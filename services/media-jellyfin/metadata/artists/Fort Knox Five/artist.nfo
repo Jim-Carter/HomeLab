@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Fort Knox Five</title>
+  <runtime>56</runtime>
+  <musicbrainzartistid>479e4e02-6e12-438b-8088-caabb69c489e</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Fort Knox Five/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Fort Knox Five/backdrop.jpg</fanart>
+  </art>
+</artist>

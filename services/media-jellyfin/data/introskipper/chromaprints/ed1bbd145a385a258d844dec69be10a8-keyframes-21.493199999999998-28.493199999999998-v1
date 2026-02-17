@@ -1,0 +1,64 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x720d8e6be000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/nas/TV/Mr.Inbetween.2018.S01.03.1080p.WebRip.X264.Will1869/S02/Mr Inbetween - S02E08 - See You In Your Dreams.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S02E08 - See You In Your Dreams
+    date            : 2023
+    encoder         : DVDFab
+  Duration: 00:25:26.69, start: 0.000000, bitrate: 3795 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 3524 kb/s, 23.81 fps, 23.81 tbr, 23809 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x0]: Video: bmp, bgra, 640x360, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] config in time_base: 1/23809, frame_rate: 23809/1000
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   0 pts:  15268 pts_time:0.64127 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:E6D61AC7 plane_checksum:[A3F6089A 8B0196F1 178A7B2D] mean:[30 129 127] stdev:[17.5 2.9 2.7]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Mr Inbetween - S02E08 - See You In Your Dreams
+    date            : 2023
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.81 fps, 23.81 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   1 pts:  39268 pts_time:1.649292 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:4ACF203B plane_checksum:[E11291F2 44EA251A 721E6920] mean:[28 129 126] stdev:[10.3 2.4 2.5]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   2 pts:  63268 pts_time:2.657314 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:F82AD929 plane_checksum:[91C811BE 86C23D20 1A0F8A4B] mean:[37 138 121] stdev:[24.7 16.6 14.1]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   3 pts:  87268 pts_time:3.665337 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:D54293B7 plane_checksum:[F2A7728E CECEE13A 2D5F3FE0] mean:[40 139 120] stdev:[28.1 16.8 14.3]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   4 pts: 111268 pts_time:4.673359 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:30390237 plane_checksum:[8C03D1A9 FD65DDA4 9BC652CC] mean:[40 140 120] stdev:[25.6 14.4 12.9]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   5 pts: 135268 pts_time:5.681381 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:596D1B1E plane_checksum:[85E2BDA4 7BC9CBDA 0FCD9182] mean:[40 140 120] stdev:[25.8 14.6 13.1]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   6 pts: 155268 pts_time:6.521399 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:6B8293DC plane_checksum:[89ABF560 218E0DFC A69B9071] mean:[31 133 124] stdev:[15.3 9.2 7.9]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   7 pts: 157268 pts_time:6.605401 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:8540FB56 plane_checksum:[41C24E16 1FC65DFF 06EA4F41] mean:[45 128 130] stdev:[52.6 6.8 7.7]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   8 pts: 162268 pts_time:6.815406 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:BB11A7B5 plane_checksum:[EC12ABE7 34906CFE 04B38EC1] mean:[79 129 128] stdev:[46.9 4.2 4.1]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] n:   9 pts: 186268 pts_time:7.823428 duration:   1000 duration_time:0.0420009 fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:69FA1506 plane_checksum:[FD75F388 DF54B657 79BD6B09] mean:[89 129 128] stdev:[55.2 4.9 4.7]
+[Parsed_showinfo_0 @ 0x720d88e0a0c0] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x720d8e6808c0] video:4KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    9 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.84 bitrate=N/A speed=22.4x    

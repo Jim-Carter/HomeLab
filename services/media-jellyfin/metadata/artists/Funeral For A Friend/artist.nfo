@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Funeral For A Friend</title>
+  <runtime>13</runtime>
+  <genre>Punk</genre>
+  <musicbrainzartistid>199d0ab3-22c0-4c00-b99d-257f591dda1f</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Funeral For A Friend/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Funeral For A Friend/backdrop.jpg</fanart>
+  </art>
+</artist>

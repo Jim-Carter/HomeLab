@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Tony Bennett</title>
+  <runtime>30</runtime>
+  <genre>Other</genre>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>8be0594f-8c13-46bb-ab06-f93ffba5c776</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Tony Bennett/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Tony Bennett/backdrop.jpg</fanart>
+  </art>
+</artist>

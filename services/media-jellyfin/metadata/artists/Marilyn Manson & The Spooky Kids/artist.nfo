@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Marilyn Manson &amp; The Spooky Kids</title>
+  <runtime>7</runtime>
+  <genre>General Unclassifiable</genre>
+  <musicbrainzartistid>5dfdca28-9ddc-4853-933c-8bc97d87beec</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Marilyn Manson &amp; The Spooky Kids/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Marilyn Manson &amp; The Spooky Kids/backdrop.jpg</fanart>
+  </art>
+</artist>

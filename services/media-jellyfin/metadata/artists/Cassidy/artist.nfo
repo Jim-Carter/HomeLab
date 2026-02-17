@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Cassidy</title>
+  <runtime>7</runtime>
+  <genre>Hip Hop</genre>
+  <musicbrainzartistid>32090ac9-6e46-47c5-b9ce-69c504a4a7bc</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Cassidy/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Cassidy/backdrop.jpg</fanart>
+  </art>
+</artist>

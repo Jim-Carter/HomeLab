@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>0001-01-01 00:00:00</dateadded>
+  <title>Wham!</title>
+  <runtime>12</runtime>
+  <genre>Pop</genre>
+  <genre>Top 40</genre>
+  <musicbrainzartistid>d570bb31-b9ca-45a4-a2d9-11b186d9c159</musicbrainzartistid>
+  <art>
+    <poster>/var/lib/jellyfin/metadata/artists/Wham!/folder.jpg</poster>
+    <fanart>/var/lib/jellyfin/metadata/artists/Wham!/backdrop.jpg</fanart>
+  </art>
+</artist>
