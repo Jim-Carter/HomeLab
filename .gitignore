@@ -4,3 +4,12 @@ core*
 home-assistant_v2.db
 home-assistant_v2.db-shm
 home-assistant_v2.db-wal
+
+# Media app databases (too big for normal git)
+services/media-jellyfin/**/jellyfin.db
+services/media-lidarr/**/lidarr.db
+services/media-sonarr/**/sonarr.db
+services/media-radarr/**/radarr.db
+services/media-bazarr/**/*.db
+services/media-sabnzbd/**/*.db
+
