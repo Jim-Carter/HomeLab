@@ -1,0 +1,2 @@
+/config/.local/share/code-server/coder-logs/20240814-0210-01-code-server-stdout.log
+/config/.local/share/code-server/coder-logs/20240826-1035-01-code-server-stdout.log

@@ -1,0 +1,1 @@
+[{"cgroup-mode":2,"cpu":0.400318979266348,"disk":17902870528,"id":"node/proxmox","level":"","maxcpu":2,"maxdisk":100861726720,"maxmem":16632967168,"mem":3352698880,"node":"proxmox","status":"online","type":"node","uptime":239357}]

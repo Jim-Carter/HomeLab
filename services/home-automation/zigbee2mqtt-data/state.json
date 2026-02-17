@@ -1,0 +1,18 @@
+{
+    "0x00124b001d44106f": {
+        "state": "ON",
+        "brightness": 51,
+        "color_mode": "color_temp",
+        "color_temp": 454,
+        "color": {
+            "x": 0.5056,
+            "y": 0.4152
+        }
+    },
+    "0x0000000000426539": {
+        "linkquality": 219
+    },
+    "0x00178801020d28a3": {
+        "battery": 100
+    }
+}

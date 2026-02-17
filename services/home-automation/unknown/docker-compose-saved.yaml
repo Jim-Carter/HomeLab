@@ -1,0 +1,301 @@
+######################### NETWORKS  
+## set trusted docker internal network
+#networks:
+#  default:
+#      ipam:  
+#        config: 
+#         - subnet: 172.10.0.0/24
+########################### NETWORKS
+networks:
+  default:
+    driver: bridge
+  socket_proxy:
+    name: socket_proxy
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.91.0/24
+  proxy:
+    external: true
+ 
+include:
+  ########################### SERVICES
+  # PREFIX udms = Ultimate Docker Media Server
+  # HOSTNAME=udms - defined in .env
+ 
+  # CORE
+  #- compose/$HOSTNAME/socket-proxy.yml 
+  - compose/socket-proxy.yml
+
+secrets:
+  cf_api_token:
+    file: ./cf_api_token.txt  
+
+#volumes:
+#  - /run/dbus:/run/dbus:ro
+
+services:  
+  orb-docker:
+    image: orbforge/orb:latest
+    container_name: orb-sensor # Optional: Give the container a specific name
+    network_mode: host # Optional: alternatively you can use 'bridge' mode and map ports :7443 and :5353
+    volumes:
+      - orb-data:/root/.config/orb # Persists Orb configuration
+    # Optional: Limit resources if needed
+    # deploy:
+    #   resources:
+    #     limits:
+    #       memory: 512m
+    restart: always # Ensures Orb restarts if it stops or on system reboot
+    labels:
+      - 'com.centurylinklabs.watchtower.enable=true' # Enable auto-updates with Watchtower
+      - 'com.centurylinklabs.watchtower.scope=orb' # Scope for Watchtower to monitor
+
+  # Optional: Watchtower automatically updates the Orb image when a new version is released
+  watchtower:
+    image: containrrr/watchtower
+    container_name: watchtower
+    restart: unless-stopped
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock # Required to monitor other containers
+    command: --label-enable --scope orb --interval 3600 # Check for updates every hour (3600s)
+
+  traefik:
+    image: traefik:latest
+    container_name: traefik
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - proxy
+    ports:
+      - 80:80
+      - 443:443
+    environment:
+      CF_DNS_API_TOKEN_FILE: /run/secrets/cf_api_token 
+      TRAEFIK_DASHBOARD_CREDENTIALS: ${TRAEFIK_DASHBOARD_CREDENTIALS}
+      # If you choose to use an API Key instead of a Token, specify your email as well
+      # - CF_API_EMAIL=user@example.com
+      # - CF_API_KEY=YOUR_API_KEY
+      STOP_GRACE_PERIOD: 30s
+    secrets:
+      - cf_api_token
+    env_file: .env
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /opt/traefik/data/traefik.yml:/traefik.yml:ro
+      - /opt/traefik/data/acme.json:/acme.json
+      - /opt/traefik/data/config.yml:/config.yml:ro
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.traefik.entrypoints=http"
+      - "traefik.http.routers.traefik.rule=Host(`traefik.local.carter-home.com`)"
+      - "traefik.http.middlewares.traefik-auth.basicauth.users=${TRAEFIK_DASHBOARD_CREDENTIALS}"
+      - "traefik.http.middlewares.traefik-https-redirect.redirectscheme.scheme=https"
+      - "traefik.http.middlewares.sslheader.headers.customrequestheaders.X-Forwarded-Proto=https"
+      - "traefik.http.routers.traefik.middlewares=traefik-https-redirect"
+      - "traefik.http.routers.traefik-secure.entrypoints=https"
+      - "traefik.http.routers.traefik-secure.rule=Host(`traefik.local.carter-home.com`)"
+      - "traefik.http.routers.traefik-secure.middlewares=traefik-auth"
+      - "traefik.http.routers.traefik-secure.tls=true"
+      - "traefik.http.routers.traefik-secure.tls.certresolver=cloudflare"
+      - "traefik.http.routers.traefik-secure.tls.domains[0].main=carter-home.com"
+      - "traefik.http.routers.traefik-secure.tls.domains[0].sans=*.carter-home.com"
+      - "traefik.http.routers.traefik-secure.service=api@internal"
+
+
+  whoami:
+    image: "traefik/whoami"
+    container_name: "simple-service"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.whoami.rule=Host(`whoami.local`)"
+      - "traefik.http.routers.whoami.entrypoints=http"
+
+
+  archivebox:
+    image: archivebox/archivebox:dev
+    ports:
+      - 8000:8000
+    environment:
+      # add any ArchiveBox config options you want here
+      - ALLOWED_HOSTS=*
+      - ADMIN_USERNAME=admin
+      - ADMIN_PASSWORD=weewoo
+      - MEDIA_MAX_SIZE=750m
+      - PUBLIC_INDEX=True
+      - PUBLIC_SNAPSHOTS=True
+      - PUBLIC_ADD_VIEW=False
+    volumes:
+      - /opt/archivebox/data:/data/
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.archivebox.rule=Host(`archivebox.local.carter-home.com`)"
+      - "traefik.http.routers.archivebox.entrypoints=https"
+      - "traefik.http.routers.archivebox.tls=true"
+      - "traefik.http.services.archivebox.loadbalancer.server.port=8000"
+    networks:
+      - proxy
+
+  changedetection:  # Name of the service/container being defined.
+    image: lscr.io/linuxserver/changedetection.io:latest  # Docker image to use for this service.
+    container_name: changedetection  # Assigns a specific name to the container instance.
+    environment:
+      - PUID=1000  # User ID for the process inside the container.
+      - PGID=1000  # Group ID for the process inside the container.
+      - TZ=America/Chicago  # Timezone setting for the container.
+      - BASE_URL= # Optional: If provided, it might be used to configure the base URL.
+    volumes:
+      - /data/changedetection/config:/config  # Mounts a host directory to a directory inside the container.
+    ports:
+      - 5000:5000  # Maps port 5000 from the host to port 5000 in the container.
+    restart: unless-stopped  # Defines the restart policy for the container.
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.changedetection.rule=Host(`changedetection.local.carter-home.com`)"
+      - "traefik.http.routers.changedetection.entrypoints=https"
+      - "traefik.http.routers.changedetection.tls=true"
+      - "traefik.http.services.changedetection.loadbalancer.server.port=5000"
+    networks:
+      - proxy
+
+  homeassistant:
+    container_name: homeassistant
+    image: "ghcr.io/home-assistant/home-assistant:stable"
+    volumes:
+      - /opt/homeassistant/config:/config
+      - /etc/localtime:/etc/localtime:ro
+    restart: unless-stopped
+    privileged: true
+    #network_mode: host
+    ports:
+      - "8123:8123"   # trying this and networks / proxy for traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.homeassistant.rule=Host(`homeassistant.local.carter-home.com`)"
+      - "traefik.http.routers.homeassistant.entrypoints=https"
+      - "traefik.http.routers.homeassistant.tls=true"
+      - "traefik.http.services.homeassistant.loadbalancer.server.port=8123"  
+    networks: 
+      - proxy
+
+    
+  portainer:
+    container_name: portainer
+    image: portainer/portainer-ce:sts
+    restart: always
+    ports:
+      - "9000:9000/tcp"
+    environment:
+      - TZ=America/Chicago
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /opt/portainer:/data
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.portainer.rule=Host(`portainer.local.carter-home.com`)"
+      - "traefik.http.routers.portainer.entrypoints=https"
+      - "traefik.http.routers.portainer.tls=true"
+      - "traefik.http.services.portainer.loadbalancer.server.port=9000"
+    networks:
+      - proxy
+
+
+  mosquitto:
+    image: eclipse-mosquitto
+    hostname: mosquitto
+    container_name: mosquitto
+    restart: unless-stopped
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+      - /opt/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf 
+      - /opt/mosquitto/mosquitto.passwd:/mosquitto/config/mosquitto.passwd
+
+
+# Zigbee2mqtt
+  zigbee2mqtt:
+    container_name: zigbee2mqtt
+    image: koenkk/zigbee2mqtt
+    restart: unless-stopped
+    volumes:
+        - /opt/zigbee2mqtt/data:/app/data
+        - /run/udev:/run/udev:ro
+    ports:
+        # Frontend port
+        - 8080:8080
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.zigbee2mqtt.rule=Host(`zigbee2mqtt.local.carter-home.com`)"
+      - "traefik.http.routers.zigbee2mqtt.entrypoints=https"
+      - "traefik.http.routers.zigbee2mqtt.tls=true"
+      - "traefik.http.services.zigbee2mqtt.loadbalancer.server.port=8080"            
+    environment:
+        - TZ=America/Chicago
+    devices:
+        # Make sure this matched your adapter location
+        - /dev/ttyUSB0:/dev/ttyACM0
+        #- /dev/serial/by-id/usb-Texas_Instruments_TI_CC2531_USB_CDC___0X00124B0018ED3DDF-if00:/dev/ttyACM0
+        #- /dev/serial/by-id/usb-Nabu_Casa_SkyConnect_v1.0_a25fdfe1668dec11905669e883c5466d-if00-port0:/dev/ttyACM0
+    networks:
+        - proxy
+
+  govee2mqtt:
+    image: ghcr.io/wez/govee2mqtt:latest
+    container_name: govee2mqtt
+    restart: unless-stopped
+    env_file:
+      - /opt/govee2mqtt/.env
+    # Host networking is required
+    network_mode: host
+     
+
+  duplicati:
+    image: lscr.io/linuxserver/duplicati:latest
+    container_name: duplicati
+    environment:
+      - PUID=1000
+      - PGID=1001
+      - TZ=America/Chicago
+      - CLI_ARGS= #optional
+      - DUPLICATI__WEBSERVICE_PASSWORD=power2
+    volumes:
+      - /opt/duplicati/appdata/config:/config
+      - /opt:/source
+    ports:
+      - 8200:8200
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.duplicati.rule=Host(`duplicati.local.carter-home.com`)"
+      - "traefik.http.routers.duplicati.entrypoints=https"
+      - "traefik.http.routers.duplicati.tls=true"
+      - "traefik.http.services.duplicati.loadbalancer.server.port=8200"
+    networks:
+      - proxy
+
+  esphome:
+    container_name: esphome
+    image: esphome/esphome
+    volumes:
+      - /opt/esphome/config:/config
+      - /etc/localtime:/etc/localtime:ro
+    restart: always
+    privileged: true
+    network_mode: host
+    #ports: 
+    #  - 6052:6052
+    #networks:
+    #  - proxy
+    #labels:
+    #  - "traefik.enable=true"
+    #  - "traefik.http.routers.esphome.rule=Host(`esphome.local.carter-home.com`)"
+    #  - "traefik.http.routers.esphome.entrypoints=https"
+    #  - "traefik.http.routers.esphome.tls=true"
+    #  - "traefik.http.services.esphome.loadbalancer.server.port=6052"
+
+volumes:
+  orb-data: # Creates a named volume for persistent data
+      

@@ -1,0 +1,204 @@
+- id: '1640648857668'
+  alias: Light up outside early
+  description: ''
+  trigger:
+  - platform: sun
+    event: sunset
+    offset: '-30'
+  condition: []
+  action:
+  - action: scene.turn_on
+    metadata: {}
+    target:
+      entity_id: scene.outside_early
+  mode: single
+- id: '1640648916044'
+  alias: Dim outdoor lights at 9:30p
+  description: ''
+  trigger:
+  - platform: time
+    at: '21:30:00'
+  condition: []
+  action:
+  - scene: scene.outside_late
+  mode: single
+- id: '1640650206540'
+  alias: Turn on kitchen counter in the mornings
+  description: ''
+  triggers:
+  - at: 06:30:00
+    trigger: time
+  conditions: []
+  actions:
+  - type: turn_on
+    device_id: fe46cc4fbd2b8b3e4ba0aaaa78e3e9e8
+    entity_id: ceb5cfbbe7ccba29a6ce2c083170d063
+    domain: light
+    brightness_pct: 100
+  mode: single
+- id: '1679346375184'
+  alias: Presence Detected - Set vSwitch
+  description: ''
+  trigger:
+  - type: present
+    platform: device
+    device_id: 46daacb41685f7d57ce3d0cbdde8925d
+    entity_id: binary_sensor.office_presence_sensor_presence
+    domain: binary_sensor
+  condition: []
+  action:
+  - service: input_boolean.turn_on
+    data: {}
+    target:
+      entity_id: input_boolean.vswitch_office_presence
+  mode: single
+- id: '1722715995828'
+  alias: Office Lights Brightness Up
+  description: ''
+  trigger:
+  - platform: device
+    domain: mqtt
+    device_id: 87207d5815d8b2e1222b3836d8e189ca
+    type: action
+    subtype: brightness_move_up
+  condition: []
+  action:
+  - device_id: 409696d51e3e57609c164c91af27418f
+    domain: light
+    entity_id: 97aba231e89306a9a51c6a448db2f3ff
+    type: brightness_increase
+  - device_id: 5d46736f6e75f9681e9fbb249584f54c
+    domain: light
+    entity_id: eef3f168d915c6d80c40b00ab254087f
+    type: brightness_increase
+  - device_id: 5ef9dedab33a5688c032e6ab6aee7705
+    domain: light
+    entity_id: 46a6edb5abf0c1e0e275ca0bcbcd5b6d
+    type: brightness_increase
+  - device_id: 6aef59d00fc83b4e1ca38a5d9804aded
+    domain: light
+    entity_id: 79fbf695952d308fffb69576f6cb916e
+    type: brightness_increase
+  mode: single
+- id: '1722716160724'
+  alias: Office Light Brightness Down
+  description: ''
+  trigger:
+  - platform: device
+    domain: mqtt
+    device_id: 87207d5815d8b2e1222b3836d8e189ca
+    type: action
+    subtype: brightness_move_down
+  condition: []
+  action:
+  - device_id: 409696d51e3e57609c164c91af27418f
+    domain: light
+    entity_id: 97aba231e89306a9a51c6a448db2f3ff
+    type: brightness_decrease
+  - device_id: 5d46736f6e75f9681e9fbb249584f54c
+    domain: light
+    entity_id: eef3f168d915c6d80c40b00ab254087f
+    type: brightness_decrease
+  - device_id: 5ef9dedab33a5688c032e6ab6aee7705
+    domain: light
+    entity_id: 46a6edb5abf0c1e0e275ca0bcbcd5b6d
+    type: brightness_decrease
+  - device_id: 6aef59d00fc83b4e1ca38a5d9804aded
+    domain: light
+    entity_id: 79fbf695952d308fffb69576f6cb916e
+    type: brightness_decrease
+  mode: single
+- id: '1729035474248'
+  alias: Turn off Driveway Lamp at 8:15p
+  description: ''
+  triggers:
+  - at: '20:15:00'
+    trigger: time
+  conditions: []
+  actions:
+  - action: scene.turn_on
+    metadata: {}
+    target:
+      entity_id: scene.driveway_lamp_off_early
+  - action: light.turn_on
+    metadata: {}
+    data:
+      brightness_pct: 22
+    target:
+      device_id: 44f3e45b0745a1c49c2e17bf4e9f1f59
+  mode: single
+- id: '1729035974199'
+  alias: Office Startup
+  description: ''
+  trigger:
+  - platform: time
+    at: 06:30:00
+  condition:
+  - condition: time
+    weekday:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+  action:
+  - action: switch.turn_on
+    metadata: {}
+    data: {}
+    target:
+      device_id:
+      - e5779f466504b19fa4b70162b5c024ad
+      - 409696d51e3e57609c164c91af27418f
+      - 6aef59d00fc83b4e1ca38a5d9804aded
+      - 5d46736f6e75f9681e9fbb249584f54c
+      - 5ef9dedab33a5688c032e6ab6aee7705
+  mode: single
+- id: '1729107577427'
+  alias: Turn off outdoor lights in the morning
+  description: ''
+  triggers:
+  - event: sunrise
+    offset: -00:15:00
+    trigger: sun
+  conditions: []
+  actions:
+  - action: scene.turn_on
+    metadata: {}
+    target:
+      entity_id: scene.outside_morning
+    data: {}
+  mode: single
+- id: '1729120253448'
+  alias: Lower Bathroom Light Motion
+  description: Turn on lower bathroom light when motion is detected and keep it on
+    for 10 minutes.
+  triggers:
+  - entity_id:
+    - binary_sensor.lower_bathroom_motion_sensor_occupancy
+    trigger: state
+  conditions: []
+  actions:
+  - target:
+      area_id: lower_bathroom
+    action: light.turn_on
+    data:
+      brightness_pct: 100
+      transition: 2
+  - wait_for_trigger:
+    - entity_id:
+      - binary_sensor.lower_bathroom_motion_sensor_occupancy
+      to: 'on'
+      trigger: state
+    - trigger: light.turned_on
+      target:
+        area_id: lower_bathroom
+      options:
+        behavior: any
+    timeout: 00:10:00
+    continue_on_timeout: true
+  - action: light.turn_off
+    data:
+      transition: 4
+    target: {}
+  mode: queued
+  max: 10

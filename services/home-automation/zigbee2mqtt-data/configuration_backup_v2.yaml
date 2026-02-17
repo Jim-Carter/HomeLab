@@ -1,0 +1,69 @@
+homeassistant: true
+mqtt:
+  server: mqtt://192.168.50.253:1883
+  user: mqtt_user
+  password: anymore*calmly@PET6dyestuff
+frontend:
+  port: 8080
+serial:
+  port: /dev/ttyACM0
+  adapter: ember
+  baudrate: 115200
+  rtscts: true
+advanced:
+  log_level: info
+device_options: {}
+devices:
+  '0xd0cf5efffec8d9b7':
+    friendly_name: Faye Garage Motion Sensor
+  '0xd0cf5efffeb876da':
+    friendly_name: Jim Garage Motion Sensor
+  '0xd0cf5efffe53fafb':
+    friendly_name: Living Room Motion Sensor
+  '0xd0cf5efffe53facf':
+    friendly_name: Office Motion Sensor
+  '0x00124b002919553b':
+    friendly_name: Zigbee Plug
+  '0x00124b00291917ce':
+    friendly_name: Router Power Plug
+  '0x00124b002919729f':
+    friendly_name: Mesh Router Plug
+  '0xe0798dfffecf85d8':
+    friendly_name: Office Presence Sensor
+  '0x00158d0008f34e99':
+    friendly_name: Washer Vibration Sensor
+  '0x00158d0008d88136':
+    friendly_name: Dryer Vibration Sensor
+  '0x00158d0007f03776':
+    friendly_name: Upper Bathroom Humidity Sensor
+  '0xa4c1382dd961e7d1':
+    friendly_name: Lower Bathroom Motion Sensor
+  '0xa4c138a468124e7b':
+    friendly_name: Lower Hallway Motion Sensor
+  '0xa4c1384d6bc9260f':
+    friendly_name: Mia Workspace Motion Sensor
+  '0x286d970001032b58':
+    friendly_name: SmartThings Sensor
+  '0x286d970001003eda':
+    friendly_name: SmartThings Sensor II
+  '0x00124b001d44106f':
+    friendly_name: fireplace strip
+  '0xa4c1383acc645d05':
+    friendly_name: Neon Rope Light
+  '0x0000000000426539':
+    friendly_name: Hue Tap Button
+  '0x000b57fffe2cbce4':
+    friendly_name: Wireless Dimmer Switch I
+  '0x000b57fffe277068':
+    friendly_name: '0x000b57fffe277068'
+  '0x00178801020d28a3':
+    friendly_name: Hue Dimmer Switch
+  '0x00124b00291961da':
+    friendly_name: Sonoff Switch
+  '0x001788010d374025':
+    friendly_name: '0x001788010d374025'
+  '0x001788010d372b6d':
+    friendly_name: '0x001788010d372b6d'
+  '0x0017880103076ee3':
+    friendly_name: '0x0017880103076ee3'
+version: 2

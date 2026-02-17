@@ -1,0 +1,65 @@
+FE:1A:A4:C1:38:7D:44:D2:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+75:9F:A4:C1:38:90:70:13:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+D5:4B:A4:C1:38:D7:94:C9:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+91:40:60:74:F4:5E:4D:F8:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+38:E5:60:74:F4:5B:26:AE:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+34:E5:60:74:F4:5A:49:90:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+45:A0:60:74:F4:5E:52:1A:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+15:30:C8:30:38:35:0B:4A:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+80:07:C7:32:34:35:31:38:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+D3:20:60:74:F4:80:43:04:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+41:FA:60:74:F4:84:0A:2C:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+30:BF:60:74:F4:7F:D7:FF:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false
+B1:E3:CF:35:33:33:3A:64:
+  set_brightness_max:
+  get_brightness_max: 100
+  before_set_brightness_turn_on: false
+  config_offline_is_off: false

@@ -1,0 +1,140 @@
+######################### NETWORKS  
+## set trusted docker internal network
+#networks:
+#  default:
+#      ipam:  
+#        config: 
+#         - subnet: 172.10.0.0/24
+########################### NETWORKS
+networks:
+  default:
+    driver: bridge
+  socket_proxy:
+    name: socket_proxy
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.91.0/24
+ 
+include:
+  ########################### SERVICES
+  # PREFIX udms = Ultimate Docker Media Server
+  # HOSTNAME=udms - defined in .env
+ 
+  # CORE
+  #- compose/$HOSTNAME/socket-proxy.yml 
+  - compose/socket-proxy.yml
+  
+
+services:
+  archivebox:
+    image: archivebox/archivebox:dev
+    ports:
+      - 8000:8000
+    environment:
+      # add any ArchiveBox config options you want here
+      - ALLOWED_HOSTS=*
+      - ADMIN_USERNAME=admin
+      - ADMIN_PASSWORD=weewoo
+      - MEDIA_MAX_SIZE=750m
+      - PUBLIC_INDEX=True
+      - PUBLIC_SNAPSHOTS=True
+      - PUBLIC_ADD_VIEW=False
+    volumes:
+      - /opt/archivebox/data:/data/
+
+  changedetection:  # Name of the service/container being defined.
+    image: lscr.io/linuxserver/changedetection.io:latest  # Docker image to use for this service.
+    container_name: changedetection  # Assigns a specific name to the container instance.
+    environment:
+      - PUID=1000  # User ID for the process inside the container.
+      - PGID=1000  # Group ID for the process inside the container.
+      - TZ=America/Chicago  # Timezone setting for the container.
+      - BASE_URL= # Optional: If provided, it might be used to configure the base URL.
+    volumes:
+      - /data/changedetection/config:/config  # Mounts a host directory to a directory inside the container.
+    ports:
+      - 5000:5000  # Maps port 5000 from the host to port 5000 in the container.
+    restart: unless-stopped  # Defines the restart policy for the container.
+
+  homeassistant:
+    container_name: homeassistant
+    image: "ghcr.io/home-assistant/home-assistant:stable"
+    volumes:
+      - /opt/homeassistant/config:/config
+      - /etc/localtime:/etc/localtime:ro
+    restart: unless-stopped
+    privileged: true
+    network_mode: host
+
+    
+  portainer:
+    container_name: portainer
+    image: portainer/portainer-ce:sts
+    restart: always
+    ports:
+      - "9000:9000/tcp"
+    environment:
+      - TZ=America/Chicago
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /opt/portainer:/data
+    
+  mosquitto:
+    image: eclipse-mosquitto
+    hostname: mosquitto
+    container_name: mosquitto
+    restart: unless-stopped
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+      - /opt/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf 
+      - /opt/mosquitto/mosquitto.passwd:/mosquitto/config/mosquitto.passwd
+
+
+# Zigbee2mqtt
+  zigbee2mqtt:
+    container_name: zigbee2mqtt
+    image: koenkk/zigbee2mqtt
+    restart: unless-stopped
+    volumes:
+        - /opt/zigbee2mqtt/data:/app/data
+        - /run/udev:/run/udev:ro
+    ports:
+        # Frontend port
+        - 8080:8080
+    environment:
+        - TZ=America/Chicago
+    devices:
+        # Make sure this matched your adapter location
+        - /dev/ttyUSB0:/dev/ttyACM0
+        #- /dev/serial/by-id/usb-Texas_Instruments_TI_CC2531_USB_CDC___0X00124B0018ED3DDF-if00:/dev/ttyACM0
+        #- /dev/serial/by-id/usb-Nabu_Casa_SkyConnect_v1.0_a25fdfe1668dec11905669e883c5466d-if00-port0:/dev/ttyACM0
+            
+
+  pv2mqtt:
+    image: ghcr.io/wez/govee2mqtt:latest
+    container_name: govee2mqtt
+    restart: unless-stopped
+    env_file:
+      - /opt/govee2mqtt/.env
+    # Host networking is required
+    network_mode: host
+     
+
+  duplicati:
+    image: lscr.io/linuxserver/duplicati:latest
+    container_name: duplicati
+    environment:
+      - PUID=1000
+      - PGID=1001
+      - TZ=America/Chicago
+      - CLI_ARGS= #optional
+    volumes:
+      - /opt/duplicati/appdata/config:/config
+      - /opt:/source
+    ports:
+      - 8200:8200
+    restart: unless-stopped
+

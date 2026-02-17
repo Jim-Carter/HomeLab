@@ -1,0 +1,3418 @@
+- id: '1640647681873'
+  name: Outside Early
+  entities:
+    light.garage_outdoor:
+      supported_color_modes:
+      - brightness
+      color_mode: brightness
+      brightness: 255
+      is_hue_group: true
+      hue_scenes:
+      - Dimmed
+      - Nightlight
+      - Bright
+      hue_type: room
+      lights:
+      - Garage Outdoor Lower 2 of 2
+      - Garage Outdoor Upper 2 of 2
+      - Garage Outdoor Upper 1 of 2
+      - Garage Outdoor Lower 1 of 2
+      entity_id:
+      - light.garage_outdoor_lower_1_of_2
+      - light.garage_outdoor_upper_2_of_2
+      - light.garage_outdoor_upper_1_of_2
+      - light.garage_outdoor_lower_2_of_2
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Garage Outdoor
+      supported_features: 40
+      state: 'on'
+    light.front_door:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 2724
+      color_temp: 367
+      hs_color:
+      - 28.343
+      - 64.962
+      rgb_color:
+      - 255
+      - 167
+      - 89
+      xy_color:
+      - 0.524
+      - 0.387
+      is_hue_group: true
+      hue_scenes:
+      - Savanna sunset
+      - Spring blossom
+      - Concentrate
+      - Test
+      - Relax
+      - Energize
+      - Arctic aurora
+      - Nightlight
+      - Bright
+      - Tropical twilight
+      - Dimmed
+      - Read
+      hue_type: room
+      lights:
+      - Front Door Color Light 1 of 1
+      entity_id:
+      - light.front_door_color_light_1_of_1
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Front Door
+      supported_features: 40
+      state: 'on'
+    light.front_driveway_lamp:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 2724
+      color_temp: 367
+      hs_color:
+      - 28.343
+      - 64.962
+      rgb_color:
+      - 255
+      - 167
+      - 89
+      xy_color:
+      - 0.524
+      - 0.387
+      is_hue_group: true
+      hue_scenes:
+      - Savanna sunset
+      - Dimmed
+      - Concentrate
+      - Relax
+      - Tropical twilight
+      - Nightlight
+      - Arctic aurora
+      - Bright
+      - Spring blossom
+      - Energize
+      - Read
+      hue_type: room
+      lights:
+      - Front Driveway Color Bulb 1 of 1
+      entity_id:
+      - light.front_driveway_color_bulb_1_of_1
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Front Driveway Lamp
+      supported_features: 40
+      state: 'on'
+    light.patio:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode: color_temp
+      brightness: 128
+      color_temp_kelvin: 6535
+      color_temp: 153
+      hs_color:
+      - 54.768
+      - 1.6
+      rgb_color:
+      - 255
+      - 254
+      - 250
+      xy_color:
+      - 0.326
+      - 0.333
+      is_hue_group: true
+      hue_scenes:
+      - Savanna sunset
+      - Spring blossom
+      - Moonlight
+      - Concentrate
+      - Relax
+      - Nightlight
+      - Arctic aurora
+      - Energize
+      - Bright
+      - Tropical twilight
+      - Dimmed
+      - Read
+      hue_type: room
+      lights:
+      - Patio lightstrip 5m 1 of 3
+      - Patio lightstrip 2m 2 of 3
+      - Patio lightstrip 2m 3 of 3
+      entity_id:
+      - light.patio_lightstrip_2m_3_of_3
+      - light.patio_lightstrip_5m_1_of_3
+      - light.patio_lightstrip_2m_2_of_3
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Patio
+      supported_features: 40
+      state: 'on'
+    light.back_yard:
+      supported_color_modes:
+      - brightness
+      color_mode: brightness
+      brightness: 255
+      is_hue_group: true
+      hue_scenes:
+      - Dimmed
+      - Nightlight
+      - Bright
+      hue_type: room
+      lights:
+      - Back Yard Upper 2 of 2
+      - Back Yard 2 of 2
+      - Back Yard Upper 1 of 2
+      - Back Yard 1 of 2
+      entity_id:
+      - light.back_yard_upper_2_of_2
+      - light.back_yard_1_of_2
+      - light.back_yard_2_of_2
+      - light.back_yard_upper_1_of_2
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Back Yard
+      supported_features: 40
+      state: 'on'
+  icon: mdi:lightbulb-group
+  metadata: {}
+- id: '1640647801902'
+  name: Outside Late
+  entities:
+    light.back_yard:
+      supported_color_modes:
+      - brightness
+      color_mode: brightness
+      brightness: 3
+      is_hue_group: true
+      hue_scenes:
+      - Nightlight
+      - Bright
+      - Dimmed
+      hue_type: room
+      lights:
+      - Back Yard 2 of 2
+      - Back Yard Upper 1 of 2
+      - Back Yard Upper 2 of 2
+      - Back Yard 1 of 2
+      entity_id:
+      - light.back_yard_upper_2_of_2
+      - light.back_yard_1_of_2
+      - light.back_yard_upper_1_of_2
+      - light.back_yard_2_of_2
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Back Yard
+      supported_features: 40
+      state: 'on'
+    light.patio:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      is_hue_group: true
+      hue_scenes:
+      - Energize
+      - Nightlight
+      - Relax
+      - Tropical twilight
+      - Dimmed
+      - Moonlight
+      - Concentrate
+      - Read
+      - Bright
+      - Spring blossom
+      - Arctic aurora
+      - Savanna sunset
+      hue_type: room
+      lights:
+      - Patio lightstrip 2m 2 of 3
+      - Patio lightstrip 2m 3 of 3
+      - Patio lightstrip 5m 1 of 3
+      entity_id:
+      - light.patio_lightstrip_5m_1_of_3
+      - light.patio_lightstrip_2m_3_of_3
+      - light.patio_lightstrip_2m_2_of_3
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Patio
+      supported_features: 40
+      state: 'off'
+    light.garage_outdoor:
+      supported_color_modes:
+      - brightness
+      color_mode: brightness
+      brightness: 3
+      is_hue_group: true
+      hue_scenes:
+      - Dimmed
+      - Bright
+      - Nightlight
+      hue_type: room
+      lights:
+      - Garage Outdoor Lower 2 of 2
+      - Garage Outdoor Upper 2 of 2
+      - Garage Outdoor Lower 1 of 2
+      - Garage Outdoor Upper 1 of 2
+      entity_id:
+      - light.garage_outdoor_upper_2_of_2
+      - light.garage_outdoor_lower_2_of_2
+      - light.garage_outdoor_upper_1_of_2
+      - light.garage_outdoor_lower_1_of_2
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Garage Outdoor
+      supported_features: 40
+      state: 'on'
+    light.front_door:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode: color_temp
+      brightness: 48
+      color_temp_kelvin: 2724
+      color_temp: 367
+      hs_color:
+      - 28.343
+      - 64.962
+      rgb_color:
+      - 255
+      - 167
+      - 89
+      xy_color:
+      - 0.524
+      - 0.387
+      is_hue_group: true
+      hue_scenes:
+      - Energize
+      - Dimmed
+      - Relax
+      - Nightlight
+      - Tropical twilight
+      - Concentrate
+      - Test
+      - Read
+      - Bright
+      - Spring blossom
+      - Arctic aurora
+      - Savanna sunset
+      hue_type: room
+      lights:
+      - Front Door Color Light 1 of 1
+      entity_id:
+      - light.front_door_color_light_1_of_1
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Front Door
+      supported_features: 40
+      state: 'on'
+    light.front_driveway_lamp:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      is_hue_group: true
+      hue_scenes:
+      - Energize
+      - Nightlight
+      - Relax
+      - Tropical twilight
+      - Dimmed
+      - Concentrate
+      - Read
+      - Bright
+      - Spring blossom
+      - Arctic aurora
+      - Savanna sunset
+      hue_type: room
+      lights:
+      - Front Driveway Color Bulb 1 of 1
+      entity_id:
+      - light.front_driveway_color_bulb_1_of_1
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Front Driveway Lamp
+      supported_features: 40
+      state: 'off'
+  icon: mdi:lightbulb-group
+  metadata: {}
+- id: '1640648227171'
+  name: Outside Morning
+  entities:
+    light.front_door:
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      is_hue_group: true
+      hue_scenes:
+      - Bright
+      - Spring blossom
+      - Relax
+      - Read
+      - Concentrate
+      - Energize
+      - Test
+      - Tropical twilight
+      - Arctic aurora
+      - Dimmed
+      - Nightlight
+      - Savanna sunset
+      hue_type: room
+      lights:
+      - Front Door Color Light 1 of 1
+      icon: mdi:lightbulb-group
+      friendly_name: Front Door
+      supported_features: 40
+      state: 'off'
+    light.garage_outdoor:
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      is_hue_group: true
+      hue_scenes:
+      - Bright
+      - Nightlight
+      - Dimmed
+      hue_type: room
+      lights:
+      - Garage Outdoor Lower 2 of 2
+      - Garage Outdoor Lower 1 of 2
+      - Garage Outdoor Upper 2 of 2
+      - Garage Outdoor Upper 1 of 2
+      - Front Lamp Post Color 1 of 1
+      icon: mdi:lightbulb-group
+      friendly_name: Garage Outdoor
+      supported_features: 40
+      state: 'off'
+    light.patio:
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      is_hue_group: true
+      hue_scenes:
+      - Bright
+      - Spring blossom
+      - Relax
+      - Read
+      - Concentrate
+      - Energize
+      - Tropical twilight
+      - Moonlight
+      - Dimmed
+      - Arctic aurora
+      - Nightlight
+      - Savanna sunset
+      hue_type: room
+      lights:
+      - Patio lightstrip 2m 3 of 3
+      - Patio lightstrip 5m 1 of 3
+      - Patio lightstrip 2m 2 of 3
+      icon: mdi:lightbulb-group
+      friendly_name: Patio
+      supported_features: 40
+      state: 'off'
+    light.back_yard:
+      supported_color_modes:
+      - brightness
+      is_hue_group: true
+      hue_scenes:
+      - Bright
+      - Nightlight
+      - Dimmed
+      hue_type: room
+      lights:
+      - Back Yard 1 of 2
+      - Back Yard Upper 2 of 2
+      - Back Yard 2 of 2
+      - Back Yard Upper 1 of 2
+      icon: mdi:lightbulb-group
+      friendly_name: Back Yard
+      supported_features: 40
+      state: 'off'
+    light.front_driveway_lamp:
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      is_hue_group: true
+      hue_scenes:
+      - Bright
+      - Spring blossom
+      - Relax
+      - Read
+      - Concentrate
+      - Energize
+      - Tropical twilight
+      - Dimmed
+      - Arctic aurora
+      - Nightlight
+      - Savanna sunset
+      hue_type: room
+      lights:
+      - Front Driveway Color Bulb 1 of 1
+      icon: mdi:lightbulb-group
+      friendly_name: Front Driveway Lamp
+      supported_features: 40
+      state: 'off'
+  icon: mdi:lightbulb-group
+- id: '1661481845019'
+  name: Good night
+  entities:
+    light.kitchen_counter:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode: color_temp
+      brightness: 26
+      color_temp_kelvin: 2000
+      color_temp: 500
+      hs_color:
+      - 30.601
+      - 94.547
+      rgb_color:
+      - 255
+      - 137
+      - 14
+      xy_color:
+      - 0.598
+      - 0.383
+      is_hue_group: true
+      hue_scenes:
+      - Relax
+      - Rolling hills
+      - Natural light
+      - Nightlight
+      - Concentrate
+      - Energize
+      - Rest
+      - Read
+      - Bright
+      hue_type: room
+      lights:
+      - Stove
+      - Coffee station
+      - Kitchen Counter Sink
+      entity_id:
+      - light.stove
+      - light.kitchen_counter_sink
+      - light.coffee_station
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Kitchen Counter
+      supported_features: 40
+      state: 'on'
+    light.main_living_room:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      is_hue_group: true
+      hue_scenes:
+      - standard
+      - Relax
+      - Rolling hills
+      - Arctic aurora
+      - Read
+      - Pensive
+      - Galaxy
+      hue_type: room
+      lights:
+      - Hue bloom 2
+      - Hue lightstrip 1
+      - Hue bloom 1
+      - Living room color bulb
+      - Hue go 1
+      entity_id:
+      - light.hue_bloom_2
+      - light.living_room_color_bulb
+      - light.hue_go_1
+      - light.hue_lightstrip_1
+      - light.hue_bloom_1
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Main Living Room
+      supported_features: 40
+      state: 'off'
+    switch.cylinder_lamp_power_switch:
+      friendly_name: Cylinder Floor Lamp Power Switch
+      state: 'off'
+    switch.basement_standing_2_power_switch:
+      friendly_name: Basement Standing 2 Power Switch
+      state: 'off'
+    light.lower_bathroom:
+      min_color_temp_kelvin: 2237
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 447
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      is_hue_group: true
+      hue_scenes:
+      - Relax
+      - Dimmed
+      - Rest
+      - Among the pines
+      - Crystalline
+      - Read
+      - Nightlight
+      hue_type: room
+      lights:
+      - Lower Bathroom Bulb 1
+      - Lower Bathroom Bulb 2
+      - Lower Bathroom Bulb 3
+      entity_id:
+      - light.hue_essential_lamp_3
+      - light.hue_essential_lamp_2
+      - light.hue_essential_lamp_1
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Lower Bathroom
+      supported_features: 40
+      state: 'off'
+    switch.entire_office_power_switch:
+      friendly_name: Entire Office Power Switch
+      state: unknown
+    light.upper_hallway_2:
+      min_color_temp_kelvin: 2202
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 454
+      effect_list:
+      - ''
+      - Afternoon
+      - Aurora
+      - Birthday
+      - Blossom
+      - Candlelight
+      - Candy
+      - Cheerful
+      - Cherry blossoms
+      - Christmas
+      - Colorful
+      - Dance Party
+      - Deep sea
+      - Disco
+      - Downpour
+      - Dreamland
+      - Dreamlike
+      - Energetic
+      - Fall
+      - Father's Day
+      - Fight
+      - Fire
+      - Fireworks
+      - Flash
+      - Flow
+      - Flower Field
+      - Forest
+      - Game
+      - Glacier
+      - Gobi Desert
+      - Halloween
+      - Happy
+      - Heartbeat
+      - Karst Cave
+      - Leisure
+      - Lightning
+      - Longing
+      - Meditation
+      - Meteor shower
+      - Moonlight
+      - Morning
+      - Mother's Day
+      - Movie
+      - Mysterious
+      - Night
+      - Night Light
+      - Optimistic
+      - Party
+      - Profound
+      - Quiet
+      - Rainbow
+      - Release
+      - Rhythm
+      - Ripple
+      - Romantic
+      - Siren
+      - Sleep
+      - Spring
+      - Stacking
+      - Starry Sky
+      - Summer
+      - Sunny
+      - Sunrise
+      - Sunset
+      - Technology
+      - The Piano
+      - Tree shadow
+      - Volcano
+      - Warm
+      - Wave
+      - White Light
+      - Winter
+      - Work
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      icon: mdi:ceiling-light
+      friendly_name: Upper Hallway
+      supported_features: 44
+      state: 'off'
+    light.lower_hallway:
+      min_color_temp_kelvin: 2202
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 454
+      effect_list:
+      - ''
+      - Afternoon
+      - Aurora
+      - Birthday
+      - Blossom
+      - Candlelight
+      - Candy
+      - Cheerful
+      - Cherry blossoms
+      - Christmas
+      - Colorful
+      - Dance Party
+      - Deep sea
+      - Disco
+      - Downpour
+      - Dreamland
+      - Dreamlike
+      - Energetic
+      - Fall
+      - Father's Day
+      - Fight
+      - Fire
+      - Fireworks
+      - Flash
+      - Flow
+      - Flower Field
+      - Forest
+      - Game
+      - Glacier
+      - Gobi Desert
+      - Halloween
+      - Happy
+      - Heartbeat
+      - Karst Cave
+      - Leisure
+      - Lightning
+      - Longing
+      - Meditation
+      - Meteor shower
+      - Moonlight
+      - Morning
+      - Mother's Day
+      - Movie
+      - Mysterious
+      - Night
+      - Night Light
+      - Optimistic
+      - Party
+      - Profound
+      - Quiet
+      - Rainbow
+      - Release
+      - Rhythm
+      - Ripple
+      - Romantic
+      - Siren
+      - Sleep
+      - Spring
+      - Stacking
+      - Starry Sky
+      - Summer
+      - Sunny
+      - Sunrise
+      - Sunset
+      - Technology
+      - The Piano
+      - Tree shadow
+      - Volcano
+      - Warm
+      - Wave
+      - White Light
+      - Winter
+      - Work
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      icon: mdi:ceiling-light
+      friendly_name: Lower Hallway
+      supported_features: 44
+      state: 'off'
+    light.front_hallway:
+      restored: true
+      min_color_temp_kelvin: 2702
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 370
+      effect_list:
+      - ''
+      - Aurora
+      - Berry
+      - Birdsong
+      - Birthday
+      - Blossom
+      - Blue
+      - Care
+      - Carnival
+      - Cherry
+      - Cherry blossoms
+      - Christmas
+      - Christmas B
+      - Christmas Gift
+      - Christmas Tree
+      - Clear Sky
+      - Cornfield
+      - Crossing
+      - Dance Party
+      - Deep sea
+      - Desert
+      - Dreamland
+      - Dreamlike
+      - Drinks
+      - Dusk
+      - Dynamic
+      - Early Summer
+      - Easter
+      - Emerald
+      - Fall
+      - Father's Day
+      - Fire
+      - Firefly
+      - Fish tank
+      - Flower Field
+      - Forest
+      - Glacier
+      - Gleam
+      - Graffiti
+      - Greenfield
+      - Groovy
+      - Halloween
+      - Halloween B
+      - Happy
+      - Herbal
+      - Hypnosis
+      - Illumination
+      - Karst Cave
+      - Lavender
+      - Leisure
+      - Leisurely
+      - Longing
+      - Lush
+      - Mild
+      - Mint
+      - Moonlight
+      - Mother's Day
+      - Movie
+      - 'Music: Colorful'
+      - 'Music: Hopping'
+      - 'Music: Luminous'
+      - 'Music: Piano Keys'
+      - 'Music: Rolling'
+      - 'Music: Stippling'
+      - New Years
+      - Party
+      - Quiet
+      - Radiance
+      - Rainbow
+      - Refreshing
+      - Siren
+      - Sled
+      - Soothing
+      - Soulful
+      - Spring
+      - Spring Wind
+      - Star
+      - Summer
+      - Sunrise
+      - Sunset
+      - Sunset Glow
+      - Thanksgiving
+      - Twilight
+      - Unspoken Love
+      - Valentine's Day
+      - Warm
+      - Water Drop
+      - Waxberry
+      - White Light
+      - Wind Bell
+      - Winter
+      - Yoga
+      supported_color_modes:
+      - color_temp
+      - rgb
+      supported_features: 44
+      state: unavailable
+    light.front_hallway_3:
+      min_color_temp_kelvin: 2702
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 370
+      effect_list:
+      - ''
+      - Aurora
+      - Berry
+      - Birdsong
+      - Birthday
+      - Blossom
+      - Blue
+      - Care
+      - Carnival
+      - Cherry
+      - Cherry blossoms
+      - Christmas
+      - Christmas B
+      - Christmas Gift
+      - Christmas Tree
+      - Clear Sky
+      - Cornfield
+      - Crossing
+      - Dance Party
+      - Deep sea
+      - Desert
+      - Dreamland
+      - Dreamlike
+      - Drinks
+      - Dusk
+      - Dynamic
+      - Early Summer
+      - Easter
+      - Emerald
+      - Fall
+      - Father's Day
+      - Fire
+      - Firefly
+      - Fish tank
+      - Flower Field
+      - Forest
+      - Glacier
+      - Gleam
+      - Graffiti
+      - Greenfield
+      - Groovy
+      - Halloween
+      - Halloween B
+      - Happy
+      - Herbal
+      - Hypnosis
+      - Illumination
+      - Karst Cave
+      - Lavender
+      - Leisure
+      - Leisurely
+      - Longing
+      - Lush
+      - Mild
+      - Mint
+      - Moonlight
+      - Mother's Day
+      - Movie
+      - 'Music: Colorful'
+      - 'Music: Hopping'
+      - 'Music: Luminous'
+      - 'Music: Piano Keys'
+      - 'Music: Rolling'
+      - 'Music: Stippling'
+      - New Years
+      - Party
+      - Quiet
+      - Radiance
+      - Rainbow
+      - Refreshing
+      - Siren
+      - Sled
+      - Soothing
+      - Soulful
+      - Spring
+      - Spring Wind
+      - Star
+      - Summer
+      - Sunrise
+      - Sunset
+      - Sunset Glow
+      - Thanksgiving
+      - Twilight
+      - Unspoken Love
+      - Valentine's Day
+      - Warm
+      - Water Drop
+      - Waxberry
+      - White Light
+      - Wind Bell
+      - Winter
+      - Yoga
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      friendly_name: Front Hallway
+      supported_features: 44
+      state: 'off'
+    light.front_hallway_2:
+      min_color_temp_kelvin: 2702
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 370
+      effect_list:
+      - ''
+      - Aurora
+      - Berry
+      - Birdsong
+      - Birthday
+      - Blossom
+      - Blue
+      - Care
+      - Carnival
+      - Cherry
+      - Cherry blossoms
+      - Christmas
+      - Christmas B
+      - Christmas Gift
+      - Christmas Tree
+      - Clear Sky
+      - Cornfield
+      - Crossing
+      - Dance Party
+      - Deep sea
+      - Desert
+      - Dreamland
+      - Dreamlike
+      - Drinks
+      - Dusk
+      - Dynamic
+      - Early Summer
+      - Easter
+      - Emerald
+      - Fall
+      - Father's Day
+      - Fire
+      - Firefly
+      - Fish tank
+      - Flower Field
+      - Forest
+      - Glacier
+      - Gleam
+      - Graffiti
+      - Greenfield
+      - Groovy
+      - Halloween
+      - Halloween B
+      - Happy
+      - Herbal
+      - Hypnosis
+      - Illumination
+      - Karst Cave
+      - Lavender
+      - Leisure
+      - Leisurely
+      - Longing
+      - Lush
+      - Mild
+      - Mint
+      - Moonlight
+      - Mother's Day
+      - Movie
+      - 'Music: Colorful'
+      - 'Music: Hopping'
+      - 'Music: Luminous'
+      - 'Music: Piano Keys'
+      - 'Music: Rolling'
+      - 'Music: Stippling'
+      - New Years
+      - Party
+      - Quiet
+      - Radiance
+      - Rainbow
+      - Refreshing
+      - Siren
+      - Sled
+      - Soothing
+      - Soulful
+      - Spring
+      - Spring Wind
+      - Star
+      - Summer
+      - Sunrise
+      - Sunset
+      - Sunset Glow
+      - Thanksgiving
+      - Twilight
+      - Unspoken Love
+      - Valentine's Day
+      - Warm
+      - Water Drop
+      - Waxberry
+      - White Light
+      - Wind Bell
+      - Winter
+      - Yoga
+      supported_color_modes:
+      - color_temp
+      - rgb
+      icon: mdi:lightbulb-group
+      friendly_name: Front Hallway
+      supported_features: 44
+      state: unavailable
+    switch.front_hallway_power_switch:
+      restored: true
+      friendly_name: Power Switch
+      supported_features: 0
+      state: unavailable
+    switch.front_hallway_power_switch_2:
+      friendly_name: Front Hallway Power Switch
+      state: 'off'
+    light.string_downlights:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Afternoon
+      - Aurora
+      - Birthday
+      - Bonfire
+      - Candy
+      - Carnival
+      - Cherry blossoms
+      - Christmas
+      - Dance Party
+      - Dine Together
+      - Downpour
+      - Dreamland
+      - Easter
+      - Enthusiastic
+      - Excited
+      - Fall
+      - Father's Day
+      - Fight
+      - Fireworks
+      - Flower Field
+      - Forest
+      - Fright
+      - Game
+      - Halloween
+      - Happy
+      - Joyful
+      - Lake
+      - Leisure
+      - Meditation
+      - Meteor shower
+      - Moonlight
+      - Morning
+      - Mother's Day
+      - Movie
+      - 'Music: Energic'
+      - 'Music: HeartBeating'
+      - 'Music: Hopping'
+      - 'Music: Luminous'
+      - 'Music: Rhythm'
+      - 'Music: Rolling'
+      - 'Music: Shiny'
+      - 'Music: Starlight'
+      - Mysterious
+      - New Years
+      - Night
+      - Ocean
+      - Party
+      - Quiet
+      - Rainbow
+      - Reading
+      - Release
+      - Rhythm
+      - Ripple
+      - Romantic
+      - Sleep
+      - Soothing
+      - Spin
+      - Split
+      - Sports
+      - Spring
+      - Starry Sky
+      - Summer
+      - Sunrise
+      - Sunset
+      - Sunset Glow
+      - Sweet
+      - Swing
+      - Thanksgiving
+      - The Piano
+      - Tree shadow
+      - Valentine's Day
+      - Winter
+      - Work
+      - Yoga
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      friendly_name: String Downlights
+      supported_features: 44
+      state: 'off'
+    light.fireplace_strip:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6666
+      min_mireds: 150
+      max_mireds: 500
+      effect_list:
+      - blink
+      - breathe
+      - okay
+      - channel_change
+      - finish_effect
+      - stop_effect
+      - colorloop
+      - stop_colorloop
+      supported_color_modes:
+      - color_temp
+      - xy
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      friendly_name: fireplace strip
+      supported_features: 44
+      state: 'off'
+    light.bar_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Active
+      - Afternoon
+      - Aurora
+      - Breathe
+      - Business
+      - Candlelight
+      - Canyon
+      - Care
+      - Christmas
+      - Clear lake
+      - Cornfield
+      - Crazy
+      - Dance Party
+      - Dating
+      - Desert
+      - Disco
+      - Downpour
+      - Dreamland
+      - Dusk
+      - Energetic
+      - Enthusiastic
+      - Excited
+      - Fall
+      - Fantasy
+      - Father's Day
+      - Fight
+      - Fire
+      - Flash
+      - Flower Field
+      - Forest
+      - Game
+      - Ghost
+      - Glacier
+      - Grassland
+      - Halloween
+      - Happy
+      - Heartbeat
+      - Karst Cave
+      - Leisure
+      - Leisure-A
+      - Leisure-B
+      - Lightning
+      - Longing
+      - Meditation
+      - Moonlight
+      - Morning
+      - Mother's Day
+      - Movie
+      - 'Music: Rhythm'
+      - 'Music: Shiny'
+      - 'Music: Sprouting'
+      - Night
+      - Night Light
+      - Party
+      - Profound
+      - Quiet
+      - Rainbow
+      - Reading
+      - Relax
+      - Retro
+      - River
+      - Romantic
+      - Siren
+      - Sky
+      - Sleep
+      - Solar flare
+      - Solar Halo
+      - Sports
+      - Spring
+      - Star
+      - Starry Sky
+      - Study
+      - Summer
+      - Sunrise
+      - Sunset
+      - Sunset Glow
+      - Sweet
+      - Tension
+      - Thanksgiving
+      - Twinkle
+      - Universe
+      - Valentine's Day
+      - Warm
+      - Wave
+      - Winter
+      - Work
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      icon: mdi:led-strip-variant
+      friendly_name: Bar
+      supported_features: 44
+      state: 'off'
+    light.basement_standing_1_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Adventure Game
+      - Asleep
+      - Aurora
+      - Awaken
+      - Business
+      - Candlelight
+      - Candy
+      - Cards Game
+      - Care
+      - Carnival
+      - Cartoon
+      - Christmas
+      - Dance Party
+      - Desert
+      - Dreamland
+      - Dusk
+      - Enthusiastic
+      - Father's Day
+      - Fighting Game
+      - Fire
+      - Flower Field
+      - Forest
+      - Game
+      - Halloween
+      - Happy
+      - Healing
+      - Karst Cave
+      - Longing
+      - Meditation
+      - Mild
+      - Morning
+      - Mother's Day
+      - Movie
+      - Night Light
+      - Party
+      - Profound
+      - Puzzle Game
+      - Quiet
+      - Racing Game
+      - Rainbow
+      - Reading
+      - Relax
+      - Rivalry
+      - River
+      - Romantic
+      - Shooting Game
+      - Sports Game
+      - Starry Sky
+      - Study
+      - Sunset Glow
+      - Sweet
+      - Technology
+      - Thanksgiving
+      - Valentine's Day
+      - Warm
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      friendly_name: Basement Standing 1
+      supported_features: 44
+      state: 'off'
+    switch.basement_standing_1_power_switch:
+      friendly_name: Basement Standing 1 Power Switch
+      state: 'off'
+    light.my_desk_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Action
+      - Action-A
+      - Action-B
+      - Action-C
+      - Action-D
+      - Adventure Game
+      - Adventure Game-A
+      - Adventure Game-B
+      - Afternoon
+      - Aurora
+      - Aurora-A
+      - Aurora-B
+      - Awaken
+      - Awaken A
+      - Awaken B
+      - Awaken C
+      - Ballet
+      - Ballet-A
+      - Ballet-B
+      - Birthday
+      - Breaking
+      - Breaking-A
+      - Breaking-B
+      - Breathe
+      - Business
+      - Candlelight
+      - Cards Game
+      - Care
+      - Care-A
+      - Care-B
+      - Carnival
+      - Cha-Cha
+      - Cha-Cha-A
+      - Cha-Cha-B
+      - Cheerful
+      - Christmas
+      - Christmas Gift
+      - Christmas Tree
+      - Christmas-A
+      - Christmas-B
+      - Comedies
+      - Cornfield
+      - Cosplay
+      - Crazy
+      - Crossing
+      - Dance Party
+      - Dance Party-A
+      - Dance Party-B
+      - Dancing
+      - Dancing-A
+      - Dancing-B
+      - Dancing-C
+      - Dating
+      - Daze
+      - Deep sea
+      - Deep Sea B
+      - Desert
+      - Desert B
+      - Disco
+      - Disco-A
+      - Disco-B
+      - Documentaries
+      - Downpour
+      - Dramas
+      - Dreamland
+      - Dreamland-A
+      - Dreamland-B
+      - Dreamland-C
+      - Dreamland-D
+      - Dreamland-E
+      - Dreamland-F
+      - Dreamland-G
+      - Dreamlike
+      - Dreamlike-A
+      - Dreamlike-B
+      - Easter
+      - Electro Dance
+      - Electro Dance-A
+      - Electro Dance-B
+      - Electro Dance-C
+      - Electro Dance-D
+      - Electro Dance-E
+      - Energetic
+      - Energetic-A
+      - Energetic-B
+      - Energetic-C
+      - Energetic-D
+      - Enthusiastic
+      - Excited
+      - Excited-A
+      - Excited-B
+      - Excited-C
+      - Fall
+      - Fascination
+      - Father's Day
+      - Fight
+      - Fighting Game
+      - Fighting Game-A
+      - Fighting Game-B
+      - Fire
+      - Fire-A
+      - Fire-B
+      - Fire-C
+      - Fireworks
+      - Fireworks-A
+      - Fireworks-B
+      - Flash
+      - Flow
+      - Flow-A
+      - Flow-B
+      - Flower Field
+      - Flower Field-A
+      - Flower Field-B
+      - Forest
+      - Game
+      - Game-A
+      - Game-B
+      - Game-C
+      - Game-D
+      - Gary
+      - Ghost
+      - Ghost-A
+      - Ghost-B
+      - Glacier
+      - Gobi Desert
+      - Halloween
+      - Halloween Night
+      - Halloween-A
+      - Halloween-B
+      - Happy
+      - Happy-A
+      - Happy-B
+      - Heartbeat
+      - Heartbeat-A
+      - Heartbeat-B
+      - High
+      - Jazz
+      - Jazz-A
+      - Jazz-B
+      - Judy
+      - Karst Cave
+      - Karst Cave-A
+      - Karst Cave-B
+      - Karst Cave-C
+      - Latin Dance
+      - Leisure
+      - Leisure-A
+      - Leisure-B
+      - Lightning
+      - Lightning-A
+      - Lightning-B
+      - Lightning-C
+      - Longing
+      - MDL
+      - Meditation
+      - Meditation-A
+      - Meditation-B
+      - Meditation-C
+      - Meteor
+      - Meteor shower
+      - Moonlight
+      - Moonlight-A
+      - Moonlight-B
+      - Morning
+      - Mother's Day
+      - Movie
+      - 'Music: DayAndNight'
+      - 'Music: Energic'
+      - 'Music: Fountain'
+      - 'Music: Hopping'
+      - 'Music: PianoKeys'
+      - 'Music: Rhythm'
+      - 'Music: Rolling'
+      - 'Music: Separation'
+      - 'Music: Shiny'
+      - 'Music: Spectrum'
+      - 'Music: Sprouting'
+      - Mysterious
+      - Mysterious-A
+      - Mysterious-B
+      - New Years
+      - Nick
+      - Night
+      - Night-A
+      - Night-B
+      - Party
+      - Party-A
+      - Party-B
+      - Party-C
+      - Pole dance
+      - Pole dance-A
+      - Pole dance-B
+      - Poppin
+      - Poppin-A
+      - Poppin-B
+      - Poppin-C
+      - Poppin-D
+      - Poppin-E
+      - Poppin-F
+      - Poppin-G
+      - Poppin-H
+      - Poppin-I
+      - Profound
+      - Puzzle Game
+      - Puzzle Game-A
+      - Puzzle Game-B
+      - Puzzle Game-C
+      - Puzzle Game-D
+      - Puzzle Game-E
+      - Quiet
+      - Quiet-A
+      - Quiet-B
+      - Racing Game
+      - Racing Game-A
+      - Racing Game-B
+      - Rainbow
+      - Rainbow-A
+      - Rainbow-B
+      - Reading
+      - Release
+      - Release-A
+      - Release-B
+      - Ripple
+      - Romance
+      - Romance-A
+      - Romance-B
+      - Romantic
+      - Rush
+      - Rustling leaves
+      - Sailboat
+      - Sand Grains
+      - Science Fiction
+      - Science Fiction-A
+      - Science Fiction-B
+      - Shooting Game
+      - Shooting Game-A
+      - Shooting Game-B
+      - Shooting Game-C
+      - Siren
+      - Siren-A
+      - Siren-B
+      - Sky
+      - Sled
+      - Sleep
+      - Sleep-A
+      - Sleep-B
+      - Sleep-C
+      - Snow flake
+      - Snow flake-A
+      - Snow flake-B
+      - Soothing
+      - Soothing-A
+      - Soothing-B
+      - Sports
+      - Spring
+      - Stacking
+      - Star
+      - Starry Sky
+      - Street Dance
+      - Street Dance-A
+      - Street Dance-B
+      - Study
+      - Summer
+      - Sunny
+      - Sunny-A
+      - Sunny-B
+      - Sunrise
+      - Sunset
+      - Suspense
+      - Sweet
+      - Swing
+      - Tango
+      - Tension
+      - Tension-A
+      - Tension-B
+      - Thanksgiving
+      - Thrillers
+      - Twinkle
+      - Twinkle-A
+      - Undersea King
+      - Universe
+      - Universe-A
+      - Universe-B
+      - Valentine's Day
+      - Volcano
+      - Volcano-A
+      - Volcano-B
+      - Waltz
+      - Waltz-A
+      - Waltz-B
+      - War Films
+      - War Films-A
+      - War Films-B
+      - Warm
+      - Warm-A
+      - Warm-B
+      - Watermelon
+      - Wave
+      - Wave-A
+      - Wave-B
+      - White Light
+      - Winter
+      - Work
+      - ZDP Duo
+      - ZDP Trio
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      icon: mdi:led-strip-variant
+      friendly_name: My Desk
+      supported_features: 44
+      state: 'off'
+    light.tv_light_bars:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Action
+      - Asleep
+      - Aurora
+      - Bloom
+      - Breathe
+      - Candlelight
+      - Colorful
+      - Comedies
+      - Crossing
+      - Desert B
+      - Documentaries
+      - Drumbeat
+      - Energetic
+      - Fire
+      - Fright
+      - Glitter
+      - Literary
+      - Meteor
+      - Movie
+      - 'Music: Beat'
+      - 'Music: RainbowCircle'
+      - 'Music: Rhythm'
+      - 'Music: Shiny'
+      - 'Music: Strike'
+      - 'Music: Torch'
+      - 'Music: Vibrate'
+      - 'Music: Vivid'
+      - Party
+      - Rainbow
+      - Reading
+      - Romance
+      - Romantic
+      - Sand Grains
+      - Science Fiction
+      - Seasonal
+      - Siren
+      - Snow flake
+      - Stream
+      - Suspense
+      - Tunnel
+      - War Films
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      icon: mdi:television-ambient-light
+      friendly_name: TV Light Bars
+      supported_features: 44
+      state: 'off'
+    light.office_border:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Action
+      - Action-A
+      - Action-B
+      - Action-C
+      - Action-D
+      - Adventure Game
+      - Adventure Game-A
+      - Adventure Game-B
+      - Afternoon
+      - Aurora
+      - Aurora-A
+      - Aurora-B
+      - Awaken
+      - Awaken A
+      - Awaken B
+      - Awaken C
+      - Ballet
+      - Ballet-A
+      - Ballet-B
+      - Birthday
+      - Breaking
+      - Breaking-A
+      - Breaking-B
+      - Breathe
+      - Business
+      - Candlelight
+      - Cards Game
+      - Care
+      - Care-A
+      - Care-B
+      - Carnival
+      - Cha-Cha
+      - Cha-Cha-A
+      - Cha-Cha-B
+      - Cheerful
+      - Christmas
+      - Christmas Gift
+      - Christmas Tree
+      - Christmas-A
+      - Christmas-B
+      - Comedies
+      - Cornfield
+      - Cosplay
+      - Crazy
+      - Crossing
+      - Dance Party
+      - Dance Party-A
+      - Dance Party-B
+      - Dancing
+      - Dancing-A
+      - Dancing-B
+      - Dancing-C
+      - Dating
+      - Daze
+      - Deep sea
+      - Deep Sea B
+      - Desert
+      - Desert B
+      - Disco
+      - Disco-A
+      - Disco-B
+      - Documentaries
+      - Downpour
+      - Dramas
+      - Dreamland
+      - Dreamland-A
+      - Dreamland-B
+      - Dreamland-C
+      - Dreamland-D
+      - Dreamland-E
+      - Dreamland-F
+      - Dreamland-G
+      - Dreamlike
+      - Dreamlike-A
+      - Dreamlike-B
+      - Easter
+      - Electro Dance
+      - Electro Dance-A
+      - Electro Dance-B
+      - Electro Dance-C
+      - Electro Dance-D
+      - Electro Dance-E
+      - Energetic
+      - Energetic-A
+      - Energetic-B
+      - Energetic-C
+      - Energetic-D
+      - Enthusiastic
+      - Excited
+      - Excited-A
+      - Excited-B
+      - Excited-C
+      - Fall
+      - Fascination
+      - Father's Day
+      - Fight
+      - Fighting Game
+      - Fighting Game-A
+      - Fighting Game-B
+      - Fire
+      - Fire-A
+      - Fire-B
+      - Fire-C
+      - Fireworks
+      - Fireworks-A
+      - Fireworks-B
+      - Flash
+      - Flow
+      - Flow-A
+      - Flow-B
+      - Flower Field
+      - Flower Field-A
+      - Flower Field-B
+      - Forest
+      - Game
+      - Game-A
+      - Game-B
+      - Game-C
+      - Game-D
+      - Gary
+      - Ghost
+      - Ghost-A
+      - Ghost-B
+      - Glacier
+      - Gobi Desert
+      - Halloween
+      - Halloween Night
+      - Halloween-A
+      - Halloween-B
+      - Happy
+      - Happy-A
+      - Happy-B
+      - Heartbeat
+      - Heartbeat-A
+      - Heartbeat-B
+      - High
+      - Jazz
+      - Jazz-A
+      - Jazz-B
+      - Judy
+      - Karst Cave
+      - Karst Cave-A
+      - Karst Cave-B
+      - Karst Cave-C
+      - Latin Dance
+      - Leisure
+      - Leisure-A
+      - Leisure-B
+      - Lightning
+      - Lightning-A
+      - Lightning-B
+      - Lightning-C
+      - Longing
+      - MDL
+      - Meditation
+      - Meditation-A
+      - Meditation-B
+      - Meditation-C
+      - Meteor
+      - Meteor shower
+      - Moonlight
+      - Moonlight-A
+      - Moonlight-B
+      - Morning
+      - Mother's Day
+      - Movie
+      - 'Music: DayAndNight'
+      - 'Music: Energic'
+      - 'Music: Fountain'
+      - 'Music: Hopping'
+      - 'Music: PianoKeys'
+      - 'Music: Rhythm'
+      - 'Music: Rolling'
+      - 'Music: Separation'
+      - 'Music: Shiny'
+      - 'Music: Spectrum'
+      - 'Music: Sprouting'
+      - Mysterious
+      - Mysterious-A
+      - Mysterious-B
+      - New Years
+      - Nick
+      - Night
+      - Night-A
+      - Night-B
+      - Party
+      - Party-A
+      - Party-B
+      - Party-C
+      - Pole dance
+      - Pole dance-A
+      - Pole dance-B
+      - Poppin
+      - Poppin-A
+      - Poppin-B
+      - Poppin-C
+      - Poppin-D
+      - Poppin-E
+      - Poppin-F
+      - Poppin-G
+      - Poppin-H
+      - Poppin-I
+      - Profound
+      - Puzzle Game
+      - Puzzle Game-A
+      - Puzzle Game-B
+      - Puzzle Game-C
+      - Puzzle Game-D
+      - Puzzle Game-E
+      - Quiet
+      - Quiet-A
+      - Quiet-B
+      - Racing Game
+      - Racing Game-A
+      - Racing Game-B
+      - Rainbow
+      - Rainbow-A
+      - Rainbow-B
+      - Reading
+      - Release
+      - Release-A
+      - Release-B
+      - Ripple
+      - Romance
+      - Romance-A
+      - Romance-B
+      - Romantic
+      - Rush
+      - Rustling leaves
+      - Sailboat
+      - Sand Grains
+      - Science Fiction
+      - Science Fiction-A
+      - Science Fiction-B
+      - Shooting Game
+      - Shooting Game-A
+      - Shooting Game-B
+      - Shooting Game-C
+      - Siren
+      - Siren-A
+      - Siren-B
+      - Sky
+      - Sled
+      - Sleep
+      - Sleep-A
+      - Sleep-B
+      - Sleep-C
+      - Snow flake
+      - Snow flake-A
+      - Snow flake-B
+      - Soothing
+      - Soothing-A
+      - Soothing-B
+      - Sports
+      - Spring
+      - Stacking
+      - Star
+      - Starry Sky
+      - Street Dance
+      - Street Dance-A
+      - Street Dance-B
+      - Study
+      - Summer
+      - Sunny
+      - Sunny-A
+      - Sunny-B
+      - Sunrise
+      - Sunset
+      - Suspense
+      - Sweet
+      - Swing
+      - Tango
+      - Tension
+      - Tension-A
+      - Tension-B
+      - Thanksgiving
+      - Thrillers
+      - Twinkle
+      - Twinkle-A
+      - Undersea King
+      - Universe
+      - Universe-A
+      - Universe-B
+      - Valentine's Day
+      - Volcano
+      - Volcano-A
+      - Volcano-B
+      - Waltz
+      - Waltz-A
+      - Waltz-B
+      - War Films
+      - War Films-A
+      - War Films-B
+      - Warm
+      - Warm-A
+      - Warm-B
+      - Watermelon
+      - Wave
+      - Wave-A
+      - Wave-B
+      - White Light
+      - Winter
+      - Work
+      - ZDP Duo
+      - ZDP Trio
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      friendly_name: Office Border
+      supported_features: 44
+      state: 'off'
+    light.office_top_light:
+      supported_color_modes:
+      - brightness
+      color_mode:
+      brightness:
+      friendly_name: Office Top Light Light 1
+      supported_features: 0
+      state: 'off'
+    light.basement_table_1_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Adventure Game
+      - Asleep
+      - Aurora
+      - Awaken
+      - Business
+      - Candlelight
+      - Candy
+      - Cards Game
+      - Care
+      - Carnival
+      - Cartoon
+      - Christmas
+      - Dance Party
+      - Desert
+      - Dreamland
+      - Dusk
+      - Enthusiastic
+      - Father's Day
+      - Fighting Game
+      - Fire
+      - Flower Field
+      - Forest
+      - Game
+      - Halloween
+      - Happy
+      - Healing
+      - Karst Cave
+      - Longing
+      - Meditation
+      - Mild
+      - Morning
+      - Mother's Day
+      - Movie
+      - Night Light
+      - Party
+      - Profound
+      - Puzzle Game
+      - Quiet
+      - Racing Game
+      - Rainbow
+      - Reading
+      - Relax
+      - Rivalry
+      - River
+      - Romantic
+      - Shooting Game
+      - Sports Game
+      - Starry Sky
+      - Study
+      - Sunset Glow
+      - Sweet
+      - Technology
+      - Thanksgiving
+      - Valentine's Day
+      - Warm
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      friendly_name: Basement Table 1
+      supported_features: 44
+      state: 'off'
+    light.basement_table_2_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Adventure Game
+      - Asleep
+      - Aurora
+      - Awaken
+      - Business
+      - Candlelight
+      - Candy
+      - Cards Game
+      - Care
+      - Carnival
+      - Cartoon
+      - Christmas
+      - Dance Party
+      - Desert
+      - Dreamland
+      - Dusk
+      - Enthusiastic
+      - Father's Day
+      - Fighting Game
+      - Fire
+      - Flower Field
+      - Forest
+      - Game
+      - Halloween
+      - Happy
+      - Healing
+      - Karst Cave
+      - Longing
+      - Meditation
+      - Mild
+      - Morning
+      - Mother's Day
+      - Movie
+      - Night Light
+      - Party
+      - Profound
+      - Puzzle Game
+      - Quiet
+      - Racing Game
+      - Rainbow
+      - Reading
+      - Relax
+      - Rivalry
+      - River
+      - Romantic
+      - Shooting Game
+      - Sports Game
+      - Starry Sky
+      - Study
+      - Sunset Glow
+      - Sweet
+      - Technology
+      - Thanksgiving
+      - Valentine's Day
+      - Warm
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      friendly_name: Basement Table 2
+      supported_features: 44
+      state: 'off'
+    light.dining_room_top_light:
+      supported_color_modes:
+      - brightness
+      color_mode:
+      brightness:
+      friendly_name: Dining Room Top Light 1
+      supported_features: 0
+      state: 'off'
+    light.living_room_top_light:
+      supported_color_modes:
+      - brightness
+      color_mode:
+      brightness:
+      friendly_name: Living Room Top Light 1
+      supported_features: 0
+      state: 'off'
+  metadata:
+    light.upper_hallway_2:
+      entity_only: true
+    light.lower_hallway:
+      entity_only: true
+    light.front_hallway:
+      entity_only: true
+    light.front_hallway_3:
+      entity_only: true
+    light.front_hallway_2:
+      entity_only: true
+    switch.front_hallway_power_switch:
+      entity_only: true
+    switch.front_hallway_power_switch_2:
+      entity_only: true
+    light.string_downlights:
+      entity_only: true
+    light.fireplace_strip:
+      entity_only: true
+    light.bar_2:
+      entity_only: true
+    light.my_desk_2:
+      entity_only: true
+    light.tv_light_bars:
+      entity_only: true
+    light.office_border:
+      entity_only: true
+    light.office_top_light:
+      entity_only: true
+    light.basement_table_1_2:
+      entity_only: true
+    light.basement_table_2_2:
+      entity_only: true
+    light.dining_room_top_light:
+      entity_only: true
+    light.living_room_top_light:
+      entity_only: true
+- id: '1662822657800'
+  name: Gaming Mode
+  entities:
+    switch.basement_standing_2_power_switch:
+      friendly_name: Basement Standing 2 Power Switch
+      state: 'on'
+    switch.basement_table_1_power_switch:
+      friendly_name: Basement Table 1 Power Switch
+      state: 'on'
+    switch.basement_table_2_power_switch:
+      friendly_name: Basement Table 2 Power Switch
+      state: 'on'
+  icon: mdi:gamepad-outline
+  metadata: {}
+- id: '1714480130177'
+  name: Work Medium
+  entities:
+    switch.basement_table_2_power_switch:
+      friendly_name: Basement Table 2 Power Switch
+      state: 'on'
+    switch.basement_table_1_power_switch:
+      friendly_name: Basement Table 1 Power Switch
+      state: 'on'
+    switch.basement_standing_2_power_switch:
+      friendly_name: Basement Standing 2 Power Switch
+      state: 'on'
+    switch.cylinder_lamp_power_switch:
+      friendly_name: Cylinder Lamp Power Switch
+      state: 'on'
+    switch.string_downlights_power_switch:
+      friendly_name: String Downlights Power Switch
+      state: 'on'
+    switch.string_downlights_gradient_toggle:
+      friendly_name: String Downlights Gradient Toggle
+      state: unknown
+    switch.string_downlights_dream_view_toggle:
+      friendly_name: String Downlights Dream View Toggle
+      state: unknown
+    light.string_downlights_segment_001:
+      effect_list:
+      supported_color_modes:
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      hs_color:
+      rgb_color:
+      xy_color:
+      assumed_state: true
+      friendly_name: String Downlights Segment 001
+      supported_features: 44
+      state: 'off'
+    light.string_downlights_segment_002:
+      effect_list:
+      supported_color_modes:
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      hs_color:
+      rgb_color:
+      xy_color:
+      assumed_state: true
+      friendly_name: String Downlights Segment 002
+      supported_features: 44
+      state: 'off'
+  metadata: {}
+- id: '1714480157457'
+  name: Work Low
+  entities:
+    switch.basement_table_2_power_switch:
+      friendly_name: Basement Table 2 Power Switch
+      state: 'on'
+    switch.basement_table_1_power_switch:
+      friendly_name: Basement Table 1 Power Switch
+      state: 'on'
+    switch.basement_standing_2_power_switch:
+      friendly_name: Basement Standing 2 Power Switch
+      state: 'on'
+    switch.cylinder_lamp_power_switch:
+      friendly_name: Cylinder Lamp Power Switch
+      state: 'on'
+    switch.string_downlights_power_switch:
+      friendly_name: String Downlights Power Switch
+      state: 'on'
+    switch.string_downlights_gradient_toggle:
+      friendly_name: String Downlights Gradient Toggle
+      state: unknown
+    switch.string_downlights_dream_view_toggle:
+      friendly_name: String Downlights Dream View Toggle
+      state: unknown
+    light.string_downlights_segment_001:
+      effect_list:
+      supported_color_modes:
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      hs_color:
+      rgb_color:
+      xy_color:
+      assumed_state: true
+      friendly_name: String Downlights Segment 001
+      supported_features: 44
+      state: 'off'
+    light.string_downlights_segment_002:
+      effect_list:
+      supported_color_modes:
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      hs_color:
+      rgb_color:
+      xy_color:
+      assumed_state: true
+      friendly_name: String Downlights Segment 002
+      supported_features: 44
+      state: 'off'
+  metadata: {}
+- id: '1729035177484'
+  name: Driveway Lamp Off Early
+  entities:
+    light.front_driveway_lamp:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      color_mode:
+      brightness:
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      rgb_color:
+      xy_color:
+      is_hue_group: true
+      hue_scenes:
+      - Energize
+      - Nightlight
+      - Relax
+      - Tropical twilight
+      - Dimmed
+      - Concentrate
+      - Read
+      - Bright
+      - Spring blossom
+      - Arctic aurora
+      - Savanna sunset
+      hue_type: room
+      lights:
+      - Front Driveway Color Bulb 1 of 1
+      entity_id:
+      - light.front_driveway_color_bulb_1_of_1
+      dynamics: false
+      icon: mdi:lightbulb-group
+      friendly_name: Front Driveway Lamp
+      supported_features: 40
+      state: 'off'
+  icon: mdi:outdoor-lamp
+  metadata: {}
+- id: '1740154086363'
+  name: New scene
+  entities:
+    light.basement_standing_1_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Adventure Game
+      - Asleep
+      - Aurora
+      - Awaken
+      - Business
+      - Candlelight
+      - Candy
+      - Cards Game
+      - Care
+      - Carnival
+      - Cartoon
+      - Christmas
+      - Dance Party
+      - Desert
+      - Dreamland
+      - Dusk
+      - Enthusiastic
+      - Father's Day
+      - Fighting Game
+      - Fire
+      - Flower Field
+      - Forest
+      - Game
+      - Halloween
+      - Happy
+      - Healing
+      - Karst Cave
+      - Longing
+      - Meditation
+      - Mild
+      - Morning
+      - Mother's Day
+      - Movie
+      - Night Light
+      - Party
+      - Profound
+      - Puzzle Game
+      - Quiet
+      - Racing Game
+      - Rainbow
+      - Reading
+      - Relax
+      - Rivalry
+      - River
+      - Romantic
+      - Shooting Game
+      - Sports Game
+      - Starry Sky
+      - Study
+      - Sunset Glow
+      - Sweet
+      - Technology
+      - Thanksgiving
+      - Valentine's Day
+      - Warm
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 3703
+      color_temp: 270
+      hs_color:
+      - 26.994
+      - 40.533
+      rgb_color:
+      - 255
+      - 198
+      - 152
+      xy_color:
+      - 0.439
+      - 0.37
+      friendly_name: Basement Standing 1
+      supported_features: 44
+      state: 'on'
+    switch.basement_standing_1_power_switch:
+      friendly_name: Basement Standing 1 Power Switch
+      state: 'on'
+    light.basement_standing_2_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Adventure Game
+      - Asleep
+      - Aurora
+      - Awaken
+      - Business
+      - Candlelight
+      - Candy
+      - Cards Game
+      - Care
+      - Carnival
+      - Cartoon
+      - Christmas
+      - Dance Party
+      - Desert
+      - Dreamland
+      - Dusk
+      - Enthusiastic
+      - Father's Day
+      - Fighting Game
+      - Fire
+      - Flower Field
+      - Forest
+      - Game
+      - Halloween
+      - Happy
+      - Healing
+      - Karst Cave
+      - Longing
+      - Meditation
+      - Mild
+      - Morning
+      - Mother's Day
+      - Movie
+      - Night Light
+      - Party
+      - Profound
+      - Puzzle Game
+      - Quiet
+      - Racing Game
+      - Rainbow
+      - Reading
+      - Relax
+      - Rivalry
+      - River
+      - Romantic
+      - Shooting Game
+      - Sports Game
+      - Starry Sky
+      - Study
+      - Sunset Glow
+      - Sweet
+      - Technology
+      - Thanksgiving
+      - Valentine's Day
+      - Warm
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 3703
+      color_temp: 270
+      hs_color:
+      - 26.994
+      - 40.533
+      rgb_color:
+      - 255
+      - 198
+      - 152
+      xy_color:
+      - 0.439
+      - 0.37
+      friendly_name: Basement Standing 2
+      supported_features: 44
+      state: 'on'
+    switch.basement_standing_2_power_switch:
+      friendly_name: Basement Standing 2 Power Switch
+      state: 'on'
+    light.basement_table_1_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Adventure Game
+      - Asleep
+      - Aurora
+      - Awaken
+      - Business
+      - Candlelight
+      - Candy
+      - Cards Game
+      - Care
+      - Carnival
+      - Cartoon
+      - Christmas
+      - Dance Party
+      - Desert
+      - Dreamland
+      - Dusk
+      - Enthusiastic
+      - Father's Day
+      - Fighting Game
+      - Fire
+      - Flower Field
+      - Forest
+      - Game
+      - Halloween
+      - Happy
+      - Healing
+      - Karst Cave
+      - Longing
+      - Meditation
+      - Mild
+      - Morning
+      - Mother's Day
+      - Movie
+      - Night Light
+      - Party
+      - Profound
+      - Puzzle Game
+      - Quiet
+      - Racing Game
+      - Rainbow
+      - Reading
+      - Relax
+      - Rivalry
+      - River
+      - Romantic
+      - Shooting Game
+      - Sports Game
+      - Starry Sky
+      - Study
+      - Sunset Glow
+      - Sweet
+      - Technology
+      - Thanksgiving
+      - Valentine's Day
+      - Warm
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 3703
+      color_temp: 270
+      hs_color:
+      - 26.994
+      - 40.533
+      rgb_color:
+      - 255
+      - 198
+      - 152
+      xy_color:
+      - 0.439
+      - 0.37
+      friendly_name: Basement Table 1
+      supported_features: 44
+      state: 'on'
+    light.basement_table_2_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Adventure Game
+      - Asleep
+      - Aurora
+      - Awaken
+      - Business
+      - Candlelight
+      - Candy
+      - Cards Game
+      - Care
+      - Carnival
+      - Cartoon
+      - Christmas
+      - Dance Party
+      - Desert
+      - Dreamland
+      - Dusk
+      - Enthusiastic
+      - Father's Day
+      - Fighting Game
+      - Fire
+      - Flower Field
+      - Forest
+      - Game
+      - Halloween
+      - Happy
+      - Healing
+      - Karst Cave
+      - Longing
+      - Meditation
+      - Mild
+      - Morning
+      - Mother's Day
+      - Movie
+      - Night Light
+      - Party
+      - Profound
+      - Puzzle Game
+      - Quiet
+      - Racing Game
+      - Rainbow
+      - Reading
+      - Relax
+      - Rivalry
+      - River
+      - Romantic
+      - Shooting Game
+      - Sports Game
+      - Starry Sky
+      - Study
+      - Sunset Glow
+      - Sweet
+      - Technology
+      - Thanksgiving
+      - Valentine's Day
+      - Warm
+      - White Light
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 3703
+      color_temp: 270
+      hs_color:
+      - 26.994
+      - 40.533
+      rgb_color:
+      - 255
+      - 198
+      - 152
+      xy_color:
+      - 0.439
+      - 0.37
+      friendly_name: Basement Table 2
+      supported_features: 44
+      state: 'on'
+    light.my_desk_2:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Action
+      - Action-A
+      - Action-B
+      - Action-C
+      - Action-D
+      - Adventure Game
+      - Adventure Game-A
+      - Adventure Game-B
+      - Afternoon
+      - ARRAKIS
+      - Atlantis
+      - Aurora
+      - Aurora-A
+      - Aurora-B
+      - Awaken
+      - Ballet
+      - Ballet-A
+      - Ballet-B
+      - Birthday
+      - Breaking
+      - Breaking-A
+      - Breaking-B
+      - Breathe
+      - Business
+      - Candlelight
+      - Cards Game
+      - Care
+      - Care-A
+      - Care-B
+      - Carnival
+      - Cha-Cha
+      - Cha-Cha-A
+      - Cha-Cha-B
+      - Cheerful
+      - Christmas
+      - Christmas Gift
+      - Christmas Tree
+      - Christmas-A
+      - Christmas-B
+      - Comedies
+      - Cornfield
+      - Cosplay
+      - Crazy
+      - Crossing
+      - Dance Party
+      - Dance Party-A
+      - Dance Party-B
+      - Dancing
+      - Dancing-A
+      - Dancing-B
+      - Dancing-C
+      - Dating
+      - Daze
+      - Deep sea
+      - Desert
+      - Disco
+      - Disco-A
+      - Disco-B
+      - Documentaries
+      - Downpour
+      - Dramas
+      - Dreamland
+      - Dreamland-A
+      - Dreamland-B
+      - Dreamland-C
+      - Dreamland-D
+      - Dreamland-E
+      - Dreamland-F
+      - Dreamland-G
+      - Dreamlike
+      - Dreamlike-A
+      - Dreamlike-B
+      - Easter
+      - Electro Dance
+      - Electro Dance-A
+      - Electro Dance-B
+      - Electro Dance-C
+      - Electro Dance-D
+      - Electro Dance-E
+      - Energetic
+      - Energetic-A
+      - Energetic-B
+      - Energetic-C
+      - Energetic-D
+      - Enthusiastic
+      - Excited
+      - Excited-A
+      - Excited-B
+      - Excited-C
+      - Fall
+      - Fascination
+      - Father's Day
+      - Fight
+      - Fighting Game
+      - Fighting Game-A
+      - Fighting Game-B
+      - Fire
+      - Fire-A
+      - Fire-B
+      - Fire-C
+      - Fireworks
+      - Fireworks-A
+      - Fireworks-B
+      - Flash
+      - Flow
+      - Flow-A
+      - Flow-B
+      - Flower Field
+      - Flower Field-A
+      - Flower Field-B
+      - Forest
+      - Game
+      - Game-A
+      - Game-B
+      - Game-C
+      - Game-D
+      - Ghost
+      - Ghost-A
+      - Ghost-B
+      - Glacier
+      - Gobi Desert
+      - Halloween
+      - Halloween-A
+      - Halloween-B
+      - Happy
+      - Happy-A
+      - Happy-B
+      - Heartbeat
+      - Heartbeat-A
+      - Heartbeat-B
+      - High
+      - Jazz
+      - Jazz-A
+      - Jazz-B
+      - Karst Cave
+      - Karst Cave-A
+      - Karst Cave-B
+      - Karst Cave-C
+      - Latin Dance
+      - Leisure
+      - Leisure-A
+      - Leisure-B
+      - Lightning
+      - Lightning-A
+      - Lightning-B
+      - Lightning-C
+      - Longing
+      - Mavericks
+      - Meditation
+      - Meditation-A
+      - Meditation-B
+      - Meditation-C
+      - Meteor
+      - Meteor shower
+      - MFFL
+      - Moonlight
+      - Moonlight-A
+      - Moonlight-B
+      - Morning
+      - Mother's Day
+      - Movie
+      - 'Music: DayAndNight'
+      - 'Music: Energic'
+      - 'Music: Fountain'
+      - 'Music: Hopping'
+      - 'Music: PianoKeys'
+      - 'Music: Rhythm'
+      - 'Music: Rolling'
+      - 'Music: Separation'
+      - 'Music: Shiny'
+      - 'Music: Spectrum'
+      - 'Music: Sprouting'
+      - Mysterious
+      - Mysterious-A
+      - Mysterious-B
+      - New Years
+      - Night
+      - Night-A
+      - Night-B
+      - Party
+      - Party-A
+      - Party-B
+      - Party-C
+      - Pole dance
+      - Pole dance-A
+      - Pole dance-B
+      - Poppin
+      - Poppin-A
+      - Poppin-B
+      - Poppin-C
+      - Poppin-D
+      - Poppin-E
+      - Poppin-F
+      - Poppin-G
+      - Poppin-H
+      - Poppin-I
+      - Profound
+      - Puzzle Game
+      - Puzzle Game-A
+      - Puzzle Game-B
+      - Puzzle Game-C
+      - Puzzle Game-D
+      - Puzzle Game-E
+      - Quiet
+      - Quiet-A
+      - Quiet-B
+      - Racing Game
+      - Racing Game-A
+      - Racing Game-B
+      - Rainbow
+      - Rainbow-A
+      - Rainbow-B
+      - Reading
+      - Release
+      - Release-A
+      - Release-B
+      - Ripple
+      - Romance
+      - Romance-A
+      - Romance-B
+      - Romantic
+      - Rush
+      - Rustling leaves
+      - Science Fiction
+      - Science Fiction-A
+      - Science Fiction-B
+      - Shooting Game
+      - Shooting Game-A
+      - Shooting Game-B
+      - Shooting Game-C
+      - Siren
+      - Siren-A
+      - Siren-B
+      - Sled
+      - Sleep
+      - Sleep-A
+      - Sleep-B
+      - Sleep-C
+      - Snow flake
+      - Snow flake-A
+      - Snow flake-B
+      - Soothing
+      - Soothing-A
+      - Soothing-B
+      - SPICE
+      - Sports
+      - Spring
+      - Stacking
+      - Star
+      - Starry Sky
+      - Street Dance
+      - Street Dance-A
+      - Street Dance-B
+      - Study
+      - Summer
+      - Sunny
+      - Sunny-A
+      - Sunny-B
+      - Sunrise
+      - Sunset
+      - Suspense
+      - Sweet
+      - Swing
+      - Tango
+      - Tension
+      - Tension-A
+      - Tension-B
+      - Thanksgiving
+      - Thrillers
+      - Twinkle
+      - Twinkle-A
+      - Undersea King
+      - Universe
+      - Universe-A
+      - Universe-B
+      - Valentine's Day
+      - Volcano
+      - Volcano-A
+      - Volcano-B
+      - Waltz
+      - Waltz-A
+      - Waltz-B
+      - War Films
+      - War Films-A
+      - War Films-B
+      - Warm
+      - Warm-A
+      - Warm-B
+      - Watermelon
+      - Wave
+      - Wave-A
+      - Wave-B
+      - White Light
+      - Winter
+      - Work
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode: rgb
+      brightness: 255
+      color_temp_kelvin:
+      color_temp:
+      hs_color:
+      - 0
+      - 100
+      rgb_color:
+      - 255
+      - 0
+      - 0
+      xy_color:
+      - 0.701
+      - 0.299
+      icon: mdi:led-strip-variant
+      friendly_name: My Desk
+      supported_features: 44
+      state: 'on'
+    switch.my_desk_power_switch:
+      friendly_name: My Desk Power Switch
+      state: 'on'
+    light.string_downlights:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 9009
+      min_mireds: 111
+      max_mireds: 500
+      effect_list:
+      - ''
+      - Afternoon
+      - Aurora
+      - Birthday
+      - Bonfire
+      - Candy
+      - Carnival
+      - Cherry blossoms
+      - Christmas
+      - Dance Party
+      - Dine Together
+      - Downpour
+      - Dreamland
+      - Easter
+      - Enthusiastic
+      - Excited
+      - Fall
+      - Father's Day
+      - Fight
+      - Fireworks
+      - Flower Field
+      - Forest
+      - Fright
+      - Game
+      - Halloween
+      - Happy
+      - Joyful
+      - Lake
+      - Leisure
+      - Meditation
+      - Meteor shower
+      - Moonlight
+      - Morning
+      - Mother's Day
+      - Movie
+      - 'Music: Energic'
+      - 'Music: HeartBeating'
+      - 'Music: Hopping'
+      - 'Music: Luminous'
+      - 'Music: Rhythm'
+      - 'Music: Rolling'
+      - 'Music: Shiny'
+      - 'Music: Starlight'
+      - Mysterious
+      - New Years
+      - Night
+      - Ocean
+      - Party
+      - Quiet
+      - Rainbow
+      - Reading
+      - Release
+      - Rhythm
+      - Ripple
+      - Romantic
+      - Sleep
+      - Soothing
+      - Spin
+      - Split
+      - Sports
+      - Spring
+      - Starry Sky
+      - Summer
+      - Sunrise
+      - Sunset
+      - Sunset Glow
+      - Sweet
+      - Swing
+      - Thanksgiving
+      - The Piano
+      - Tree shadow
+      - Valentine's Day
+      - Winter
+      - Work
+      - Yoga
+      supported_color_modes:
+      - color_temp
+      - rgb
+      effect:
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 3703
+      color_temp: 270
+      hs_color:
+      - 26.994
+      - 40.533
+      rgb_color:
+      - 255
+      - 198
+      - 152
+      xy_color:
+      - 0.439
+      - 0.37
+      icon: mdi:light-bulb
+      friendly_name: String Downlights
+      supported_features: 44
+      state: 'on'
+    switch.string_downlights_power_switch:
+      friendly_name: String Downlights Power Switch
+      state: 'on'
+    switch.string_downlights_gradient_toggle:
+      friendly_name: String Downlights Gradient Toggle
+      state: unknown
+    switch.string_downlights_dream_view_toggle:
+      friendly_name: String Downlights Dream View Toggle
+      state: unknown
+    light.string_downlights_segment_001:
+      effect_list:
+      supported_color_modes:
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      hs_color:
+      rgb_color:
+      xy_color:
+      assumed_state: true
+      friendly_name: String Downlights Segment 001
+      supported_features: 44
+      state: 'off'
+    light.string_downlights_segment_002:
+      effect_list:
+      supported_color_modes:
+      - rgb
+      effect:
+      color_mode:
+      brightness:
+      hs_color:
+      rgb_color:
+      xy_color:
+      assumed_state: true
+      friendly_name: String Downlights Segment 002
+      supported_features: 44
+      state: 'off'
+    light.fireplace_strip:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6666
+      min_mireds: 150
+      max_mireds: 500
+      effect_list:
+      - blink
+      - breathe
+      - okay
+      - channel_change
+      - finish_effect
+      - stop_effect
+      - colorloop
+      - stop_colorloop
+      supported_color_modes:
+      - color_temp
+      - xy
+      effect:
+      color_mode: color_temp
+      brightness: 255
+      color_temp_kelvin: 5128
+      color_temp: 195
+      hs_color:
+      - 27.155
+      - 17.532
+      rgb_color:
+      - 255
+      - 231
+      - 210
+      xy_color:
+      - 0.367
+      - 0.349
+      friendly_name: fireplace strip
+      supported_features: 44
+      state: 'on'
+  metadata: {}

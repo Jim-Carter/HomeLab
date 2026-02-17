@@ -1,0 +1,123 @@
+######################### NETWORKS  
+## set trusted docker internal network
+#networks:
+#  default:
+#      ipam:  
+#        config: 
+#         - subnet: 172.10.0.0/24
+########################### NETWORKS
+networks:
+  default:
+    driver: bridge
+  socket_proxy:
+    name: socket_proxy
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.91.0/24
+  proxy:
+    external: true
+
+include:
+  - compose/socket-proxy.yml
+
+secrets:
+  cf_api_token:
+    file: ./cf_api_token.txt
+
+#volumes:
+#  - /run/dbus:/run/dbus:ro
+
+services:
+  homeassistant:
+    container_name: homeassistant
+    image: "ghcr.io/home-assistant/home-assistant:stable"
+    volumes:
+      - /opt/homeassistant/config:/config
+      - /etc/localtime:/etc/localtime:ro
+      - /run/dbus:/run/dbus:ro
+    restart: unless-stopped
+    privileged: true
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    devices:
+      - /dev/ttyUSB0:/dev/ttyUSB0
+
+    environment:
+      - TZ=America/Chicago
+    network_mode: host
+    # ports:
+    #   - "8123:8123"
+    # networks:
+    #   - proxy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  mosquitto:
+    image: eclipse-mosquitto
+    hostname: mosquitto
+    container_name: mosquitto
+    restart: unless-stopped
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+      - /opt/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - /opt/mosquitto/mosquitto.passwd:/mosquitto/config/mosquitto.passwd
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # Zigbee2mqtt
+  zigbee2mqtt:
+    container_name: zigbee2mqtt
+    image: koenkk/zigbee2mqtt
+    restart: unless-stopped
+    volumes:
+      - /opt/zigbee2mqtt/data:/app/data
+      - /run/udev:/run/udev:ro
+    user: "0:0"
+    ports:
+      # Frontend port
+      - 8080:8080
+    environment:
+      - TZ=America/Chicago
+    devices:
+      # Make sure this matched your adapter location
+      - /dev/serial/by-id/usb-Nabu_Casa_SkyConnect_v1.0_a25fdfe1668dec11905669e883c5466d-if00-port0:/dev/ttyUSB0
+    networks:
+      - proxy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+
+  govee2mqtt:
+    image: ghcr.io/wez/govee2mqtt:latest
+    container_name: govee2mqtt
+    restart: unless-stopped
+    env_file:
+      - /opt/govee2mqtt/.env
+    # Host networking is required
+    network_mode: host
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  dozzle:
+    image: amir20/dozzle:latest
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    ports:
+      - 8083:8080
+    restart: unless-stopped  # Optional for production

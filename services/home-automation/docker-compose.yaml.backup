@@ -1,0 +1,350 @@
+######################### NETWORKS  
+## set trusted docker internal network
+#networks:
+#  default:
+#      ipam:  
+#        config: 
+#         - subnet: 172.10.0.0/24
+########################### NETWORKS
+networks:
+  default:
+    driver: bridge
+  socket_proxy:
+    name: socket_proxy
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.91.0/24
+  proxy:
+    external: true
+
+include:
+  ########################### SERVICES
+  # PREFIX udms = Ultimate Docker Media Server
+  # HOSTNAME=udms - defined in .env
+
+  # CORE
+  #- compose/$HOSTNAME/socket-proxy.yml 
+  - compose/socket-proxy.yml
+
+secrets:
+  cf_api_token:
+    file: ./cf_api_token.txt
+
+#volumes:
+#  - /run/dbus:/run/dbus:ro
+
+services:
+
+  wazuh.agent:
+    image: wazuh/wazuh-agent:4.14.1
+    restart: always
+    hostname: homeassistant-agent
+    volumes:
+      - /opt/wazuh-config-mount/ossec.conf:/var/ossec/etc/ossec.conf:ro
+      #- ./config/agent/ossec.conf:/var/ossec/etc/ossec.conf  # Remove if using env vars only
+
+  nebula-sync:
+    image: ghcr.io/lovelaze/nebula-sync:latest
+    container_name: nebula-sync
+    environment:
+      - PRIMARY=http://pi.hole|i_ES1sdE
+      - REPLICAS=http://raspberrypi|i_ES1sdE
+      - SYNC_CONFIG_DNS_EXCLUDE=upstreams,interface
+      - FULL_SYNC=false
+      - RUN_GRAVITY=false
+      - CRON=*/30 * * * *        # runs every 30 minutes
+      - SYNC_CONFIG_DNS=true
+      - SYNC_CONFIG_DHCP=false
+      - SYNC_CONFIG_NTP=false
+      - SYNC_CONFIG_RESOLVER=false
+      - SYNC_CONFIG_DATABASE=false
+      - SYNC_GRAVITY_AD_LIST=true
+      - SYNC_GRAVITY_AD_LIST_BY_GROUP=true
+      - SYNC_GRAVITY_DOMAIN_LIST=true
+      - SYNC_GRAVITY_DOMAIN_LIST_BY_GROUP=true
+      - SYNC_GRAVITY_CLIENT=false
+      - SYNC_GRAVITY_CLIENT_BY_GROUP=false
+      - CLIENT_SKIP_TLS_VERIFICATION=true
+    restart: unless-stopped
+
+  # orb-docker:
+  #   image: orbforge/orb:latest
+  #   container_name: orb-sensor # Optional: Give the container a specific name
+  #   network_mode: host # Optional: alternatively you can use 'bridge' mode and map ports :7443 and :5353
+  #   volumes:
+  #     - orb-data:/root/.config/orb # Persists Orb configuration
+  #   # Optional: Limit resources if needed
+  #   # deploy:
+  #   #   resources:
+  #   #     limits:
+  #   #       memory: 512m
+  #   restart: always # Ensures Orb restarts if it stops or on system reboot
+  #   labels:
+  #     - 'com.centurylinklabs.watchtower.enable=true' # Enable auto-updates with Watchtower
+  #     - 'com.centurylinklabs.watchtower.scope=orb' # Scope for Watchtower to monitor
+
+
+
+  # # Optional: Watchtower automatically updates the Orb image when a new version is released
+#  watchtower:
+#    image: containrrr/watchtower
+#    container_name: watchtower
+#    restart: unless-stopped
+#    volumes:
+#      - /var/run/docker.sock:/var/run/docker.sock # Required to monitor other containers
+#    command: --label-enable --scope orb --interval 3600 # Check for updates every hour (3600s)
+
+#  whoami:
+#    image: "traefik/whoami"
+#    container_name: "simple-service"
+#    ports:
+#      - 8081:80
+#    networks:
+#      - proxy
+
+  # archivebox:
+  #   image: archivebox/archivebox:dev
+  #   container_name: archivebox
+  #   ports:
+  #     - 8000:8000
+  #   environment:
+  #     # add any ArchiveBox config options you want here
+  #     - ALLOWED_HOSTS=*
+  #     - ADMIN_USERNAME=admin
+  #     - ADMIN_PASSWORD=weewoo
+  #     - MEDIA_MAX_SIZE=750m
+  #     - PUBLIC_INDEX=True
+  #     - PUBLIC_SNAPSHOTS=True
+  #     - PUBLIC_ADD_VIEW=False
+  #   volumes:
+  #     - /opt/archivebox/data:/data/
+  #   networks:
+  #     - proxy
+
+  # changedetection:
+  #   # Name of the service/container being defined.
+  #   image: lscr.io/linuxserver/changedetection.io:latest # Docker image to use for this service.
+  #   container_name: changedetection # Assigns a specific name to the container instance.
+  #   environment:
+  #     - PUID=1000 # User ID for the process inside the container.
+  #     - PGID=1000 # Group ID for the process inside the container.
+  #     - TZ=America/Chicago # Timezone setting for the container.
+  #     - BASE_URL= # Optional: If provided, it might be used to configure the base URL.
+  #   volumes:
+  #     - /data/changedetection/config:/config # Mounts a host directory to a directory inside the container.
+  #   ports:
+  #     - 5000:5000 # Maps port 5000 from the host to port 5000 in the container.
+  #   restart: unless-stopped # Defines the restart policy for the container.
+  #   networks:
+  #     - proxy
+
+  homeassistant:
+    container_name: homeassistant
+    image: "ghcr.io/home-assistant/home-assistant:stable"
+    volumes:
+      - /opt/homeassistant/config:/config
+      - /etc/localtime:/etc/localtime:ro
+      - /run/dbus:/run/dbus:ro
+    restart: unless-stopped
+    privileged: true
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    devices:
+      - /dev/ttyUSB0:/dev/ttyUSB0
+
+    environment:
+      - TZ=America/Chicago
+    network_mode: host
+    # ports:
+    #   - "8123:8123"
+    # networks:
+    #   - proxy
+
+
+
+
+  portainer:
+    container_name: portainer
+    image: portainer/portainer-ce:sts
+    restart: always
+    ports:
+
+      - "9000:9000/tcp"
+    environment:
+      - TZ=America/Chicago
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /opt/portainer:/data
+    networks:
+      - proxy
+
+  mosquitto:
+    image: eclipse-mosquitto
+    hostname: mosquitto
+    container_name: mosquitto
+    restart: unless-stopped
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+      - /opt/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - /opt/mosquitto/mosquitto.passwd:/mosquitto/config/mosquitto.passwd
+
+  # Zigbee2mqtt
+  zigbee2mqtt:
+    container_name: zigbee2mqtt
+    image: koenkk/zigbee2mqtt
+    restart: unless-stopped
+    volumes:
+      - /opt/zigbee2mqtt/data:/app/data
+      - /run/udev:/run/udev:ro
+    user: "0:0"
+    ports:
+      # Frontend port
+      - 8080:8080
+    environment:
+      - TZ=America/Chicago
+    devices:
+      # Make sure this matched your adapter location
+      - /dev/serial/by-id/usb-Nabu_Casa_SkyConnect_v1.0_a25fdfe1668dec11905669e883c5466d-if00-port0:/dev/ttyUSB0
+
+#      - /dev/ttyUSB0:/dev/ttyUSB0
+      #- /dev/ttyUSB0:/dev/ttyACM0
+      #- /dev/serial/by-id/usb-Texas_Instruments_TI_CC2531_USB_CDC___0X00124B0018ED3DDF-if00:/dev/ttyACM0
+      #- /dev/serial/by-id/usb-Nabu_Casa_SkyConnect_v1.0_a25fdfe1668dec11905669e883c5466d-if00-port0:/dev/ttyACM0
+    networks:
+      - proxy
+
+  govee2mqtt:
+    image: ghcr.io/wez/govee2mqtt:latest
+    container_name: govee2mqtt
+    restart: unless-stopped
+    env_file:
+      - /opt/govee2mqtt/.env
+    # Host networking is required
+    network_mode: host
+
+  duplicati:
+    image: lscr.io/linuxserver/duplicati:latest
+    container_name: duplicati
+    environment:
+      - PUID=1000
+      - PGID=1001
+      - TZ=America/Chicago
+      - CLI_ARGS= #optional
+      - DUPLICATI__WEBSERVICE_PASSWORD=power2
+    volumes:
+      - /opt/duplicati/appdata/config:/config
+      - /opt:/source
+    ports:
+      - 8200:8200
+    restart: unless-stopped
+    networks:
+      - proxy
+
+#  esphome:
+#    container_name: esphome
+#    image: esphome/esphome
+#    volumes:
+#      - /opt/esphome/config:/config
+#      - /etc/localtime:/etc/localtime:ro
+#    restart: always
+#    privileged: true
+#    network_mode: host
+
+  dozzle:
+    image: amir20/dozzle:latest
+    container_name: dozzle
+    restart: unless-stopped
+    networks:
+      - default
+#    environment:
+      #- DOZZLE_REMOTE_AGENT=192.168.50.117:7007
+      #- DOZZLE_LEVEL: info
+      #- DOZZLE_TAILSIZE: 300
+      #- DOZZLE_FILTER: "status=running"
+      # DOZZLE_FILTER: "label=log_me" # limits logs displayed to containers with this label
+      # DOCKER_HOST: tcp://socket-proxy:2375
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    ports:
+      - 8083:8080
+
+  atlas:
+    image: keinstien/atlas:latest
+    container_name: atlas
+    network_mode: host
+    cap_add:
+      - NET_RAW
+      - NET_ADMIN
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - ATLAS_UI_PORT=8888 # Change if you want a different UI port
+      - ATLAS_API_PORT=8889 # Change if you want a different API port
+    restart: unless-stopped
+
+  # portainer-agent:
+  #   container_name: portainer-agent
+  #   image: portainer/agent
+  #   ports:
+  #     - "9002:9001"
+  #   volumes:
+  #     # Mount the host's Docker socket into the container
+  #     - /var/run/docker.sock:/var/run/docker.sock
+  #     # Mount the host's Docker volumes into the container
+  #     - /var/lib/docker/volumes:/var/lib/docker/volumes
+  #   depends_on:
+  #     - portainer
+  #   deploy:
+  #     resources:
+  #       limits:
+  #         cpus: '0.5'
+  #         memory: 1024M
+  #     restart_policy:
+  #       condition: unless-stopped
+  #       delay: 5s
+  #       window: 120s
+
+  pulse:
+    image: rcourtman/pulse:latest
+    container_name: pulse
+    ports:
+      - "7655:7655"
+    volumes:
+      - pulse_data:/data
+      #environment:
+      # NOTE: Env vars override UI settings. Remove env var to allow UI configuration.
+
+      # Network discovery (usually not needed - auto-scans common networks)
+      # - DISCOVERY_SUBNET=192.168.50.0/24  # Only for non-standard networks
+
+      # Ports
+      # - PORT=7655                         # Backend port (default: 7655)
+      # - FRONTEND_PORT=7655                # Frontend port (default: 7655)
+
+      # Security (all optional - runs open by default)
+      # - PULSE_AUTH_USER=admin             # Username for web UI login
+      # - PULSE_AUTH_PASS=your-password     # Plain text or bcrypt hash (auto-hashed if plain)
+      # - API_TOKEN=your-token              # Plain text or SHA3-256 hash (auto-hashed if plain)
+      # - ALLOW_UNPROTECTED_EXPORT=false    # Allow export without auth (default: false)
+
+      # Security: Plain text credentials are automatically hashed
+      # You can provide either:
+      # 1. Plain text (auto-hashed): PULSE_AUTH_PASS=mypassword
+      # 2. Pre-hashed (advanced): PULSE_AUTH_PASS='$$2a$$12$$...'
+      #    Note: Escape $ as $$ in docker-compose.yml for pre-hashed values
+
+      # Performance
+      # - CONNECTION_TIMEOUT=10             # Connection timeout in seconds (default: 10)
+
+      # CORS & logging
+      # - ALLOWED_ORIGINS=https://app.example.com  # CORS origins (default: none, same-origin only)
+      # - LOG_LEVEL=info                    # Log level: debug/info/warn/error (default: info)
+    restart: unless-stopped
+
+volumes:
+#  orb-data: # Creates a named volume for persistent data
+  pulse_data:

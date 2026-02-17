@@ -1,0 +1,188 @@
+
+######################### NETWORKS  
+## set trusted docker internal network
+#networks:
+#  default:
+#      ipam:  
+#        config: 
+#         - subnet: 172.10.0.0/24
+
+########################### NETWORKS
+networks:
+  default:
+    driver: bridge
+  socket_proxy:
+    name: socket_proxy
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.91.0/24
+ 
+include:
+  ########################### SERVICES
+  # PREFIX udms = Ultimate Docker Media Server
+  # HOSTNAME=udms - defined in .env
+ 
+
+
+services:
+  homeassistant:
+    container_name: homeassistant
+    image: "ghcr.io/home-assistant/home-assistant:stable"
+    volumes:
+      - /opt/homeassistant/config:/config
+      - /etc/localtime:/etc/localtime:ro
+    restart: unless-stopped
+    privileged: true
+    network_mode: host
+
+    
+#    ports: 
+#      - "8123/8123"
+    
+#    ports:
+#      - "8123:8123/tcp"
+      
+#    network_mode: bridge
+    # was host
+      
+  portainer:
+    container_name: portainer
+    image: portainer/portainer-ce:sts
+    restart: always
+    ports:
+      - "9000:9000/tcp"
+    environment:
+      - TZ=America/Chicago
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /opt/portainer:/data
+    
+#  node-red:
+#    image: nodered/node-red:latest
+#    restart: unless-stopped
+#    container_name: node-red
+#    environment:
+#      - TZ=America/Chicago
+#    ports:
+#      - "1880:1880"
+#    volumes:
+#      - /opt/nodered/data:/data
+
+  mosquitto:
+    image: eclipse-mosquitto
+    hostname: mosquitto
+    container_name: mosquitto
+    restart: unless-stopped
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+      - /opt/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf 
+      - /opt/mosquitto/mosquitto.passwd:/mosquitto/config/mosquitto.passwd
+
+
+# Zigbee2mqtt
+  zigbee2mqtt:
+    container_name: zigbee2mqtt
+    image: koenkk/zigbee2mqtt
+    restart: unless-stopped
+    volumes:
+        - /opt/zigbee2mqtt/data:/app/data
+        - /run/udev:/run/udev:ro
+    ports:
+        # Frontend port
+        - 8080:8080
+    environment:
+        - TZ=America/Chicago
+    devices:
+        # Make sure this matched your adapter location
+        - /dev/ttyUSB0:/dev/ttyACM0
+        #- /dev/serial/by-id/usb-Texas_Instruments_TI_CC2531_USB_CDC___0X00124B0018ED3DDF-if00:/dev/ttyACM0
+        #- /dev/serial/by-id/usb-Nabu_Casa_SkyConnect_v1.0_a25fdfe1668dec11905669e883c5466d-if00-port0:/dev/ttyACM0
+            
+
+#            Visual Studio code editor
+#  vscode:
+#    container_name: vscode
+#    command: code-server --auth none
+##    command: /source --auth none --disable-telemetry 
+#    image: linuxserver/code-server:latest
+#    restart: unless-stopped
+#    network_mode: host
+#    ports:
+#      - "8443:8443"
+#    environment:
+##      - auth:none
+##      - PUID=1011
+##      - PGID=911
+#      - TZ=America/Chicago
+##      - PASSWORD="beer"
+##        - PROXY_DOMAIN=
+##        - SUDO_PASSWORD=xxxx
+#      - HOMEASSISTANT_URL=http://192.168.50.253:8123
+#      - HOMEASSISTANT_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIyOWEyNDNkZjUwODQ0MmM1OTE0NzU0MGNiMGVhNGYzYyIsImlhdCI6MTcyMjU1NjEzOCwiZXhwIjoyMDM3OTE2MTM4fQ.VcmehyLFSiKBs5Km-ff3IuGiFWy84kMviSoIlQrciVo
+##      - DOCKER_MODS=stecky/mods:code-server-home-assistant
+#      - DOCKER_MODS=linuxserver/mods:code-server-python3|stecky/mods:code-server-home-assistant
+#    volumes:
+#      - "/opt/vscode/config:/config"
+#      - "/opt/homeassistant/config:/ha_config"
+##      - /etc/localtime:/etc/localtime:ro 
+
+  pv2mqtt:
+    image: ghcr.io/wez/govee2mqtt:latest
+    container_name: govee2mqtt
+    restart: unless-stopped
+    env_file:
+      - /opt/govee2mqtt/.env
+    # Host networking is required
+    network_mode: host
+     
+
+  duplicati:
+    image: lscr.io/linuxserver/duplicati:latest
+    container_name: duplicati
+    environment:
+      - PUID=1000
+      - PGID=1001
+      - TZ=Etc/UTC
+      - CLI_ARGS= #optional
+    volumes:
+      - /opt/duplicati/appdata/config:/config
+      - /opt:/source
+    ports:
+      - 8200:8200
+    restart: unless-stopped
+
+#  samba:
+#    container_name: samba
+#    image: samba
+#    restart: unless-stopped
+#    volumes:
+#      - /opt/homeassistant:/mount
+#    ports:
+#      - 139:139
+#      - 445:445
+ 
+ 
+ 
+ #### old below
+#  vscode:
+#    image: vscode
+#    hostname: vscode
+#    container_name: vscode
+#    restart: unless-stopped
+#    ports:
+#      - "8443:8443"
+#    volumes:
+#    - /opt/vscode:/config
+#    - /opt/homeassistant/config:/config/workspace
+#        
+#docker run --name vscode --restart unless-stopped -p 8443:8443 -itd 
+#-v /vscode:/config 
+#-v /path_to_hass_config_folder:/config/workspace 
+#-e ‘TZ=Australia/Adelaide’ -e PASSWORD=xxx -e SUDO_PASSWORD=xxx linuxserver/code-server
+#
+
+
+  # CORE         
